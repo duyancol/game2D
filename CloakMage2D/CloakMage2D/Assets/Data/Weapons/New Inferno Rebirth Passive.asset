@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 617956547793e384089131e6667db85c, type: 3}
+  m_Name: New Inferno Rebirth Passive
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 0
+  skillIcon: {fileID: -4534640055884733963, guid: d2477f75e70ad204b86181f1b082a2f6, type: 3}
+  cooldown: 60
+  atkPercent: 0.05
+  smptPercent: 0.05
+  critPercent: 0.05
+  triggerHpPercent: 0.3
+  eggDuration: 5
+  reviveHpPercent: 0.7
+  eggVFXPrefab: {fileID: 2499427156551939823, guid: cb2754fbaa0f0cd4a94fd3f3979f1791, type: 3}
+  cooldown: 60

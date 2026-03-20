@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: ae460383134b20240abd09d1e41b21f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4893842877217872331
+    second: groud_decor_0
+  - first:
+      213: -7756237382735726306
+    second: groud_decor_1
+  - first:
+      213: 5651123110413291095
+    second: groud_decor_2
+  - first:
+      213: -796927652776113697
+    second: groud_decor_3
+  - first:
+      213: 1029371900212472544
+    second: groud_decor_4
+  - first:
+      213: 3784549427344252421
+    second: groud_decor_5
+  - first:
+      213: -533570251148652687
+    second: groud_decor_6
+  - first:
+      213: -7643950080765637876
+    second: groud_decor_7
+  - first:
+      213: 8941226066523196383
+    second: groud_decor_8
+  - first:
+      213: -940927366656691643
+    second: groud_decor_9
+  - first:
+      213: -492427067415670477
+    second: groud_decor_10
+  - first:
+      213: 2714388692233844724
+    second: groud_decor_11
+  - first:
+      213: -6040640595525299379
+    second: groud_decor_12
+  - first:
+      213: -5103627996827699255
+    second: groud_decor_13
+  - first:
+      213: 2525036675192801724
+    second: groud_decor_14
+  - first:
+      213: -8524523758356431899
+    second: groud_decor_15
+  - first:
+      213: 2670213351798874343
+    second: groud_decor_16
+  - first:
+      213: 4910117660752018440
+    second: groud_decor_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: groud_decor_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 714
+        width: 269
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5366ad4f4d3951cb0800000000000000
+      internalID: -4893842877217872331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 729
+        width: 483
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e197e68d13f4c5490800000000000000
+      internalID: -7756237382735726306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 709
+        width: 349
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e4f2a2782dc6e40800000000000000
+      internalID: 5651123110413291095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_3
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 705
+        width: 347
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd90898a58eb0f4f0800000000000000
+      internalID: -796927652776113697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 513
+        width: 419
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaeee51a40194e00800000000000000
+      internalID: 1029371900212472544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 505
+        width: 413
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e13cb17ab658430800000000000000
+      internalID: 3784549427344252421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_6
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 438
+        width: 596
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f819dfea06898f0800000000000000
+      internalID: -533570251148652687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 249
+        width: 637
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b4523a6eb3be590800000000000000
+      internalID: -7643950080765637876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 281
+        width: 245
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb049f1cbd951c70800000000000000
+      internalID: 8941226066523196383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 267
+        width: 351
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542fbf69b8721f2f0800000000000000
+      internalID: -940927366656691643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_10
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 327
+        width: 246
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331d6e0f03c8a29f0800000000000000
+      internalID: -492427067415670477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f77fe652227ba520800000000000000
+      internalID: 2714388692233844724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 395
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4319ef02655b2ca0800000000000000
+      internalID: -6040640595525299379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 215
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7b85780654c29b0800000000000000
+      internalID: -5103627996827699255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 131
+        width: 214
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb943b55a7bba0320800000000000000
+      internalID: 2525036675192801724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_15
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 17
+        width: 290
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb79cf7ecec2b980800000000000000
+      internalID: -8524523758356431899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 262
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e02a7465e08e0520800000000000000
+      internalID: 2670213351798874343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud_decor_17
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1
+        width: 148
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cfe7e5ffd342440800000000000000
+      internalID: 4910117660752018440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 31a2450ab8753e3409b9aba77d73a851
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      groud_decor_0: -4893842877217872331
+      groud_decor_1: -7756237382735726306
+      groud_decor_10: -492427067415670477
+      groud_decor_11: 2714388692233844724
+      groud_decor_12: -6040640595525299379
+      groud_decor_13: -5103627996827699255
+      groud_decor_14: 2525036675192801724
+      groud_decor_15: -8524523758356431899
+      groud_decor_16: 2670213351798874343
+      groud_decor_17: 4910117660752018440
+      groud_decor_2: 5651123110413291095
+      groud_decor_3: -796927652776113697
+      groud_decor_4: 1029371900212472544
+      groud_decor_5: 3784549427344252421
+      groud_decor_6: -533570251148652687
+      groud_decor_7: -7643950080765637876
+      groud_decor_8: 8941226066523196383
+      groud_decor_9: -940927366656691643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

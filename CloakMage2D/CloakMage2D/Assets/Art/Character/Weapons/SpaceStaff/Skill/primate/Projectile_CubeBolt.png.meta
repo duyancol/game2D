@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 0cf01a11c0047ba4ebf5a04f828c75cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5593319440092018020
+    second: Projectile_CubeBolt_0
+  - first:
+      213: -6982620672700956506
+    second: Projectile_CubeBolt_1
+  - first:
+      213: 8148995904675372323
+    second: Projectile_CubeBolt_2
+  - first:
+      213: 2932937173949407571
+    second: Projectile_CubeBolt_3
+  - first:
+      213: 8790132336563039853
+    second: Projectile_CubeBolt_4
+  - first:
+      213: 2432937207366277536
+    second: Projectile_CubeBolt_5
+  - first:
+      213: 3350369970797931488
+    second: Projectile_CubeBolt_6
+  - first:
+      213: -1048128288522799935
+    second: Projectile_CubeBolt_7
+  - first:
+      213: -7825408520384129002
+    second: Projectile_CubeBolt_8
+  - first:
+      213: 599634223396732413
+    second: Projectile_CubeBolt_9
+  - first:
+      213: -3632641227498451552
+    second: Projectile_CubeBolt_10
+  - first:
+      213: -4990335787424330958
+    second: Projectile_CubeBolt_11
+  - first:
+      213: 6322815029786604431
+    second: Projectile_CubeBolt_12
+  - first:
+      213: -4980642988396426567
+    second: Projectile_CubeBolt_13
+  - first:
+      213: 2584530890613816448
+    second: Projectile_CubeBolt_14
+  - first:
+      213: -1730521197964928642
+    second: Projectile_CubeBolt_15
+  - first:
+      213: 2936910910011796138
+    second: Projectile_CubeBolt_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 1316
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a470a9a998062b0800000000000000
+      internalID: -5593319440092018020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 337
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a04c526e7fb81f90800000000000000
+      internalID: -6982620672700956506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 85
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dd94e999c071170800000000000000
+      internalID: 8148995904675372323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 86
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351eac102d2e3b820800000000000000
+      internalID: 2932937173949407571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 85
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ea389b9c2dcf970800000000000000
+      internalID: 8790132336563039853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 79
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9d5e5ff7783c120800000000000000
+      internalID: 2432937207366277536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_6
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 78
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebeb87ccb7ee7e20800000000000000
+      internalID: 3350369970797931488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 83
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c47f83ffdc4471f0800000000000000
+      internalID: -1048128288522799935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 85
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61850385960966390800000000000000
+      internalID: -7825408520384129002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_9
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 81
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdbab03624525800800000000000000
+      internalID: 599634223396732413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_10
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 86
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad0486dc04469dc0800000000000000
+      internalID: -3632641227498451552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_11
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 78
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b47a09a04cebab0800000000000000
+      internalID: -4990335787424330958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_12
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 85
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f837ee615c62fb750800000000000000
+      internalID: 6322815029786604431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba4793379331eab0800000000000000
+      internalID: -4980642988396426567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 77
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c7f0ec6291ed320800000000000000
+      internalID: 2584530890613816448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_15
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79540f9324fbf7e0800000000000000
+      internalID: -1730521197964928642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_CubeBolt_16
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 30
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaae83889e002c820800000000000000
+      internalID: 2936910910011796138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Projectile_CubeBolt_0: -5593319440092018020
+      Projectile_CubeBolt_1: -6982620672700956506
+      Projectile_CubeBolt_10: -3632641227498451552
+      Projectile_CubeBolt_11: -4990335787424330958
+      Projectile_CubeBolt_12: 6322815029786604431
+      Projectile_CubeBolt_13: -4980642988396426567
+      Projectile_CubeBolt_14: 2584530890613816448
+      Projectile_CubeBolt_15: -1730521197964928642
+      Projectile_CubeBolt_16: 2936910910011796138
+      Projectile_CubeBolt_2: 8148995904675372323
+      Projectile_CubeBolt_3: 2932937173949407571
+      Projectile_CubeBolt_4: 8790132336563039853
+      Projectile_CubeBolt_5: 2432937207366277536
+      Projectile_CubeBolt_6: 3350369970797931488
+      Projectile_CubeBolt_7: -1048128288522799935
+      Projectile_CubeBolt_8: -7825408520384129002
+      Projectile_CubeBolt_9: 599634223396732413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

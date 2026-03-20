@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_android_client_id" translatable="false">173231895009-ktgn38b5l7gndlsil741mumjlo9np28e.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">173231895009-8hq2821ha5aviccme6lm3a87omveeogd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">173231895009</string>
+    <string name="google_api_key" translatable="false">AIzaSyC5UTmYQsdB2OzLKUNbBaeR79_52cG-mKk</string>
+    <string name="google_app_id" translatable="false">1:173231895009:android:0ac3629085ef20d8c6a2a0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC5UTmYQsdB2OzLKUNbBaeR79_52cG-mKk</string>
+    <string name="google_storage_bucket" translatable="false">myunitygame-19c59.firebasestorage.app</string>
+    <string name="project_id" translatable="false">myunitygame-19c59</string>
+</resources>

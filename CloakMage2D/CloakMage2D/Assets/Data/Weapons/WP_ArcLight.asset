@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb4435d334cbcf347badd8b4b36e1d29, type: 3}
+  m_Name: WP_ArcLight
+  m_EditorClassIdentifier: 
+  weaponId: eqip_light
+  weaponName: "Cung \xC1nh S\xE1ng"
+  uiIcon: {fileID: 21300000, guid: d74234f2250b6be40b97965e2ed1ca49, type: 3}
+  weaponSprite: {fileID: 21300000, guid: d74234f2250b6be40b97965e2ed1ca49, type: 3}
+  localPos: {x: 4, y: 0, z: 0}
+  localRotZ: -30
+  localScale: {x: 0.8, y: 0.8, z: 0}
+  auraPrefab: {fileID: 1911468635879801349, guid: 72234f0e71f70834884dd914c4cf4caf, type: 3}
+  auraLocalPos: {x: 0, y: 0, z: 0}
+  auraLocalRot: {x: 0, y: 0, z: 60}
+  auraLocalScale: {x: 1, y: 1, z: 1}
+  armPrefab: {fileID: 0}
+  bonus:
+    addMaxHP: 0
+    addAtk: 680
+    addSmpt: 0
+    addCritChance: 0.12
+    addCritDamage: 0.15
+    addDef: 0
+    addMdef: 0
+  level: 100
+  enhanceLevel: 10
+  exp: 0
+  ascend: 4
+  primarySkill: {fileID: 11400000, guid: 08311bff5c54192418ab0b7be68a8dc9, type: 2}
+  secondarySkill: {fileID: 11400000, guid: df04fcfb579485749bcb0870a239c313, type: 2}
+  ultimateSkill: {fileID: 11400000, guid: 3ae6e5b8bea75c74d90b53f29612d28c, type: 2}
+  passiveSkill: {fileID: 11400000, guid: 00b15a0843a76d040ad9803e6353e3c0, type: 2}

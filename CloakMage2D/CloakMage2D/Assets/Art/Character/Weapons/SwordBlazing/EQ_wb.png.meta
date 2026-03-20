@@ -1,0 +1,3975 @@
+fileFormatVersion: 2
+guid: 8a07d0fcf854e7e479d7dc48d3dd1151
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6618741496815678808
+    second: EQ_wb_0
+  - first:
+      213: -440407894499401783
+    second: EQ_wb_1
+  - first:
+      213: -6389960059928277244
+    second: EQ_wb_2
+  - first:
+      213: -68376279266718179
+    second: EQ_wb_3
+  - first:
+      213: -64137439964691263
+    second: EQ_wb_4
+  - first:
+      213: -6187085594697656927
+    second: EQ_wb_5
+  - first:
+      213: 920988506074890678
+    second: EQ_wb_6
+  - first:
+      213: 143803668893051483
+    second: EQ_wb_7
+  - first:
+      213: -5489253051183910678
+    second: EQ_wb_8
+  - first:
+      213: -4780257805770168050
+    second: EQ_wb_9
+  - first:
+      213: -9075479314568365605
+    second: EQ_wb_10
+  - first:
+      213: 1147949056031701159
+    second: EQ_wb_11
+  - first:
+      213: 462368351485151389
+    second: EQ_wb_12
+  - first:
+      213: -2479870172866400123
+    second: EQ_wb_13
+  - first:
+      213: -9062156776196679135
+    second: EQ_wb_14
+  - first:
+      213: -1859709248360155062
+    second: EQ_wb_15
+  - first:
+      213: -6683698508545544843
+    second: EQ_wb_16
+  - first:
+      213: -4774823856759559440
+    second: EQ_wb_17
+  - first:
+      213: 2843686123185415630
+    second: EQ_wb_18
+  - first:
+      213: -4436727504065015523
+    second: EQ_wb_19
+  - first:
+      213: 3505560844720609835
+    second: EQ_wb_20
+  - first:
+      213: -1320636323107017379
+    second: EQ_wb_21
+  - first:
+      213: 6790785835255223659
+    second: EQ_wb_22
+  - first:
+      213: 2687961632353733166
+    second: EQ_wb_23
+  - first:
+      213: -601402108364278564
+    second: EQ_wb_24
+  - first:
+      213: 2927764895098042751
+    second: EQ_wb_25
+  - first:
+      213: -4959066015478170961
+    second: EQ_wb_26
+  - first:
+      213: 3957392762874271121
+    second: EQ_wb_27
+  - first:
+      213: -8042952275530289993
+    second: EQ_wb_28
+  - first:
+      213: 676812231415238275
+    second: EQ_wb_29
+  - first:
+      213: -2225150167191658414
+    second: EQ_wb_30
+  - first:
+      213: 9010751244878407754
+    second: EQ_wb_31
+  - first:
+      213: -7276355533792079178
+    second: EQ_wb_32
+  - first:
+      213: 3488490832130634980
+    second: EQ_wb_33
+  - first:
+      213: 2438954927516348626
+    second: EQ_wb_34
+  - first:
+      213: 267794003429380904
+    second: EQ_wb_35
+  - first:
+      213: 4833887340380537356
+    second: EQ_wb_36
+  - first:
+      213: -5262394205086168168
+    second: EQ_wb_37
+  - first:
+      213: -253251142261547626
+    second: EQ_wb_38
+  - first:
+      213: -8562624158598495866
+    second: EQ_wb_39
+  - first:
+      213: -1595365464995439391
+    second: EQ_wb_40
+  - first:
+      213: -3272601272726922064
+    second: EQ_wb_41
+  - first:
+      213: -7371269101189748156
+    second: EQ_wb_42
+  - first:
+      213: -7475903065926832276
+    second: EQ_wb_43
+  - first:
+      213: -3635103164999393846
+    second: EQ_wb_44
+  - first:
+      213: 3142919124988693690
+    second: EQ_wb_45
+  - first:
+      213: 5554201744666134044
+    second: EQ_wb_46
+  - first:
+      213: -7372085139339920142
+    second: EQ_wb_47
+  - first:
+      213: 4019850377183886057
+    second: EQ_wb_48
+  - first:
+      213: -2980896533901065559
+    second: EQ_wb_49
+  - first:
+      213: 4329729028112840812
+    second: EQ_wb_50
+  - first:
+      213: 365357898436248866
+    second: EQ_wb_51
+  - first:
+      213: 4727847951881091242
+    second: EQ_wb_52
+  - first:
+      213: -9095922376564269339
+    second: EQ_wb_53
+  - first:
+      213: -6634002540455836869
+    second: EQ_wb_54
+  - first:
+      213: 2308507136156641142
+    second: EQ_wb_55
+  - first:
+      213: -7235104499225843930
+    second: EQ_wb_56
+  - first:
+      213: -5228445323711375688
+    second: EQ_wb_57
+  - first:
+      213: -3592535659269164753
+    second: EQ_wb_58
+  - first:
+      213: 1766699085001832124
+    second: EQ_wb_59
+  - first:
+      213: -865220757789832048
+    second: EQ_wb_60
+  - first:
+      213: 5190294927376108245
+    second: EQ_wb_61
+  - first:
+      213: -2348336401997994587
+    second: EQ_wb_62
+  - first:
+      213: 7438382548486921514
+    second: EQ_wb_63
+  - first:
+      213: -102548448225198304
+    second: EQ_wb_64
+  - first:
+      213: -4292470556385763029
+    second: EQ_wb_65
+  - first:
+      213: -1085036801420053003
+    second: EQ_wb_66
+  - first:
+      213: -1438302160705799152
+    second: EQ_wb_67
+  - first:
+      213: 6670849889363866242
+    second: EQ_wb_68
+  - first:
+      213: 7943971767739961395
+    second: EQ_wb_69
+  - first:
+      213: -109865065130728433
+    second: EQ_wb_70
+  - first:
+      213: 4188835538956104319
+    second: EQ_wb_71
+  - first:
+      213: -5622301594684418062
+    second: EQ_wb_72
+  - first:
+      213: -4309974692425395097
+    second: EQ_wb_73
+  - first:
+      213: 339508158693872802
+    second: EQ_wb_74
+  - first:
+      213: -4662138818952611276
+    second: EQ_wb_75
+  - first:
+      213: 4764717112946344984
+    second: EQ_wb_76
+  - first:
+      213: -7572701915327932333
+    second: EQ_wb_77
+  - first:
+      213: 2949868397512144072
+    second: EQ_wb_78
+  - first:
+      213: -1786628128970126216
+    second: EQ_wb_79
+  - first:
+      213: -3485496685008478717
+    second: EQ_wb_80
+  - first:
+      213: -2708824934603452438
+    second: EQ_wb_81
+  - first:
+      213: 2044753072278447940
+    second: EQ_wb_82
+  - first:
+      213: 6309581538818748508
+    second: EQ_wb_83
+  - first:
+      213: -233803393668760576
+    second: EQ_wb_84
+  - first:
+      213: 3303789327771685049
+    second: EQ_wb_85
+  - first:
+      213: -6380471745554295007
+    second: EQ_wb_86
+  - first:
+      213: 4889348239050344414
+    second: EQ_wb_87
+  - first:
+      213: 1148345267651587826
+    second: EQ_wb_88
+  - first:
+      213: 888142291102737567
+    second: EQ_wb_89
+  - first:
+      213: -1723106596342875439
+    second: EQ_wb_90
+  - first:
+      213: -6122295857512020813
+    second: EQ_wb_91
+  - first:
+      213: 18050373668779685
+    second: EQ_wb_92
+  - first:
+      213: -8672706861978245341
+    second: EQ_wb_93
+  - first:
+      213: -8525304075603560462
+    second: EQ_wb_94
+  - first:
+      213: 4764339542561420883
+    second: EQ_wb_95
+  - first:
+      213: 3602631337247443271
+    second: EQ_wb_96
+  - first:
+      213: -1452797159686490491
+    second: EQ_wb_97
+  - first:
+      213: -6932633390396532759
+    second: EQ_wb_98
+  - first:
+      213: -5474376757103322049
+    second: EQ_wb_99
+  - first:
+      213: 1575661166016694799
+    second: EQ_wb_100
+  - first:
+      213: -9045033009070870727
+    second: EQ_wb_101
+  - first:
+      213: -8163320929204256280
+    second: EQ_wb_102
+  - first:
+      213: -1090261622356672910
+    second: EQ_wb_103
+  - first:
+      213: -514965655475320962
+    second: EQ_wb_104
+  - first:
+      213: 3424280104117753117
+    second: EQ_wb_105
+  - first:
+      213: -6260143221205562436
+    second: EQ_wb_106
+  - first:
+      213: -3463437302666743980
+    second: EQ_wb_107
+  - first:
+      213: -5286978680782754284
+    second: EQ_wb_108
+  - first:
+      213: 2306995814379803128
+    second: EQ_wb_109
+  - first:
+      213: 5520586541826801342
+    second: EQ_wb_110
+  - first:
+      213: 4974333220031854309
+    second: EQ_wb_111
+  - first:
+      213: -3006543191612497708
+    second: EQ_wb_112
+  - first:
+      213: -7998280780202867752
+    second: EQ_wb_113
+  - first:
+      213: 475565001006608448
+    second: EQ_wb_114
+  - first:
+      213: -4209112596443413709
+    second: EQ_wb_115
+  - first:
+      213: 410748220656288180
+    second: EQ_wb_116
+  - first:
+      213: -5540168842300378856
+    second: EQ_wb_117
+  - first:
+      213: 2632931515481285254
+    second: EQ_wb_118
+  - first:
+      213: 7000182572970745402
+    second: EQ_wb_119
+  - first:
+      213: 8422770118963770112
+    second: EQ_wb_120
+  - first:
+      213: 3202607545995168816
+    second: EQ_wb_121
+  - first:
+      213: 8063386398780801652
+    second: EQ_wb_122
+  - first:
+      213: 5881429472671558718
+    second: EQ_wb_123
+  - first:
+      213: 4498030400861932200
+    second: EQ_wb_124
+  - first:
+      213: -5764701625124161077
+    second: EQ_wb_125
+  - first:
+      213: -6165745356595099624
+    second: EQ_wb_126
+  - first:
+      213: 5441507595719367731
+    second: EQ_wb_127
+  - first:
+      213: -2032569935611927199
+    second: EQ_wb_128
+  - first:
+      213: -3921228878599201772
+    second: EQ_wb_129
+  - first:
+      213: -4733383098955519879
+    second: EQ_wb_130
+  - first:
+      213: -73005132884612019
+    second: EQ_wb_131
+  - first:
+      213: -3783876920180598105
+    second: EQ_wb_132
+  - first:
+      213: 835045570211635294
+    second: EQ_wb_133
+  - first:
+      213: 6786618400957440832
+    second: EQ_wb_134
+  - first:
+      213: 4813172828467426827
+    second: EQ_wb_135
+  - first:
+      213: 1798496389534826706
+    second: EQ_wb_136
+  - first:
+      213: 5266697240671429335
+    second: EQ_wb_137
+  - first:
+      213: 3395525257905794123
+    second: EQ_wb_138
+  - first:
+      213: -1515123680576525378
+    second: EQ_wb_139
+  - first:
+      213: -6379106263501426214
+    second: EQ_wb_140
+  - first:
+      213: -9174169246150463730
+    second: EQ_wb_141
+  - first:
+      213: -8499308029059739471
+    second: EQ_wb_142
+  - first:
+      213: 3172091531679925076
+    second: EQ_wb_143
+  - first:
+      213: -7215589089313915350
+    second: EQ_wb_144
+  - first:
+      213: 1346733674262344702
+    second: EQ_wb_145
+  - first:
+      213: 906512112000915332
+    second: EQ_wb_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EQ_wb_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 228
+        width: 519
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855f5d1e25e7adb50800000000000000
+      internalID: 6618741496815678808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_1
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 152
+        width: 627
+        height: 783
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd5147a5b53e9f0800000000000000
+      internalID: -440407894499401783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_2
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 915
+        width: 18
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f8a035e2d4257a0800000000000000
+      internalID: -6389960059928277244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_3
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 944
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e8e33e2241d0ff0800000000000000
+      internalID: -68376279266718179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 887
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c40a1296532c1ff0800000000000000
+      internalID: -64137439964691263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 890
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a51c15ae6e032aa0800000000000000
+      internalID: -6187085594697656927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 874
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1cfcaaa2208cc00800000000000000
+      internalID: 920988506074890678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 856
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aa4c9cca4eef100800000000000000
+      internalID: 143803668893051483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_8
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 852
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae034f9ee6142d3b0800000000000000
+      internalID: -5489253051183910678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_9
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 861
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09e7404adc19adb0800000000000000
+      internalID: -4780257805770168050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 863
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd93fb8b5ab6d0280800000000000000
+      internalID: -9075479314568365605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_11
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 856
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b30995955eef00800000000000000
+      internalID: 1147949056031701159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 852
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98c7a1e099aa6600800000000000000
+      internalID: 462368351485151389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_13
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 846
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5803639773bb59dd0800000000000000
+      internalID: -2479870172866400123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 839
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ad5e7ec60cc3280800000000000000
+      internalID: -9062156776196679135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 841
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48fbf1ba4cf036e0800000000000000
+      internalID: -1859709248360155062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_16
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 820
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57da5544e9bbe33a0800000000000000
+      internalID: -6683698508545544843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_17
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 769
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa29c8100b6cbdb0800000000000000
+      internalID: -4774823856759559440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_18
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 755
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ac29667dc67720800000000000000
+      internalID: 2843686123185415630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 734
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11dff287d39d62c0800000000000000
+      internalID: -4436727504065015523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 710
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a1718d30146a030800000000000000
+      internalID: 3505560844720609835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 714
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d6abbd2482cade0800000000000000
+      internalID: -1320636323107017379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 709
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b655420fcb7bd3e50800000000000000
+      internalID: 6790785835255223659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 703
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ac25afcde8d4520800000000000000
+      internalID: 2687961632353733166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 702
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4b6c308f367a7f0800000000000000
+      internalID: -601402108364278564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 668
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797d2ef8a281a820800000000000000
+      internalID: 2927764895098042751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 678
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa36b1bbbbdd2bb0800000000000000
+      internalID: -4959066015478170961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_27
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 670
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19592db20cb7be630800000000000000
+      internalID: 3957392762874271121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 645
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bce89fc481b16090800000000000000
+      internalID: -8042952275530289993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 638
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e05297325846900800000000000000
+      internalID: 676812231415238275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 639
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250e3a856bdae11e0800000000000000
+      internalID: -2225150167191658414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 632
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48e266248e9c0d70800000000000000
+      internalID: 9010751244878407754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_32
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 646
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b210ec9131350b90800000000000000
+      internalID: -7276355533792079178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_33
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 642
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e47a53ddeb996030800000000000000
+      internalID: 3488490832130634980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 622
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0fccd9598e8d120800000000000000
+      internalID: 2438954927516348626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_35
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 629
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823536f2a3567b300800000000000000
+      internalID: 267794003429380904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 615
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02c3afccea651340800000000000000
+      internalID: 4833887340380537356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 614
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bc3c11a5838f6b0800000000000000
+      internalID: -5262394205086168168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_38
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 619
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dd98a8d654c7cf0800000000000000
+      internalID: -253251142261547626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_39
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 602
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6810f89c1b27b2980800000000000000
+      internalID: -8562624158598495866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 584
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec550cef8f1cd9e0800000000000000
+      internalID: -1595365464995439391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 587
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcde9f3b726592d0800000000000000
+      internalID: -3272601272726922064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 585
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa5cf9ecdf3b990800000000000000
+      internalID: -7371269101189748156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 574
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f6d2445c1404890800000000000000
+      internalID: -7475903065926832276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 569
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd10585ee48d8dc0800000000000000
+      internalID: -3635103164999393846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_45
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 574
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc8bb2da44ed9b20800000000000000
+      internalID: 3142919124988693690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_46
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 575
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c160ea13f0d741d40800000000000000
+      internalID: 5554201744666134044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_47
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 579
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc35bfef9711b990800000000000000
+      internalID: -7372085139339920142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_48
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 569
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaf346be9069c730800000000000000
+      internalID: 4019850377183886057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_49
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 563
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a242a8556ab1a6d0800000000000000
+      internalID: -2980896533901065559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 558
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68fc567c99461c30800000000000000
+      internalID: 4329729028112840812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_51
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 549
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2250d28a213021500800000000000000
+      internalID: 365357898436248866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 544
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa83eebb9a0bc9140800000000000000
+      internalID: 4727847951881091242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 543
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee1c507acac4c180800000000000000
+      internalID: -9095922376564269339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_54
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 538
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33471186d94fe3a0800000000000000
+      internalID: -6634002540455836869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 515
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67722146207790020800000000000000
+      internalID: 2308507136156641142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 533
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62720da8aceb79b90800000000000000
+      internalID: -7235104499225843930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 526
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b691a8fda4d077b0800000000000000
+      internalID: -5228445323711375688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 520
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21765a1adfb42ec0800000000000000
+      internalID: -3592535659269164753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_59
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 518
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6ba8a1573948810800000000000000
+      internalID: 1766699085001832124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_60
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 517
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c84af0e4e1ef3f0800000000000000
+      internalID: -865220757789832048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 510
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dac3c1bcb1a70840800000000000000
+      internalID: 5190294927376108245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 486
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a56ac10c78096fd0800000000000000
+      internalID: -2348336401997994587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 492
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d170284817a3760800000000000000
+      internalID: 7438382548486921514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_64
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 497
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ff44bcabca39ef0800000000000000
+      internalID: -102548448225198304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_65
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 493
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21adcd75c41e64c0800000000000000
+      internalID: -4292470556385763029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_66
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 478
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5b12327cc21f0f0800000000000000
+      internalID: -1085036801420053003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_67
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 472
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c34772ecf1a0ce0800000000000000
+      internalID: -1438302160705799152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_68
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 457
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282bc7571ae939c50800000000000000
+      internalID: 6670849889363866242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_69
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 453
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3305fd9db38ae3e60800000000000000
+      internalID: 7943971767739961395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0468ab2e4ea97ef0800000000000000
+      internalID: -109865065130728433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_71
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72b202babbb12a30800000000000000
+      internalID: 4188835538956104319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_72
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 414
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f719b4ec7299f1b0800000000000000
+      internalID: -5622301594684418062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 422
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7649f0b3ad4ef24c0800000000000000
+      internalID: -4309974692425395097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_74
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 422
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a49b4d1fdc26b400800000000000000
+      internalID: 339508158693872802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_75
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 399
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a35caf171cc4fb0800000000000000
+      internalID: -4662138818952611276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814446c38fcaf1240800000000000000
+      internalID: 4764717112946344984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35855fadabb58e690800000000000000
+      internalID: -7572701915327932333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_78
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 398
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4bcdfada900f820800000000000000
+      internalID: 2949868397512144072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_79
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 392
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc303ce2f9437e0800000000000000
+      internalID: -1786628128970126216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_80
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 398
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e94406b3701afc0800000000000000
+      internalID: -3485496685008478717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 391
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef8d3ee212586ad0800000000000000
+      internalID: -2708824934603452438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_82
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 386
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447ab8ee51c606c10800000000000000
+      internalID: 2044753072278447940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 374
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5077aedaf2209750800000000000000
+      internalID: 6309581538818748508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_84
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 378
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cb71d5d0d51ccf0800000000000000
+      internalID: -233803393668760576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_85
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 349
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0de8ea3ea69dd20800000000000000
+      internalID: 3303789327771685049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 365
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127d1daa0c20477a0800000000000000
+      internalID: -6380471745554295007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_87
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 360
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed707cb81547ad340800000000000000
+      internalID: 4889348239050344414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_88
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 362
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feafddcfedbfef00800000000000000
+      internalID: 1148345267651587826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942e2b45b0535c00800000000000000
+      internalID: 888142291102737567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_90
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 341
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab9d61eab4618e0800000000000000
+      internalID: -1723106596342875439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_91
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 323
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4862bda5c390ba0800000000000000
+      internalID: -6122295857512020813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_92
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 341
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6379e18b0204000800000000000000
+      internalID: 18050373668779685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_93
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 294
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327a1ba1f0b54a780800000000000000
+      internalID: -8672706861978245341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_94
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b57bbc1900b980800000000000000
+      internalID: -8525304075603560462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_95
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 288
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35678b742955e1240800000000000000
+      internalID: 4764339542561420883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_96
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 287
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74903591d1e1ff130800000000000000
+      internalID: 3602631337247443271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_97
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586b0363ea0a6dbe0800000000000000
+      internalID: -1452797159686490491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_98
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 285
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7176f79a65acf90800000000000000
+      internalID: -6932633390396532759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 280
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c933a085b1704b0800000000000000
+      internalID: -5474376757103322049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_100
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 279
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a8dc67b7fddd510800000000000000
+      internalID: 1575661166016694799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 272
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fe5a0a666997280800000000000000
+      internalID: -9045033009070870727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_102
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 263
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c443bdde06be80800000000000000
+      internalID: -8163320929204256280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_103
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 265
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e7037b4dc9ed0f0800000000000000
+      internalID: -1090261622356672910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_104
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 265
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770ed9f6797ad8f0800000000000000
+      internalID: -514965655475320962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_105
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d155061bc9c758f20800000000000000
+      internalID: 3424280104117753117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_106
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb09f078e08f19a0800000000000000
+      internalID: -6260143221205562436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_107
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 246
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f26b09f166fefc0800000000000000
+      internalID: -3463437302666743980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_108
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 236
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e61e4c6e0e0a6b0800000000000000
+      internalID: -5286978680782754284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_109
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 250
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1db6e5878140020800000000000000
+      internalID: 2306995814379803128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe7361e5301d9c40800000000000000
+      internalID: 5520586541826801342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_111
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e67c6e55b1680540800000000000000
+      internalID: 4974333220031854309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 203
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0611685ec9646d0800000000000000
+      internalID: -3006543191612497708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_113
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 215
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d38c22d106600190800000000000000
+      internalID: -7998280780202867752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_114
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 211
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0407b9849db899600800000000000000
+      internalID: 475565001006608448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_115
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 208
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334e55f46a3695c0800000000000000
+      internalID: -4209112596443413709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_116
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 208
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b18758945543b500800000000000000
+      internalID: 410748220656288180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_117
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 211
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811bffe7acd5d13b0800000000000000
+      internalID: -5540168842300378856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_118
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 186
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6826132734d0a8420800000000000000
+      internalID: 2632931515481285254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_119
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 194
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e1dc826f4a52160800000000000000
+      internalID: 7000182572970745402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_120
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0033c952cc0b3e470800000000000000
+      internalID: 8422770118963770112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_121
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 185
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c070e4892f17c20800000000000000
+      internalID: 3202607545995168816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 183
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472cb024537e6ef60800000000000000
+      internalID: 8063386398780801652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_123
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 179
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ce91ab1f80f9150800000000000000
+      internalID: 5881429472671558718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_124
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 175
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa884861d63c6e30800000000000000
+      internalID: 4498030400861932200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc97b562a6aafffa0800000000000000
+      internalID: -5764701625124161077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_126
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81882a4044fde6aa0800000000000000
+      internalID: -6165745356595099624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_127
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 119
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c5175f35e148b40800000000000000
+      internalID: 5441507595719367731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_128
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 111
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16566be996cdac3e0800000000000000
+      internalID: -2032569935611927199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_129
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 127
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c57184c1ff499c0800000000000000
+      internalID: -3921228878599201772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_130
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 126
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9782be86625af4eb0800000000000000
+      internalID: -4733383098955519879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_131
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 127
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ce1abe732acfef0800000000000000
+      internalID: -73005132884612019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_132
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 114
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa16da2df7fc7bc0800000000000000
+      internalID: -3783876920180598105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_133
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 106
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506ab7958da69b00800000000000000
+      internalID: 835045570211635294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_134
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 95
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043a2378a79ee2e50800000000000000
+      internalID: 6786618400957440832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_135
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06fc5baf23dbc240800000000000000
+      internalID: 4813172828467426827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_136
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 104
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0cb0cffea85f810800000000000000
+      internalID: 1798496389534826706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_137
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d220c97c31171940800000000000000
+      internalID: 5266697240671429335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_138
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 87
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c67575b345f1f20800000000000000
+      internalID: 3395525257905794123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_139
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 86
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb247c3a0339fae0800000000000000
+      internalID: -1515123680576525378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_140
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1378bb6acd877a0800000000000000
+      internalID: -6379106263501426214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_141
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f63ed6dadcea080800000000000000
+      internalID: -9174169246150463730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_142
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0d44bf0646c0a80800000000000000
+      internalID: -8499308029059739471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_143
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4538ecc0178850c20800000000000000
+      internalID: 3172091531679925076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_144
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e724ef3f31ddb90800000000000000
+      internalID: -7215589089313915350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_145
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3b675342f80b210800000000000000
+      internalID: 1346733674262344702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_146
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487576486f3949c00800000000000000
+      internalID: 906512112000915332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQ_wb_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bd082d31cfd7241a6d18bb03edd496
+      internalID: 1721652732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 443f1c09731a04c4fa616f84d5f420c1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EQ_wb_0: 6618741496815678808
+      EQ_wb_1: -440407894499401783
+      EQ_wb_10: -9075479314568365605
+      EQ_wb_100: 1575661166016694799
+      EQ_wb_101: -9045033009070870727
+      EQ_wb_102: -8163320929204256280
+      EQ_wb_103: -1090261622356672910
+      EQ_wb_104: -514965655475320962
+      EQ_wb_105: 3424280104117753117
+      EQ_wb_106: -6260143221205562436
+      EQ_wb_107: -3463437302666743980
+      EQ_wb_108: -5286978680782754284
+      EQ_wb_109: 2306995814379803128
+      EQ_wb_11: 1147949056031701159
+      EQ_wb_110: 5520586541826801342
+      EQ_wb_111: 4974333220031854309
+      EQ_wb_112: -3006543191612497708
+      EQ_wb_113: -7998280780202867752
+      EQ_wb_114: 475565001006608448
+      EQ_wb_115: -4209112596443413709
+      EQ_wb_116: 410748220656288180
+      EQ_wb_117: -5540168842300378856
+      EQ_wb_118: 2632931515481285254
+      EQ_wb_119: 7000182572970745402
+      EQ_wb_12: 462368351485151389
+      EQ_wb_120: 8422770118963770112
+      EQ_wb_121: 3202607545995168816
+      EQ_wb_122: 8063386398780801652
+      EQ_wb_123: 5881429472671558718
+      EQ_wb_124: 4498030400861932200
+      EQ_wb_125: -5764701625124161077
+      EQ_wb_126: -6165745356595099624
+      EQ_wb_127: 5441507595719367731
+      EQ_wb_128: -2032569935611927199
+      EQ_wb_129: -3921228878599201772
+      EQ_wb_13: -2479870172866400123
+      EQ_wb_130: -4733383098955519879
+      EQ_wb_131: -73005132884612019
+      EQ_wb_132: -3783876920180598105
+      EQ_wb_133: 835045570211635294
+      EQ_wb_134: 6786618400957440832
+      EQ_wb_135: 4813172828467426827
+      EQ_wb_136: 1798496389534826706
+      EQ_wb_137: 5266697240671429335
+      EQ_wb_138: 3395525257905794123
+      EQ_wb_139: -1515123680576525378
+      EQ_wb_14: -9062156776196679135
+      EQ_wb_140: -6379106263501426214
+      EQ_wb_141: -9174169246150463730
+      EQ_wb_142: -8499308029059739471
+      EQ_wb_143: 3172091531679925076
+      EQ_wb_144: -7215589089313915350
+      EQ_wb_145: 1346733674262344702
+      EQ_wb_146: 906512112000915332
+      EQ_wb_147: 1721652732
+      EQ_wb_15: -1859709248360155062
+      EQ_wb_16: -6683698508545544843
+      EQ_wb_17: -4774823856759559440
+      EQ_wb_18: 2843686123185415630
+      EQ_wb_19: -4436727504065015523
+      EQ_wb_2: -6389960059928277244
+      EQ_wb_20: 3505560844720609835
+      EQ_wb_21: -1320636323107017379
+      EQ_wb_22: 6790785835255223659
+      EQ_wb_23: 2687961632353733166
+      EQ_wb_24: -601402108364278564
+      EQ_wb_25: 2927764895098042751
+      EQ_wb_26: -4959066015478170961
+      EQ_wb_27: 3957392762874271121
+      EQ_wb_28: -8042952275530289993
+      EQ_wb_29: 676812231415238275
+      EQ_wb_3: -68376279266718179
+      EQ_wb_30: -2225150167191658414
+      EQ_wb_31: 9010751244878407754
+      EQ_wb_32: -7276355533792079178
+      EQ_wb_33: 3488490832130634980
+      EQ_wb_34: 2438954927516348626
+      EQ_wb_35: 267794003429380904
+      EQ_wb_36: 4833887340380537356
+      EQ_wb_37: -5262394205086168168
+      EQ_wb_38: -253251142261547626
+      EQ_wb_39: -8562624158598495866
+      EQ_wb_4: -64137439964691263
+      EQ_wb_40: -1595365464995439391
+      EQ_wb_41: -3272601272726922064
+      EQ_wb_42: -7371269101189748156
+      EQ_wb_43: -7475903065926832276
+      EQ_wb_44: -3635103164999393846
+      EQ_wb_45: 3142919124988693690
+      EQ_wb_46: 5554201744666134044
+      EQ_wb_47: -7372085139339920142
+      EQ_wb_48: 4019850377183886057
+      EQ_wb_49: -2980896533901065559
+      EQ_wb_5: -6187085594697656927
+      EQ_wb_50: 4329729028112840812
+      EQ_wb_51: 365357898436248866
+      EQ_wb_52: 4727847951881091242
+      EQ_wb_53: -9095922376564269339
+      EQ_wb_54: -6634002540455836869
+      EQ_wb_55: 2308507136156641142
+      EQ_wb_56: -7235104499225843930
+      EQ_wb_57: -5228445323711375688
+      EQ_wb_58: -3592535659269164753
+      EQ_wb_59: 1766699085001832124
+      EQ_wb_6: 920988506074890678
+      EQ_wb_60: -865220757789832048
+      EQ_wb_61: 5190294927376108245
+      EQ_wb_62: -2348336401997994587
+      EQ_wb_63: 7438382548486921514
+      EQ_wb_64: -102548448225198304
+      EQ_wb_65: -4292470556385763029
+      EQ_wb_66: -1085036801420053003
+      EQ_wb_67: -1438302160705799152
+      EQ_wb_68: 6670849889363866242
+      EQ_wb_69: 7943971767739961395
+      EQ_wb_7: 143803668893051483
+      EQ_wb_70: -109865065130728433
+      EQ_wb_71: 4188835538956104319
+      EQ_wb_72: -5622301594684418062
+      EQ_wb_73: -4309974692425395097
+      EQ_wb_74: 339508158693872802
+      EQ_wb_75: -4662138818952611276
+      EQ_wb_76: 4764717112946344984
+      EQ_wb_77: -7572701915327932333
+      EQ_wb_78: 2949868397512144072
+      EQ_wb_79: -1786628128970126216
+      EQ_wb_8: -5489253051183910678
+      EQ_wb_80: -3485496685008478717
+      EQ_wb_81: -2708824934603452438
+      EQ_wb_82: 2044753072278447940
+      EQ_wb_83: 6309581538818748508
+      EQ_wb_84: -233803393668760576
+      EQ_wb_85: 3303789327771685049
+      EQ_wb_86: -6380471745554295007
+      EQ_wb_87: 4889348239050344414
+      EQ_wb_88: 1148345267651587826
+      EQ_wb_89: 888142291102737567
+      EQ_wb_9: -4780257805770168050
+      EQ_wb_90: -1723106596342875439
+      EQ_wb_91: -6122295857512020813
+      EQ_wb_92: 18050373668779685
+      EQ_wb_93: -8672706861978245341
+      EQ_wb_94: -8525304075603560462
+      EQ_wb_95: 4764339542561420883
+      EQ_wb_96: 3602631337247443271
+      EQ_wb_97: -1452797159686490491
+      EQ_wb_98: -6932633390396532759
+      EQ_wb_99: -5474376757103322049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

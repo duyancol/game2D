@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 11b1c315d8d90ae4b8cd520770cc1e4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4658884226926055072
+    second: skill_cube_icon_0
+  - first:
+      213: -654521345581007239
+    second: skill_cube_icon_1
+  - first:
+      213: -592279446681432596
+    second: skill_cube_icon_2
+  - first:
+      213: -7577706254030573039
+    second: skill_cube_icon_3
+  - first:
+      213: 3990972105244200663
+    second: skill_cube_icon_4
+  - first:
+      213: -8036027484770841846
+    second: skill_cube_icon_5
+  - first:
+      213: -3934993527566804834
+    second: skill_cube_icon_6
+  - first:
+      213: 2629370167104328636
+    second: skill_cube_icon_7
+  - first:
+      213: -6161190608779594652
+    second: skill_cube_icon_8
+  - first:
+      213: 3919034715808762029
+    second: skill_cube_icon_9
+  - first:
+      213: -8502314732362976644
+    second: skill_cube_icon_10
+  - first:
+      213: 7847475959842316572
+    second: skill_cube_icon_11
+  - first:
+      213: 2708555815695740592
+    second: skill_cube_icon_12
+  - first:
+      213: 6058685998770494644
+    second: skill_cube_icon_13
+  - first:
+      213: 5482199786031107843
+    second: skill_cube_icon_14
+  - first:
+      213: 8364843847261718344
+    second: skill_cube_icon_15
+  - first:
+      213: -3794095474634707128
+    second: skill_cube_icon_16
+  - first:
+      213: 3496834208894220939
+    second: skill_cube_icon_17
+  - first:
+      213: 1479239797434984168
+    second: skill_cube_icon_18
+  - first:
+      213: 8351820828752109415
+    second: skill_cube_icon_19
+  - first:
+      213: -7404041242014274698
+    second: skill_cube_icon_20
+  - first:
+      213: -8432592192847990689
+    second: skill_cube_icon_21
+  - first:
+      213: 932408392392987496
+    second: skill_cube_icon_22
+  - first:
+      213: -3463641352807063325
+    second: skill_cube_icon_23
+  - first:
+      213: -1394425315029102658
+    second: skill_cube_icon_24
+  - first:
+      213: 7392100473849245913
+    second: skill_cube_icon_25
+  - first:
+      213: -936643805903775533
+    second: skill_cube_icon_26
+  - first:
+      213: 4644444450354079038
+    second: skill_cube_icon_27
+  - first:
+      213: 4711153882987413231
+    second: skill_cube_icon_28
+  - first:
+      213: -7504506692117908200
+    second: skill_cube_icon_29
+  - first:
+      213: -5335372715851889899
+    second: skill_cube_icon_30
+  - first:
+      213: 3941411655423848289
+    second: skill_cube_icon_31
+  - first:
+      213: 6793442255265582005
+    second: skill_cube_icon_32
+  - first:
+      213: -1383699457755272022
+    second: skill_cube_icon_33
+  - first:
+      213: 5416030308847407525
+    second: skill_cube_icon_34
+  - first:
+      213: 3655519713053566531
+    second: skill_cube_icon_35
+  - first:
+      213: -6826097527399476462
+    second: skill_cube_icon_36
+  - first:
+      213: 5135084360065305047
+    second: skill_cube_icon_37
+  - first:
+      213: -8700078621574064308
+    second: skill_cube_icon_38
+  - first:
+      213: -9072752900179695198
+    second: skill_cube_icon_39
+  - first:
+      213: -1283902398880493904
+    second: skill_cube_icon_40
+  - first:
+      213: 7384642671935411675
+    second: skill_cube_icon_41
+  - first:
+      213: -3875036571685957918
+    second: skill_cube_icon_42
+  - first:
+      213: 3995708997673035276
+    second: skill_cube_icon_43
+  - first:
+      213: -7153970014191926535
+    second: skill_cube_icon_44
+  - first:
+      213: 2434340952387134838
+    second: skill_cube_icon_45
+  - first:
+      213: -5604816302136223
+    second: skill_cube_icon_46
+  - first:
+      213: 956918232052735124
+    second: skill_cube_icon_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skill_cube_icon_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 219
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061f66cba71585fb0800000000000000
+      internalID: -4658884226926055072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 592
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ebbb2dd4caae6f0800000000000000
+      internalID: -654521345581007239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 86
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedc9c43bfcc7c7f0800000000000000
+      internalID: -592279446681432596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 282
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11270447f4496d690800000000000000
+      internalID: -7577706254030573039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 991
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dec2911cf7c26730800000000000000
+      internalID: 3990972105244200663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 983
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b45fc449b4a7090800000000000000
+      internalID: -8036027484770841846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 974
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e985be33c381469c0800000000000000
+      internalID: -3934993527566804834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 326
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb353496c366d7420800000000000000
+      internalID: 2629370167104328636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 244
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4643832e8cd0f7aa0800000000000000
+      internalID: -6161190608779594652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da884326f45336630800000000000000
+      internalID: 3919034715808762029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 166
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c723fe05cc5b10a80800000000000000
+      internalID: -8502314732362976644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a1d9cec5d7ec60800000000000000
+      internalID: 7847475959842316572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 11
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beecd0f929b69520800000000000000
+      internalID: 2708555815695740592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc195ac0d6c41450800000000000000
+      internalID: 6058685998770494644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 807
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f4b12d8afa41c40800000000000000
+      internalID: 5482199786031107843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84785a50925e51470800000000000000
+      internalID: 8364843847261718344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2b7e844aa85bc0800000000000000
+      internalID: -3794095474634707128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8af29b9f20478030800000000000000
+      internalID: 3496834208894220939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1007
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6abb722c0578410800000000000000
+      internalID: 1479239797434984168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 999
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5a7d3bc0a7e370800000000000000
+      internalID: 8351820828752109415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 862
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ba56bf7bf8f3990800000000000000
+      internalID: -7404041242014274698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 814
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f503091141a69fa80800000000000000
+      internalID: -8432592192847990689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8635d262e7490fc00800000000000000
+      internalID: 932408392392987496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0e4907a8caeefc0800000000000000
+      internalID: -3463641352807063325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 220
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc0ef509106ace0800000000000000
+      internalID: -1394425315029102658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 206
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0f7c74734069660800000000000000
+      internalID: 7392100473849245913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 182
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8190ccb6f5003f0800000000000000
+      internalID: -936643805903775533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35a36ace91647040800000000000000
+      internalID: 4644444450354079038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feebaadee71616140800000000000000
+      internalID: 4711153882987413231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81535c19ce2aad790800000000000000
+      internalID: -7504506692117908200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 321
+        width: 409
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513465f68c2f4f5b0800000000000000
+      internalID: -5335372715851889899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_31
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 226
+        width: 793
+        height: 765
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f6f13a405b2b630800000000000000
+      internalID: 3941411655423848289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_32
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 208
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbcb3becb7274e50800000000000000
+      internalID: 6793442255265582005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_33
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 193
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaca890acac1ccce0800000000000000
+      internalID: -1383699457755272022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_34
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 104
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1599bdeda992b40800000000000000
+      internalID: 5416030308847407525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_35
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 35
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346eefdafc30bb230800000000000000
+      internalID: 3655519713053566531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_36
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139e2d0774d441a0800000000000000
+      internalID: -6826097527399476462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_37
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 3
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d94b55c40c734740800000000000000
+      internalID: 5135084360065305047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_38
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c479b13b69c134780800000000000000
+      internalID: -8700078621574064308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_39
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9e4e98e4b171280800000000000000
+      internalID: -9072752900179695198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_40
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec4741299ae2ee0800000000000000
+      internalID: -1283902398880493904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_41
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d6e572658b7660800000000000000
+      internalID: 7384642671935411675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_42
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eec205d4ca193ac0800000000000000
+      internalID: -3875036571685957918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_43
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 210
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c062228c92c937730800000000000000
+      internalID: 3995708997673035276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_44
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 211
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f24b4aec2ef7bc90800000000000000
+      internalID: -7153970014191926535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_45
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 183
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a831d23488c120800000000000000
+      internalID: 2434340952387134838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_46
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 197
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164a74303761ceff0800000000000000
+      internalID: -5604816302136223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_cube_icon_47
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 210
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1994ef08a74d00800000000000000
+      internalID: 956918232052735124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fcce5e05c6b26d844a2be1f9f237786b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skill_cube_icon_0: -4658884226926055072
+      skill_cube_icon_1: -654521345581007239
+      skill_cube_icon_10: -8502314732362976644
+      skill_cube_icon_11: 7847475959842316572
+      skill_cube_icon_12: 2708555815695740592
+      skill_cube_icon_13: 6058685998770494644
+      skill_cube_icon_14: 5482199786031107843
+      skill_cube_icon_15: 8364843847261718344
+      skill_cube_icon_16: -3794095474634707128
+      skill_cube_icon_17: 3496834208894220939
+      skill_cube_icon_18: 1479239797434984168
+      skill_cube_icon_19: 8351820828752109415
+      skill_cube_icon_2: -592279446681432596
+      skill_cube_icon_20: -7404041242014274698
+      skill_cube_icon_21: -8432592192847990689
+      skill_cube_icon_22: 932408392392987496
+      skill_cube_icon_23: -3463641352807063325
+      skill_cube_icon_24: -1394425315029102658
+      skill_cube_icon_25: 7392100473849245913
+      skill_cube_icon_26: -936643805903775533
+      skill_cube_icon_27: 4644444450354079038
+      skill_cube_icon_28: 4711153882987413231
+      skill_cube_icon_29: -7504506692117908200
+      skill_cube_icon_3: -7577706254030573039
+      skill_cube_icon_30: -5335372715851889899
+      skill_cube_icon_31: 3941411655423848289
+      skill_cube_icon_32: 6793442255265582005
+      skill_cube_icon_33: -1383699457755272022
+      skill_cube_icon_34: 5416030308847407525
+      skill_cube_icon_35: 3655519713053566531
+      skill_cube_icon_36: -6826097527399476462
+      skill_cube_icon_37: 5135084360065305047
+      skill_cube_icon_38: -8700078621574064308
+      skill_cube_icon_39: -9072752900179695198
+      skill_cube_icon_4: 3990972105244200663
+      skill_cube_icon_40: -1283902398880493904
+      skill_cube_icon_41: 7384642671935411675
+      skill_cube_icon_42: -3875036571685957918
+      skill_cube_icon_43: 3995708997673035276
+      skill_cube_icon_44: -7153970014191926535
+      skill_cube_icon_45: 2434340952387134838
+      skill_cube_icon_46: -5604816302136223
+      skill_cube_icon_47: 956918232052735124
+      skill_cube_icon_5: -8036027484770841846
+      skill_cube_icon_6: -3934993527566804834
+      skill_cube_icon_7: 2629370167104328636
+      skill_cube_icon_8: -6161190608779594652
+      skill_cube_icon_9: 3919034715808762029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

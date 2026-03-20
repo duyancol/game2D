@@ -1,0 +1,648 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CloakMage2D\\CloakMage2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\playerstatsmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\playerstatsmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|d:\\cloakmage2d\\cloakmage2d\\assets\\art\\scripts\\ui\\profile\\playerstatspanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\ui\\profile\\playerstatspanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|d:\\cloakmage2d\\cloakmage2d\\assets\\art\\scripts\\weapons\\skills\\ki\u1EBFm l\u1EEDa\\infernorageauraskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\weapons\\skills\\ki\u1EBFm l\u1EEDa\\infernorageauraskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|d:\\cloakmage2d\\cloakmage2d\\assets\\mainmenu\\equipment\\bonus\\equipmentbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\equipment\\bonus\\equipmentbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\weapons\\skills\\cung \u00E1nh s\u00E1ng\\divinemarkruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\weapons\\skills\\cung \u00E1nh s\u00E1ng\\divinemarkruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\player\\weaponcontroller_switchonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\player\\weaponcontroller_switchonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\weapons\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\weapons\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\armweaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\armweaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\weapons\\weaponprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\weapons\\weaponprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\ui\\profile\\enhancepanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\ui\\profile\\enhancepanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\ui\\profile\\weaponpanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\ui\\profile\\weaponpanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\animation\\test\\rotateaura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\animation\\test\\rotateaura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\equipment\\equipmentpanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\equipment\\equipmentpanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\ui\\profile\\upgradepanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\ui\\profile\\upgradepanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\weapons\\weaponskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\weapons\\weaponskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\inventory\\api\\inventoryloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\inventory\\api\\inventoryloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\login\\scrip\\googlelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\login\\scrip\\googlelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\inventory\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\inventory\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\action\\pickup\\currencysync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\action\\pickup\\currencysync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\action\\pickup\\goldui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\action\\pickup\\goldui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\action\\pickup\\goldpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\action\\pickup\\goldpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\weapons\\wp_lv\\weaponinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\weapons\\wp_lv\\weaponinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\action\\pickup\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\action\\pickup\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\weapons\\skills\\ki\u1EBFm l\u1EEDa\\infernorebirthpassive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\weapons\\skills\\ki\u1EBFm l\u1EEDa\\infernorebirthpassive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\inventory\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\inventory\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\bonusweaponsupplayer\\statbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\bonusweaponsupplayer\\statbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\playerswordactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\playerswordactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\weapons\\skills\\shootlightarrowskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\weapons\\skills\\shootlightarrowskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\animation\\player\\wb\\archerlight\\rotatex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\animation\\player\\wb\\archerlight\\rotatex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\weapons\\skills\\shootcubeboltskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\weapons\\skills\\shootcubeboltskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\projectiledamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\projectiledamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\art\\scripts\\player\\action\\pickup\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\scripts\\player\\action\\pickup\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\inventory\\api\\playerequipmentloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\inventory\\api\\playerequipmentloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\equipment\\stattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\equipment\\stattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\equipment\\statentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\equipment\\statentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\equipment\\itemrarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\equipment\\itemrarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\equipment\\equipmentslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\equipment\\equipmentslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|D:\\CloakMage2D\\CloakMage2D\\assets\\mainmenu\\equipment\\equipmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1BC36-EF9C-BB47-AA3E-184CD993BD9F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\equipment\\equipmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerStatsPanelUI.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\UI\\Profile\\PlayerStatsPanelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\UI\\Profile\\PlayerStatsPanelUI.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\UI\\Profile\\PlayerStatsPanelUI.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\UI\\Profile\\PlayerStatsPanelUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:47:40.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquipmentBonus.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\bonus\\EquipmentBonus.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Equipment\\bonus\\EquipmentBonus.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\bonus\\EquipmentBonus.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Equipment\\bonus\\EquipmentBonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:17:53.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfernoRageAuraSkill.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\Ki\u1EBFm l\u1EEDa\\InfernoRageAuraSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Weapons\\Skills\\Ki\u1EBFm l\u1EEDa\\InfernoRageAuraSkill.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\Ki\u1EBFm l\u1EEDa\\InfernoRageAuraSkill.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Weapons\\Skills\\Ki\u1EBFm l\u1EEDa\\InfernoRageAuraSkill.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAQwPQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:15:48.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DivineMarkRuntime.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\Cung \u00C1nh S\u00E1ng\\DivineMarkRuntime.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Weapons\\Skills\\Cung \u00C1nh S\u00E1ng\\DivineMarkRuntime.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\Cung \u00C1nh S\u00E1ng\\DivineMarkRuntime.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Weapons\\Skills\\Cung \u00C1nh S\u00E1ng\\DivineMarkRuntime.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:11:14.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerStatsMono.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\PlayerStatsMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\PlayerStatsMono.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\PlayerStatsMono.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\PlayerStatsMono.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAPoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:54:24.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponController_SwitchOnly.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Player\\WeaponController_SwitchOnly.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Player\\WeaponController_SwitchOnly.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Player\\WeaponController_SwitchOnly.cs",
+              "RelativeToolTip": "Assets\\Art\\Player\\WeaponController_SwitchOnly.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwJwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:23:37.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeaponController.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\WeaponController.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Weapons\\WeaponController.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\WeaponController.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Weapons\\WeaponController.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAIwHsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:21:00.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeaponProfile.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\WeaponProfile.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Weapons\\WeaponProfile.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\WeaponProfile.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Weapons\\WeaponProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:18:21.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeaponPanelUI.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\UI\\Profile\\WeaponPanelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\UI\\Profile\\WeaponPanelUI.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\UI\\Profile\\WeaponPanelUI.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\UI\\Profile\\WeaponPanelUI.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwIgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:24:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnhancePanelUI.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\UI\\Profile\\EnhancePanelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\UI\\Profile\\EnhancePanelUI.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\UI\\Profile\\EnhancePanelUI.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\UI\\Profile\\EnhancePanelUI.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:17:53.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArmWeaponController.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\ArmWeaponController.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\ArmWeaponController.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\ArmWeaponController.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\ArmWeaponController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAQwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:28:58.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RotateAura.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Animation\\Test\\RotateAura.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Animation\\Test\\RotateAura.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Animation\\Test\\RotateAura.cs",
+              "RelativeToolTip": "Assets\\Art\\Animation\\Test\\RotateAura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:40:35.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GoldUI.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GoldUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GoldUI.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GoldUI.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GoldUI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:08:51.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EquipmentPanelUI.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\EquipmentPanelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Equipment\\EquipmentPanelUI.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\EquipmentPanelUI.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Equipment\\EquipmentPanelUI.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAYwGUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:08:02.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CurrencySync.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\CurrencySync.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\CurrencySync.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\CurrencySync.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\CurrencySync.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:11:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpgradePanelUI.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\UI\\Profile\\UpgradePanelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\UI\\Profile\\UpgradePanelUI.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\UI\\Profile\\UpgradePanelUI.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\UI\\Profile\\UpgradePanelUI.cs",
+              "ViewState": "AgIAAEcEAAAAAAAAAAAgwFcEAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:47:23.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InventoryLoader.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Inventory\\API\\InventoryLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Inventory\\API\\InventoryLoader.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Inventory\\API\\InventoryLoader.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Inventory\\API\\InventoryLoader.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:55:43.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventorySystem.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Inventory\\InventorySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Inventory\\InventorySystem.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Inventory\\InventorySystem.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Inventory\\InventorySystem.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAYwJ0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:08:02.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeaponSkill.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\WeaponSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Weapons\\WeaponSkill.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\WeaponSkill.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Weapons\\WeaponSkill.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgv0EAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:41:53.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeaponInstance.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\WP_LV\\WeaponInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Weapons\\WP_LV\\WeaponInstance.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\WP_LV\\WeaponInstance.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Weapons\\WP_LV\\WeaponInstance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:59:09.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GoogleLogin.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Login\\Scrip\\GoogleLogin.cs",
+              "RelativeDocumentMoniker": "Assets\\Login\\Scrip\\GoogleLogin.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Login\\Scrip\\GoogleLogin.cs",
+              "RelativeToolTip": "Assets\\Login\\Scrip\\GoogleLogin.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:12:28.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GoldPickup.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GoldPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GoldPickup.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GoldPickup.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GoldPickup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T15:31:16.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InfernoRebirthPassive.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\Ki\u1EBFm l\u1EEDa\\InfernoRebirthPassive.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Weapons\\Skills\\Ki\u1EBFm l\u1EEDa\\InfernoRebirthPassive.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\Ki\u1EBFm l\u1EEDa\\InfernoRebirthPassive.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Weapons\\Skills\\Ki\u1EBFm l\u1EEDa\\InfernoRebirthPassive.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAL8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:51:53.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ItemPickup.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\ItemPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\ItemPickup.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\ItemPickup.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\ItemPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:18:21.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Inventory\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Inventory\\InventoryUI.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Inventory\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Inventory\\InventoryUI.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAiwOcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:01:25.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\MainMenuUI.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\MainMenuUI.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAKQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:03:17.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StatBonus.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\BonusWeaponsUpPlayer\\StatBonus.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\BonusWeaponsUpPlayer\\StatBonus.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\BonusWeaponsUpPlayer\\StatBonus.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\BonusWeaponsUpPlayer\\StatBonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:54:33.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShootLightArrowSkill.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\ShootLightArrowSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Weapons\\Skills\\ShootLightArrowSkill.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\ShootLightArrowSkill.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Weapons\\Skills\\ShootLightArrowSkill.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAQwGYBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T19:07:20.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlayerSwordActionController.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\PlayerSwordActionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\PlayerSwordActionController.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\PlayerSwordActionController.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\PlayerSwordActionController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwDQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T19:44:41.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RotateX.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Animation\\Player\\Wb\\ArcherLight\\RotateX.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Animation\\Player\\Wb\\ArcherLight\\RotateX.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Animation\\Player\\Wb\\ArcherLight\\RotateX.cs",
+              "RelativeToolTip": "Assets\\Art\\Animation\\Player\\Wb\\ArcherLight\\RotateX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T18:58:14.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProjectileDamage.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\ProjectileDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\ProjectileDamage.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\ProjectileDamage.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\ProjectileDamage.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAlwDgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:44:49.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShootCubeBoltSkill.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\ShootCubeBoltSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Weapons\\Skills\\ShootCubeBoltSkill.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Weapons\\Skills\\ShootCubeBoltSkill.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Weapons\\Skills\\ShootCubeBoltSkill.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwKoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:46:43.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GameManager.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Art\\Scripts\\Player\\Action\\Pickup\\GameManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:01:56.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlayerEquipmentLoader.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Inventory\\API\\PlayerEquipmentLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Inventory\\API\\PlayerEquipmentLoader.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Inventory\\API\\PlayerEquipmentLoader.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Inventory\\API\\PlayerEquipmentLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:54:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StatType.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\StatType.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Equipment\\StatType.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\StatType.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Equipment\\StatType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:54:30.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StatEntry.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\StatEntry.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Equipment\\StatEntry.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\StatEntry.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Equipment\\StatEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:54:28.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ItemRarity.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\ItemRarity.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Equipment\\ItemRarity.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\ItemRarity.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Equipment\\ItemRarity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:54:24.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EquipmentSlot.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\EquipmentSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Equipment\\EquipmentSlot.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\EquipmentSlot.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Equipment\\EquipmentSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:54:21.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EquipmentProfile.cs",
+              "DocumentMoniker": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\EquipmentProfile.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Equipment\\EquipmentProfile.cs",
+              "ToolTip": "D:\\CloakMage2D\\CloakMage2D\\Assets\\MainMenu\\Equipment\\EquipmentProfile.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Equipment\\EquipmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:54:11.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

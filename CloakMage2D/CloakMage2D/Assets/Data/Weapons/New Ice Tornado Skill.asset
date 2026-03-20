@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc7513e34fce25346afdfedca64bed52, type: 3}
+  m_Name: New Ice Tornado Skill
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 0
+  skillIcon: {fileID: -6516490528265062637, guid: 556f6c576eb3eb84d8ffdf5a43d09216, type: 3}
+  cooldown: 5
+  tornadoPrefab: {fileID: 8001189680252520146, guid: 3a418ff4994e7b54f8cdc453ba97d4b3, type: 3}
+  spawnOffset: {x: 0.6, y: 0.1, z: 0}
+  baseDamage: 40
+  atkScale: 0
+  smptScale: 0.5
+  damageType: 1
+  canCrit: 1
+  radius: 1.8
+  hitMask:
+    serializedVersion: 2
+    m_Bits: 64

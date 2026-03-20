@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: 4e5ae74305678fc45a3efb5264b6cf25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6204886513535788535
+    second: fire_aura-Photoroom (1)_0
+  - first:
+      213: -6143792596331732502
+    second: fire_aura-Photoroom (1)_1
+  - first:
+      213: -6534301581317249446
+    second: fire_aura-Photoroom (1)_2
+  - first:
+      213: 2152530102467121405
+    second: fire_aura-Photoroom (1)_3
+  - first:
+      213: -2880822507282522901
+    second: fire_aura-Photoroom (1)_4
+  - first:
+      213: -5142882940771028730
+    second: fire_aura-Photoroom (1)_5
+  - first:
+      213: 4600370171182480225
+    second: fire_aura-Photoroom (1)_6
+  - first:
+      213: -2615931124500801441
+    second: fire_aura-Photoroom (1)_7
+  - first:
+      213: -7253259654827644197
+    second: fire_aura-Photoroom (1)_8
+  - first:
+      213: 4479890677424664150
+    second: fire_aura-Photoroom (1)_9
+  - first:
+      213: -7466293840657623463
+    second: fire_aura-Photoroom (1)_10
+  - first:
+      213: 9043066050727920991
+    second: fire_aura-Photoroom (1)_11
+  - first:
+      213: 2023951631146669786
+    second: fire_aura-Photoroom (1)_12
+  - first:
+      213: -5812077645586270699
+    second: fire_aura-Photoroom (1)_13
+  - first:
+      213: 8634431232211695424
+    second: fire_aura-Photoroom (1)_14
+  - first:
+      213: 3641390426614891574
+    second: fire_aura-Photoroom (1)_15
+  - first:
+      213: 7698772760977123540
+    second: fire_aura-Photoroom (1)_16
+  - first:
+      213: 6141490807457188496
+    second: fire_aura-Photoroom (1)_17
+  - first:
+      213: 960088798490310996
+    second: fire_aura-Photoroom (1)_18
+  - first:
+      213: -4740974440364384334
+    second: fire_aura-Photoroom (1)_19
+  - first:
+      213: 3457567317306111572
+    second: fire_aura-Photoroom (1)_20
+  - first:
+      213: 761008766138779534
+    second: fire_aura-Photoroom (1)_21
+  - first:
+      213: 1110462135582328894
+    second: fire_aura-Photoroom (1)_22
+  - first:
+      213: -8378855786648645013
+    second: fire_aura-Photoroom (1)_23
+  - first:
+      213: -3258343061563058732
+    second: fire_aura-Photoroom (1)_24
+  - first:
+      213: 3343050875991847398
+    second: fire_aura-Photoroom (1)_25
+  - first:
+      213: 663919084723639050
+    second: fire_aura-Photoroom (1)_26
+  - first:
+      213: -8307111663724503535
+    second: fire_aura-Photoroom (1)_27
+  - first:
+      213: 2639650090596396745
+    second: fire_aura-Photoroom (1)_28
+  - first:
+      213: -7757769012765608630
+    second: fire_aura-Photoroom (1)_29
+  - first:
+      213: 3378717008906645584
+    second: fire_aura-Photoroom (1)_30
+  - first:
+      213: -5664928744873131667
+    second: fire_aura-Photoroom (1)_31
+  - first:
+      213: -7368586945593590920
+    second: fire_aura-Photoroom (1)_32
+  - first:
+      213: 3164232471475731411
+    second: fire_aura-Photoroom (1)_33
+  - first:
+      213: 5570478408385294103
+    second: fire_aura-Photoroom (1)_34
+  - first:
+      213: -720357583927398722
+    second: fire_aura-Photoroom (1)_35
+  - first:
+      213: 5301781324613325769
+    second: fire_aura-Photoroom (1)_36
+  - first:
+      213: -8813233561829481939
+    second: fire_aura-Photoroom (1)_37
+  - first:
+      213: 4818908793951473451
+    second: fire_aura-Photoroom (1)_38
+  - first:
+      213: -54483847940317469
+    second: fire_aura-Photoroom (1)_39
+  - first:
+      213: 2986554552911176571
+    second: fire_aura-Photoroom (1)_40
+  - first:
+      213: 8860151113402763972
+    second: fire_aura-Photoroom (1)_41
+  - first:
+      213: 8414447145182753681
+    second: fire_aura-Photoroom (1)_42
+  - first:
+      213: -8011288923922958712
+    second: fire_aura-Photoroom (1)_43
+  - first:
+      213: -295048725959947296
+    second: fire_aura-Photoroom (1)_44
+  - first:
+      213: 2602815099122939272
+    second: fire_aura-Photoroom (1)_45
+  - first:
+      213: -7675782458026684486
+    second: fire_aura-Photoroom (1)_46
+  - first:
+      213: 5084702670867641315
+    second: fire_aura-Photoroom (1)_47
+  - first:
+      213: -4480176845454527881
+    second: fire_aura-Photoroom (1)_48
+  - first:
+      213: -507202833555403346
+    second: fire_aura-Photoroom (1)_49
+  - first:
+      213: 4197218573617736907
+    second: fire_aura-Photoroom (1)_50
+  - first:
+      213: -487616066625422859
+    second: fire_aura-Photoroom (1)_51
+  - first:
+      213: -5748410433770396241
+    second: fire_aura-Photoroom (1)_52
+  - first:
+      213: 4579467277036499426
+    second: fire_aura-Photoroom (1)_53
+  - first:
+      213: -4174710740040117305
+    second: fire_aura-Photoroom (1)_54
+  - first:
+      213: 539101815931875227
+    second: fire_aura-Photoroom (1)_55
+  - first:
+      213: 394002445683413618
+    second: fire_aura-Photoroom (1)_56
+  - first:
+      213: -4171476173132039034
+    second: fire_aura-Photoroom (1)_57
+  - first:
+      213: 5968918736327718987
+    second: fire_aura-Photoroom (1)_58
+  - first:
+      213: 6132344899575643882
+    second: fire_aura-Photoroom (1)_59
+  - first:
+      213: 2772801872288640145
+    second: fire_aura-Photoroom (1)_60
+  - first:
+      213: -3521931806443750278
+    second: fire_aura-Photoroom (1)_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a56114790d3e9a0800000000000000
+      internalID: -6204886513535788535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1e8f15f2ddcbaa0800000000000000
+      internalID: -6143792596331732502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ef4ef45f7155a0800000000000000
+      internalID: -6534301581317249446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df053ed39b25fdd10800000000000000
+      internalID: 2152530102467121405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec997061334508d0800000000000000
+      internalID: -2880822507282522901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6013de9a63fc0a8b0800000000000000
+      internalID: -5142882940771028730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b72a00c4cc7df30800000000000000
+      internalID: 4600370171182480225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58dd37808852bbd0800000000000000
+      internalID: -2615931124500801441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda635af5ce375b90800000000000000
+      internalID: -7253259654827644197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_9
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e2b7ce5d4cb2e30800000000000000
+      internalID: 4479890677424664150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9565aee5f45626890800000000000000
+      internalID: -7466293840657623463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 55
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55480239ac6f7d70800000000000000
+      internalID: 9043066050727920991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6d1110945861c10800000000000000
+      internalID: 2023951631146669786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51677dfcc2a575fa0800000000000000
+      internalID: -5812077645586270699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04734816579a3d770800000000000000
+      internalID: 8634431232211695424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63483e2dc41d88230800000000000000
+      internalID: 3641390426614891574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8ae78490987da60800000000000000
+      internalID: 7698772760977123540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a00d1b955fa3550800000000000000
+      internalID: 6141490807457188496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b8daecabe25d00800000000000000
+      internalID: 960088798490310996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_19
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfdfd08ddca43eb0800000000000000
+      internalID: -4740974440364384334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_20
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456f707f72fbbff20800000000000000
+      internalID: 3457567317306111572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_21
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8709a8d075af8a00800000000000000
+      internalID: 761008766138779534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3808e7cd67296f00800000000000000
+      internalID: 1110462135582328894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_aura-Photoroom (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 0
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62d49c1e0358bb80800000000000000
+      internalID: -8378855786648645013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c41fa624534ddb41b6980efa926139a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fire_aura-Photoroom (1)_0: -6204886513535788535
+      fire_aura-Photoroom (1)_1: -6143792596331732502
+      fire_aura-Photoroom (1)_10: -7466293840657623463
+      fire_aura-Photoroom (1)_11: 9043066050727920991
+      fire_aura-Photoroom (1)_12: 2023951631146669786
+      fire_aura-Photoroom (1)_13: -5812077645586270699
+      fire_aura-Photoroom (1)_14: 8634431232211695424
+      fire_aura-Photoroom (1)_15: 3641390426614891574
+      fire_aura-Photoroom (1)_16: 7698772760977123540
+      fire_aura-Photoroom (1)_17: 6141490807457188496
+      fire_aura-Photoroom (1)_18: 960088798490310996
+      fire_aura-Photoroom (1)_19: -4740974440364384334
+      fire_aura-Photoroom (1)_2: -6534301581317249446
+      fire_aura-Photoroom (1)_20: 3457567317306111572
+      fire_aura-Photoroom (1)_21: 761008766138779534
+      fire_aura-Photoroom (1)_22: 1110462135582328894
+      fire_aura-Photoroom (1)_23: -8378855786648645013
+      fire_aura-Photoroom (1)_3: 2152530102467121405
+      fire_aura-Photoroom (1)_4: -2880822507282522901
+      fire_aura-Photoroom (1)_5: -5142882940771028730
+      fire_aura-Photoroom (1)_6: 4600370171182480225
+      fire_aura-Photoroom (1)_7: -2615931124500801441
+      fire_aura-Photoroom (1)_8: -7253259654827644197
+      fire_aura-Photoroom (1)_9: 4479890677424664150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

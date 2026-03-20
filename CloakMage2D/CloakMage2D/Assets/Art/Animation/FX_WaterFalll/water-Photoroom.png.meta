@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 14747b90f25878044bace9c054cfa12f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 67864511856065365
+    second: water-Photoroom_0
+  - first:
+      213: -2589041810152161145
+    second: water-Photoroom_1
+  - first:
+      213: -7911600718156927913
+    second: water-Photoroom_2
+  - first:
+      213: 1007933081093455186
+    second: water-Photoroom_3
+  - first:
+      213: -4691868726326681673
+    second: water-Photoroom_4
+  - first:
+      213: 4299848499778498263
+    second: water-Photoroom_5
+  - first:
+      213: -6225598494964810649
+    second: water-Photoroom_6
+  - first:
+      213: -3847546817527058352
+    second: water-Photoroom_7
+  - first:
+      213: 3097297556150435690
+    second: water-Photoroom_8
+  - first:
+      213: -650204573200481050
+    second: water-Photoroom_9
+  - first:
+      213: -2649117566354167129
+    second: water-Photoroom_10
+  - first:
+      213: -6452585571321513791
+    second: water-Photoroom_11
+  - first:
+      213: 8160899244261695545
+    second: water-Photoroom_12
+  - first:
+      213: -4028219219061184755
+    second: water-Photoroom_13
+  - first:
+      213: 9014266205500869503
+    second: water-Photoroom_14
+  - first:
+      213: 4346889791981710126
+    second: water-Photoroom_15
+  - first:
+      213: 3958070981215197767
+    second: water-Photoroom_16
+  - first:
+      213: 1290735564550311758
+    second: water-Photoroom_17
+  - first:
+      213: -8845196416125459675
+    second: water-Photoroom_18
+  - first:
+      213: 1251778684332122228
+    second: water-Photoroom_19
+  - first:
+      213: -2994721474520608392
+    second: water-Photoroom_20
+  - first:
+      213: -3600561675456436944
+    second: water-Photoroom_21
+  - first:
+      213: -8433232788950505048
+    second: water-Photoroom_22
+  - first:
+      213: -8111281643604031400
+    second: water-Photoroom_23
+  - first:
+      213: -4290492614082917552
+    second: water-Photoroom_24
+  - first:
+      213: -666791746516738225
+    second: water-Photoroom_25
+  - first:
+      213: 3413178150032255863
+    second: water-Photoroom_26
+  - first:
+      213: -4282193321873789090
+    second: water-Photoroom_27
+  - first:
+      213: 8361200998813225189
+    second: water-Photoroom_28
+  - first:
+      213: 999667517501938496
+    second: water-Photoroom_29
+  - first:
+      213: -422209037738154134
+    second: water-Photoroom_30
+  - first:
+      213: 6101341425512275654
+    second: water-Photoroom_31
+  - first:
+      213: 2265181099628782408
+    second: water-Photoroom_32
+  - first:
+      213: -3026523901571050700
+    second: water-Photoroom_33
+  - first:
+      213: 7344347367595394573
+    second: water-Photoroom_34
+  - first:
+      213: 1366833409072644381
+    second: water-Photoroom_35
+  - first:
+      213: 776894806681243799
+    second: water-Photoroom_36
+  - first:
+      213: -3874972783524521784
+    second: water-Photoroom_37
+  - first:
+      213: -7634898214687940543
+    second: water-Photoroom_38
+  - first:
+      213: 7480734344912930732
+    second: water-Photoroom_39
+  - first:
+      213: -2692385959484095211
+    second: water-Photoroom_40
+  - first:
+      213: 314121815251519853
+    second: water-Photoroom_41
+  - first:
+      213: -5051759103071446035
+    second: water-Photoroom_42
+  - first:
+      213: -1087199811785481804
+    second: water-Photoroom_43
+  - first:
+      213: 1182202408847396188
+    second: water-Photoroom_44
+  - first:
+      213: -8338584312098139041
+    second: water-Photoroom_45
+  - first:
+      213: 3881537995052208446
+    second: water-Photoroom_46
+  - first:
+      213: -3000586243883037586
+    second: water-Photoroom_47
+  - first:
+      213: 9175488152708798400
+    second: water-Photoroom_48
+  - first:
+      213: -870342015300342807
+    second: water-Photoroom_49
+  - first:
+      213: -211549380904404203
+    second: water-Photoroom_50
+  - first:
+      213: 3750381951418636827
+    second: water-Photoroom_51
+  - first:
+      213: 7669032857153765545
+    second: water-Photoroom_52
+  - first:
+      213: 4451223971597383478
+    second: water-Photoroom_53
+  - first:
+      213: 9159843326088879726
+    second: water-Photoroom_54
+  - first:
+      213: -2677255573810063372
+    second: water-Photoroom_55
+  - first:
+      213: 8346099170709430173
+    second: water-Photoroom_56
+  - first:
+      213: 3841652682961517107
+    second: water-Photoroom_57
+  - first:
+      213: 6819121802022240892
+    second: water-Photoroom_58
+  - first:
+      213: -4577530951357652943
+    second: water-Photoroom_59
+  - first:
+      213: -3961038025537784330
+    second: water-Photoroom_60
+  - first:
+      213: 5919121055642022430
+    second: water-Photoroom_61
+  - first:
+      213: -3349341985263045886
+    second: water-Photoroom_62
+  - first:
+      213: -5117222028707340844
+    second: water-Photoroom_63
+  - first:
+      213: 1110389171793740645
+    second: water-Photoroom_64
+  - first:
+      213: 5403600941936309849
+    second: water-Photoroom_65
+  - first:
+      213: 8270481433218046566
+    second: water-Photoroom_66
+  - first:
+      213: -8344615888415148799
+    second: water-Photoroom_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1196
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b390af96a11f000800000000000000
+      internalID: 67864511856065365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1196
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7800f35e030e11cd0800000000000000
+      internalID: -2589041810152161145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1196
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ce7857019543290800000000000000
+      internalID: -7911600718156927913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1196
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25db0f70cc5ecfd00800000000000000
+      internalID: 1007933081093455186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1199
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf9882804223eeb0800000000000000
+      internalID: -4691868726326681673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1108
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de2b41dd612cab30800000000000000
+      internalID: 4299848499778498263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1108
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c7a69472b3a99a0800000000000000
+      internalID: -6225598494964810649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1108
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0507d9cfd84ca9ac0800000000000000
+      internalID: -3847546817527058352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1108
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f380697bfcbfa20800000000000000
+      internalID: 3097297556150435690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1108
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e40d07b2620af6f0800000000000000
+      internalID: -650204573200481050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1016
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa6639eb917c3bd0800000000000000
+      internalID: -2649117566354167129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1016
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8f1923c9fc376a0800000000000000
+      internalID: -6452585571321513791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1016
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930e8f5df96514170800000000000000
+      internalID: 8160899244261695545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1016
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e47276f3e818c0800000000000000
+      internalID: -4028219219061184755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1016
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b00b1ba5b191d70800000000000000
+      internalID: 9014266205500869503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 925
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b67d82c31435c30800000000000000
+      internalID: 4346889791981710126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 925
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a1d1f2694ede630800000000000000
+      internalID: 3958070981215197767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 925
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f0cf7482d99e110800000000000000
+      internalID: 1290735564550311758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 925
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523a84039bc8f3580800000000000000
+      internalID: -8845196416125459675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 925
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470a509c4163f5110800000000000000
+      internalID: 1251778684332122228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 834
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87117f58fac9076d0800000000000000
+      internalID: -2994721474520608392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 834
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035a8869b3c380ec0800000000000000
+      internalID: -3600561675456436944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 834
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9ad6aa57327fa80800000000000000
+      internalID: -8433232788950505048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 834
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858c5df0250fe6f80800000000000000
+      internalID: -8111281643604031400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 833
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b862213bb1574c0800000000000000
+      internalID: -4290492614082917552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 742
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f15b970741fb6f0800000000000000
+      internalID: -666791746516738225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 742
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b2cc3917b0e5f20800000000000000
+      internalID: 3413178150032255863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 742
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fa92e9cd79294c0800000000000000
+      internalID: -4282193321873789090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 742
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e057e54204f80470800000000000000
+      internalID: 8361200998813225189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 742
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b133a8f488fdd00800000000000000
+      internalID: 999667517501938496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 651
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6768acfd13042af0800000000000000
+      internalID: -422209037738154134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 651
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ced80143b15ca450800000000000000
+      internalID: 6101341425512275654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 651
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8436d4b653a8f6f10800000000000000
+      internalID: 2265181099628782408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 651
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433d0a6fb80aff5d0800000000000000
+      internalID: -3026523901571050700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 650
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d064990d40d5ce560800000000000000
+      internalID: 7344347367595394573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 559
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1149e66eb7f7f210800000000000000
+      internalID: 1366833409072644381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 559
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790d414e5b518ca00800000000000000
+      internalID: 776894806681243799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 559
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8d6bba8c4593ac0800000000000000
+      internalID: -3874972783524521784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 559
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140e24176846b0690800000000000000
+      internalID: -7634898214687940543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 559
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca789978048e0d760800000000000000
+      internalID: 7480734344912930732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 468
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51583b61c39b2aad0800000000000000
+      internalID: -2692385959484095211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 468
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69844e602cfb5400800000000000000
+      internalID: 314121815251519853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 467
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb94927cdb84e9b0800000000000000
+      internalID: -5051759103071446035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 467
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1a7aa088d79e0f0800000000000000
+      internalID: -1087199811785481804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 466
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dc5f7c3d6086010800000000000000
+      internalID: 1182202408847396188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 374
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54deb37fb5674c80800000000000000
+      internalID: -8338584312098139041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 374
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31d441cd3efdd530800000000000000
+      internalID: 3881537995052208446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 376
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c8d6f75b6cb56d0800000000000000
+      internalID: -3000586243883037586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 376
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7530f6cd1e55f70800000000000000
+      internalID: 9175488152708798400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 377
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebece06c8cebe3f0800000000000000
+      internalID: -870342015300342807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 285
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b3dba75fc601df0800000000000000
+      internalID: -211549380904404203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 285
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a1852b3880c0430800000000000000
+      internalID: 3750381951418636827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 285
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0037550c0ed6a60800000000000000
+      internalID: 7669032857153765545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 283
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f3ca5e9ce5cd30800000000000000
+      internalID: 4451223971597383478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 285
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e92c169fc4e1f70800000000000000
+      internalID: 9159843326088879726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 193
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7dd168d3a78dad0800000000000000
+      internalID: -2677255573810063372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 194
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f515ae9fc43d370800000000000000
+      internalID: 8346099170709430173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 194
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af85ed2ca405530800000000000000
+      internalID: 3841652682961517107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7248a1562362ae50800000000000000
+      internalID: 6819121802022240892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 193
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a8ff3ad75970c0800000000000000
+      internalID: -4577530951357652943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5710af6e09709c0800000000000000
+      internalID: -3961038025537784330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 102
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f3104d31f42250800000000000000
+      internalID: 5919121055642022430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 102
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2033811c53fb481d0800000000000000
+      internalID: -3349341985263045886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 102
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd58165da9fbf8b0800000000000000
+      internalID: -5117222028707340844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 102
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c4339115e86f00800000000000000
+      internalID: 1110389171793740645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956741c5d627dfa40800000000000000
+      internalID: 5403600941936309849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 10
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66adc6c6b07a6c270800000000000000
+      internalID: 8270481433218046566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 10
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1053fe7af08f13c80800000000000000
+      internalID: -8344615888415148799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      water-Photoroom_0: 67864511856065365
+      water-Photoroom_1: -2589041810152161145
+      water-Photoroom_10: -2649117566354167129
+      water-Photoroom_11: -6452585571321513791
+      water-Photoroom_12: 8160899244261695545
+      water-Photoroom_13: -4028219219061184755
+      water-Photoroom_14: 9014266205500869503
+      water-Photoroom_15: 4346889791981710126
+      water-Photoroom_16: 3958070981215197767
+      water-Photoroom_17: 1290735564550311758
+      water-Photoroom_18: -8845196416125459675
+      water-Photoroom_19: 1251778684332122228
+      water-Photoroom_2: -7911600718156927913
+      water-Photoroom_20: -2994721474520608392
+      water-Photoroom_21: -3600561675456436944
+      water-Photoroom_22: -8433232788950505048
+      water-Photoroom_23: -8111281643604031400
+      water-Photoroom_24: -4290492614082917552
+      water-Photoroom_25: -666791746516738225
+      water-Photoroom_26: 3413178150032255863
+      water-Photoroom_27: -4282193321873789090
+      water-Photoroom_28: 8361200998813225189
+      water-Photoroom_29: 999667517501938496
+      water-Photoroom_3: 1007933081093455186
+      water-Photoroom_30: -422209037738154134
+      water-Photoroom_31: 6101341425512275654
+      water-Photoroom_32: 2265181099628782408
+      water-Photoroom_33: -3026523901571050700
+      water-Photoroom_34: 7344347367595394573
+      water-Photoroom_35: 1366833409072644381
+      water-Photoroom_36: 776894806681243799
+      water-Photoroom_37: -3874972783524521784
+      water-Photoroom_38: -7634898214687940543
+      water-Photoroom_39: 7480734344912930732
+      water-Photoroom_4: -4691868726326681673
+      water-Photoroom_40: -2692385959484095211
+      water-Photoroom_41: 314121815251519853
+      water-Photoroom_42: -5051759103071446035
+      water-Photoroom_43: -1087199811785481804
+      water-Photoroom_44: 1182202408847396188
+      water-Photoroom_45: -8338584312098139041
+      water-Photoroom_46: 3881537995052208446
+      water-Photoroom_47: -3000586243883037586
+      water-Photoroom_48: 9175488152708798400
+      water-Photoroom_49: -870342015300342807
+      water-Photoroom_5: 4299848499778498263
+      water-Photoroom_50: -211549380904404203
+      water-Photoroom_51: 3750381951418636827
+      water-Photoroom_52: 7669032857153765545
+      water-Photoroom_53: 4451223971597383478
+      water-Photoroom_54: 9159843326088879726
+      water-Photoroom_55: -2677255573810063372
+      water-Photoroom_56: 8346099170709430173
+      water-Photoroom_57: 3841652682961517107
+      water-Photoroom_58: 6819121802022240892
+      water-Photoroom_59: -4577530951357652943
+      water-Photoroom_6: -6225598494964810649
+      water-Photoroom_60: -3961038025537784330
+      water-Photoroom_61: 5919121055642022430
+      water-Photoroom_62: -3349341985263045886
+      water-Photoroom_63: -5117222028707340844
+      water-Photoroom_64: 1110389171793740645
+      water-Photoroom_65: 5403600941936309849
+      water-Photoroom_66: 8270481433218046566
+      water-Photoroom_67: -8344615888415148799
+      water-Photoroom_7: -3847546817527058352
+      water-Photoroom_8: 3097297556150435690
+      water-Photoroom_9: -650204573200481050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

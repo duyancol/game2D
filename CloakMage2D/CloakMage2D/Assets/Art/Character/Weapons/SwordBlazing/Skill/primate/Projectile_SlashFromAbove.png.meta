@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 90dc26b5823137147b20416d12c5b5cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -883689352409662208
+    second: Projectile_SlashFromAbove_0
+  - first:
+      213: 8449910025878476071
+    second: Projectile_SlashFromAbove_1
+  - first:
+      213: 5193818518914116097
+    second: Projectile_SlashFromAbove_2
+  - first:
+      213: -4506256327093631786
+    second: Projectile_SlashFromAbove_3
+  - first:
+      213: -5649507011319857250
+    second: Projectile_SlashFromAbove_4
+  - first:
+      213: -6966357047253947783
+    second: Projectile_SlashFromAbove_5
+  - first:
+      213: 4371617400870635587
+    second: Projectile_SlashFromAbove_6
+  - first:
+      213: 4981694536386824780
+    second: Projectile_SlashFromAbove_7
+  - first:
+      213: -9187913737178155869
+    second: Projectile_SlashFromAbove_8
+  - first:
+      213: -4283674610057118655
+    second: Projectile_SlashFromAbove_9
+  - first:
+      213: 586206785442555609
+    second: Projectile_SlashFromAbove_10
+  - first:
+      213: -8423875352119965530
+    second: Projectile_SlashFromAbove_11
+  - first:
+      213: -6342978886259646095
+    second: Projectile_SlashFromAbove_12
+  - first:
+      213: 8586590668112608950
+    second: Projectile_SlashFromAbove_13
+  - first:
+      213: 3351867472639487721
+    second: Projectile_SlashFromAbove_14
+  - first:
+      213: 4039414286573187989
+    second: Projectile_SlashFromAbove_15
+  - first:
+      213: -1835293461139860349
+    second: Projectile_SlashFromAbove_16
+  - first:
+      213: -5352015608242424091
+    second: Projectile_SlashFromAbove_17
+  - first:
+      213: 6599233665400687128
+    second: Projectile_SlashFromAbove_18
+  - first:
+      213: 1640556224116186474
+    second: Projectile_SlashFromAbove_19
+  - first:
+      213: 6151484113627821128
+    second: Projectile_SlashFromAbove_20
+  - first:
+      213: 5515430517519161024
+    second: Projectile_SlashFromAbove_21
+  - first:
+      213: 1598061967440232780
+    second: Projectile_SlashFromAbove_22
+  - first:
+      213: 1339755208548443685
+    second: Projectile_SlashFromAbove_23
+  - first:
+      213: 4281091296445736622
+    second: Projectile_SlashFromAbove_24
+  - first:
+      213: -7757073489663121385
+    second: Projectile_SlashFromAbove_25
+  - first:
+      213: 6715959477034332600
+    second: Projectile_SlashFromAbove_26
+  - first:
+      213: 7222119549925161000
+    second: Projectile_SlashFromAbove_27
+  - first:
+      213: 140677864518137305
+    second: Projectile_SlashFromAbove_28
+  - first:
+      213: 4492305831391534380
+    second: Projectile_SlashFromAbove_29
+  - first:
+      213: 2391064471307061122
+    second: Projectile_SlashFromAbove_30
+  - first:
+      213: -7542336344144650530
+    second: Projectile_SlashFromAbove_31
+  - first:
+      213: -7787126393899247928
+    second: Projectile_SlashFromAbove_32
+  - first:
+      213: 7036862441558671050
+    second: Projectile_SlashFromAbove_33
+  - first:
+      213: -1717929742304927602
+    second: Projectile_SlashFromAbove_34
+  - first:
+      213: 966317525704702127
+    second: Projectile_SlashFromAbove_35
+  - first:
+      213: 5998845562986315300
+    second: Projectile_SlashFromAbove_36
+  - first:
+      213: -438797920926017
+    second: Projectile_SlashFromAbove_37
+  - first:
+      213: -7982975488747185973
+    second: Projectile_SlashFromAbove_38
+  - first:
+      213: -4345409891249861440
+    second: Projectile_SlashFromAbove_39
+  - first:
+      213: 698431566789880901
+    second: Projectile_SlashFromAbove_40
+  - first:
+      213: -5891611768348889235
+    second: Projectile_SlashFromAbove_41
+  - first:
+      213: -2165113079710018780
+    second: Projectile_SlashFromAbove_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.16666673, y: 0.39297098}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 927
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00db3d947318cb3f0800000000000000
+      internalID: -883689352409662208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_1
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 324
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7259f74266c144570800000000000000
+      internalID: 8449910025878476071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aa8b7cc66241840800000000000000
+      internalID: 5193818518914116097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 317
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d44ab4eebf8671c0800000000000000
+      internalID: -4506256327093631786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 311
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f733a3e4be891b0800000000000000
+      internalID: -5649507011319857250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 80
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aa3e3cc27825f90800000000000000
+      internalID: -6966357047253947783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_6
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3488fc04dda1bac30800000000000000
+      internalID: 4371617400870635587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a47d469c8822540800000000000000
+      internalID: 4981694536386824780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_8
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 261
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4709cb229fd7080800000000000000
+      internalID: -9187913737178155869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_9
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 263
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c7f2653a45d84c0800000000000000
+      internalID: -4283674610057118655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_10
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d62a3b27ff922800800000000000000
+      internalID: 586206785442555609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_11
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 266
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a888b4bff1681b80800000000000000
+      internalID: -8423875352119965530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_12
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 227
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171e0ba3f4639f7a0800000000000000
+      internalID: -6342978886259646095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_13
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 235
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be398c08b2b92770800000000000000
+      internalID: 8586590668112608950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 211
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeecd815b9348e20800000000000000
+      internalID: 3351867472639487721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_15
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 219
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59335d354e1ee0830800000000000000
+      internalID: 4039414286573187989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_16
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 188
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3845926225ab786e0800000000000000
+      internalID: -1835293461139860349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_17
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 203
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e63d561922d9b5b0800000000000000
+      internalID: -5352015608242424091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 166
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ac100fd00359b50800000000000000
+      internalID: 6599233665400687128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_19
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 180
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d508c913d64c610800000000000000
+      internalID: 1640556224116186474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_20
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 149
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844be3a95367e5550800000000000000
+      internalID: 6151484113627821128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 137
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6141c65deba8c40800000000000000
+      internalID: 5515430517519161024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 134
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41465a74e47d2610800000000000000
+      internalID: 1598061967440232780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526628b8344c79210800000000000000
+      internalID: 1339755208548443685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea62aa71add796b30800000000000000
+      internalID: 4281091296445736622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 23
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718a70882c6595490800000000000000
+      internalID: -7757073489663121385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1bc8acf81e33d50800000000000000
+      internalID: 6715959477034332600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82871ba577f1a3460800000000000000
+      internalID: 7222119549925161000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 5
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d53d5eb5c9c3f100800000000000000
+      internalID: 140677864518137305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 12
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d12863a50e75e30800000000000000
+      internalID: 4492305831391534380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 14
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287805fd774ce2120800000000000000
+      internalID: 2391064471307061122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_31
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede5db65e0d345790800000000000000
+      internalID: -7542336344144650530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_32
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6119e7dc19ee390800000000000000
+      internalID: -7787126393899247928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_33
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 15
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace74629b15f7a160800000000000000
+      internalID: 7036862441558671050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8026d85000b828e0800000000000000
+      internalID: -1717929742304927602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 8
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8fcdb7bac096d00800000000000000
+      internalID: 966317525704702127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_36
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 5
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e3a3c914e204350800000000000000
+      internalID: 5998845562986315300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_37
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb68bc56ae07efff0800000000000000
+      internalID: -438797920926017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_38
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 6
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d29ea616c63190800000000000000
+      internalID: -7982975488747185973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_39
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc45941ab002b3c0800000000000000
+      internalID: -4345409891249861440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_40
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c2e6e3fc351b900800000000000000
+      internalID: 698431566789880901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fad01df4acc3ea0800000000000000
+      internalID: -5891611768348889235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SlashFromAbove_42
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42315511029f3f1e0800000000000000
+      internalID: -2165113079710018780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Projectile_SlashFromAbove_0: -883689352409662208
+      Projectile_SlashFromAbove_1: 8449910025878476071
+      Projectile_SlashFromAbove_10: 586206785442555609
+      Projectile_SlashFromAbove_11: -8423875352119965530
+      Projectile_SlashFromAbove_12: -6342978886259646095
+      Projectile_SlashFromAbove_13: 8586590668112608950
+      Projectile_SlashFromAbove_14: 3351867472639487721
+      Projectile_SlashFromAbove_15: 4039414286573187989
+      Projectile_SlashFromAbove_16: -1835293461139860349
+      Projectile_SlashFromAbove_17: -5352015608242424091
+      Projectile_SlashFromAbove_18: 6599233665400687128
+      Projectile_SlashFromAbove_19: 1640556224116186474
+      Projectile_SlashFromAbove_2: 5193818518914116097
+      Projectile_SlashFromAbove_20: 6151484113627821128
+      Projectile_SlashFromAbove_21: 5515430517519161024
+      Projectile_SlashFromAbove_22: 1598061967440232780
+      Projectile_SlashFromAbove_23: 1339755208548443685
+      Projectile_SlashFromAbove_24: 4281091296445736622
+      Projectile_SlashFromAbove_25: -7757073489663121385
+      Projectile_SlashFromAbove_26: 6715959477034332600
+      Projectile_SlashFromAbove_27: 7222119549925161000
+      Projectile_SlashFromAbove_28: 140677864518137305
+      Projectile_SlashFromAbove_29: 4492305831391534380
+      Projectile_SlashFromAbove_3: -4506256327093631786
+      Projectile_SlashFromAbove_30: 2391064471307061122
+      Projectile_SlashFromAbove_31: -7542336344144650530
+      Projectile_SlashFromAbove_32: -7787126393899247928
+      Projectile_SlashFromAbove_33: 7036862441558671050
+      Projectile_SlashFromAbove_34: -1717929742304927602
+      Projectile_SlashFromAbove_35: 966317525704702127
+      Projectile_SlashFromAbove_36: 5998845562986315300
+      Projectile_SlashFromAbove_37: -438797920926017
+      Projectile_SlashFromAbove_38: -7982975488747185973
+      Projectile_SlashFromAbove_39: -4345409891249861440
+      Projectile_SlashFromAbove_4: -5649507011319857250
+      Projectile_SlashFromAbove_40: 698431566789880901
+      Projectile_SlashFromAbove_41: -5891611768348889235
+      Projectile_SlashFromAbove_42: -2165113079710018780
+      Projectile_SlashFromAbove_5: -6966357047253947783
+      Projectile_SlashFromAbove_6: 4371617400870635587
+      Projectile_SlashFromAbove_7: 4981694536386824780
+      Projectile_SlashFromAbove_8: -9187913737178155869
+      Projectile_SlashFromAbove_9: -4283674610057118655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

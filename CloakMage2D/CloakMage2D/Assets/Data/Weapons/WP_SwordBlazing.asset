@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb4435d334cbcf347badd8b4b36e1d29, type: 3}
+  m_Name: WP_SwordBlazing
+  m_EditorClassIdentifier: 
+  weaponId: eqip_sword
+  weaponName: "\u0110ao R\u1EF1c L\u1EEDa"
+  uiIcon: {fileID: 21300000, guid: 704d63227b81d824aa9a12d640979179, type: 3}
+  weaponSprite: {fileID: 21300000, guid: 704d63227b81d824aa9a12d640979179, type: 3}
+  localPos: {x: 0, y: -1, z: 0}
+  localRotZ: -90
+  localScale: {x: 0.7, y: 0.7, z: 2}
+  auraPrefab: {fileID: 1911468635879801349, guid: 64b4b8d2966a9df41abd7b35898b5a17, type: 3}
+  auraLocalPos: {x: 0, y: 0, z: 0}
+  auraLocalRot: {x: 0, y: 0, z: 0}
+  auraLocalScale: {x: 1, y: 1, z: 1}
+  armPrefab: {fileID: 0}
+  bonus:
+    addMaxHP: 0
+    addAtk: 310
+    addSmpt: 310
+    addCritChance: 0.17
+    addCritDamage: 0
+    addDef: 0
+    addMdef: 0
+  level: 60
+  enhanceLevel: 0
+  exp: 500
+  ascend: 3
+  primarySkill: {fileID: 11400000, guid: 4ffe4203d5072eb44ba872c24590b03c, type: 2}
+  secondarySkill: {fileID: 11400000, guid: 4d2b35d3890ec49428d01b6beb053780, type: 2}
+  ultimateSkill: {fileID: 11400000, guid: 43faf16033ce00f4e988258b436dbace, type: 2}
+  passiveSkill: {fileID: 11400000, guid: 0ef5443fa0d1f6a44883a6903c63b701, type: 2}

@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: e3e8ff060bf5e3c4da37665a37dcb21c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5275298147385340926
+    second: R_archerLight_0
+  - first:
+      213: 9179032915443211483
+    second: R_archerLight_1
+  - first:
+      213: 5283947848727134058
+    second: R_archerLight_2
+  - first:
+      213: -3799371349751047112
+    second: R_archerLight_3
+  - first:
+      213: -4846965115809846812
+    second: R_archerLight_4
+  - first:
+      213: -6914105683344464225
+    second: R_archerLight_5
+  - first:
+      213: -6962452087721027645
+    second: R_archerLight_6
+  - first:
+      213: 4927110291776508303
+    second: R_archerLight_7
+  - first:
+      213: -4069905097679087740
+    second: R_archerLight_8
+  - first:
+      213: -2885391707066366648
+    second: R_archerLight_9
+  - first:
+      213: -3663527537442361520
+    second: R_archerLight_10
+  - first:
+      213: 2722982280243552347
+    second: R_archerLight_11
+  - first:
+      213: 4035440371600941303
+    second: R_archerLight_12
+  - first:
+      213: -8743399656298704403
+    second: R_archerLight_13
+  - first:
+      213: 6838194361371430201
+    second: R_archerLight_14
+  - first:
+      213: -218514628773017959
+    second: R_archerLight_15
+  - first:
+      213: 2433757960760224125
+    second: R_archerLight_16
+  - first:
+      213: 3082720203989208341
+    second: R_archerLight_17
+  - first:
+      213: 67817943148496773
+    second: R_archerLight_18
+  - first:
+      213: -5290480568320667909
+    second: R_archerLight_19
+  - first:
+      213: 5244857868944583038
+    second: R_archerLight_20
+  - first:
+      213: 3619848763817988211
+    second: R_archerLight_21
+  - first:
+      213: 6648016219854251589
+    second: R_archerLight_22
+  - first:
+      213: -6459454585019861028
+    second: R_archerLight_23
+  - first:
+      213: -8601823561224041255
+    second: R_archerLight_24
+  - first:
+      213: -8012186727943407225
+    second: R_archerLight_25
+  - first:
+      213: 5222376129864902095
+    second: R_archerLight_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: R_archerLight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 768
+        height: 512
+      alignment: 9
+      pivot: {x: 0.6640567, y: 0.10477257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c02d0e8406ac6b0800000000000000
+      internalID: -5275298147385340926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_archerLight_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 768
+        height: 512
+      alignment: 9
+      pivot: {x: 0.32102904, y: 0.10725832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc5c92ddc9726f70800000000000000
+      internalID: 9179032915443211483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_archerLight_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 768
+        height: 512
+      alignment: 9
+      pivot: {x: 0.63257104, y: 0.15200096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ff117a29a545940800000000000000
+      internalID: 5283947848727134058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_archerLight_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1
+        width: 768
+        height: 512
+      alignment: 9
+      pivot: {x: 0.3127435, y: 0.15448666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cda4823ebe54bc0800000000000000
+      internalID: -3799371349751047112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 614e060f9a8f8134cb34c2a4a99beb0d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      R_archerLight_0: -5275298147385340926
+      R_archerLight_1: 9179032915443211483
+      R_archerLight_2: 5283947848727134058
+      R_archerLight_3: -3799371349751047112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

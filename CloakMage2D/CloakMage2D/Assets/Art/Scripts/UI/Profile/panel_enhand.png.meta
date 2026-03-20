@@ -1,0 +1,2678 @@
+fileFormatVersion: 2
+guid: b848f5ae63878c34885c5bdb09ca2a2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3866933153743265358
+    second: panel_enhand_0
+  - first:
+      213: 7045943820948060084
+    second: panel_enhand_1
+  - first:
+      213: 7451698784970284636
+    second: panel_enhand_2
+  - first:
+      213: -1105292129781727271
+    second: panel_enhand_3
+  - first:
+      213: 437353824969524210
+    second: panel_enhand_4
+  - first:
+      213: -7879438905579060355
+    second: panel_enhand_5
+  - first:
+      213: 5116427469632490397
+    second: panel_enhand_6
+  - first:
+      213: -1194508947715059746
+    second: panel_enhand_7
+  - first:
+      213: 7840147692617328123
+    second: panel_enhand_8
+  - first:
+      213: -2243131490466046087
+    second: panel_enhand_9
+  - first:
+      213: 3709552238288228815
+    second: panel_enhand_10
+  - first:
+      213: -4479308941491656095
+    second: panel_enhand_11
+  - first:
+      213: -8502552854813427508
+    second: panel_enhand_12
+  - first:
+      213: 8758981265787447220
+    second: panel_enhand_13
+  - first:
+      213: 1648167163972135300
+    second: panel_enhand_14
+  - first:
+      213: -6411945223853210162
+    second: panel_enhand_15
+  - first:
+      213: -1746453170524508213
+    second: panel_enhand_16
+  - first:
+      213: -4521949479288744233
+    second: panel_enhand_17
+  - first:
+      213: -2268195646427934424
+    second: panel_enhand_18
+  - first:
+      213: -7412974786157024251
+    second: panel_enhand_19
+  - first:
+      213: 4310499479359743681
+    second: panel_enhand_20
+  - first:
+      213: -4266796888935326377
+    second: panel_enhand_21
+  - first:
+      213: 6904008792587071080
+    second: panel_enhand_22
+  - first:
+      213: -2450518130792936047
+    second: panel_enhand_23
+  - first:
+      213: -2059961565433982803
+    second: panel_enhand_24
+  - first:
+      213: -3981071840446789485
+    second: panel_enhand_25
+  - first:
+      213: 1347467491755597966
+    second: panel_enhand_26
+  - first:
+      213: 6741367772624793977
+    second: panel_enhand_27
+  - first:
+      213: -5971928153947377011
+    second: panel_enhand_28
+  - first:
+      213: 3783661299546821953
+    second: panel_enhand_29
+  - first:
+      213: 2228519197236601260
+    second: panel_enhand_30
+  - first:
+      213: 393189592144390765
+    second: panel_enhand_31
+  - first:
+      213: -5009818306095525551
+    second: panel_enhand_32
+  - first:
+      213: -4789555916947839038
+    second: panel_enhand_33
+  - first:
+      213: 532038742745451099
+    second: panel_enhand_34
+  - first:
+      213: -1896267550094734491
+    second: panel_enhand_35
+  - first:
+      213: 585075818016842561
+    second: panel_enhand_36
+  - first:
+      213: -7890780052181335111
+    second: panel_enhand_37
+  - first:
+      213: -5421135160968774248
+    second: panel_enhand_38
+  - first:
+      213: -3382117196125560418
+    second: panel_enhand_39
+  - first:
+      213: 7790014257296315012
+    second: panel_enhand_40
+  - first:
+      213: -7980231685607363055
+    second: panel_enhand_41
+  - first:
+      213: 8869870552285136459
+    second: panel_enhand_42
+  - first:
+      213: -8673073460214045463
+    second: panel_enhand_43
+  - first:
+      213: 2374876256814076983
+    second: panel_enhand_44
+  - first:
+      213: -867819729166348166
+    second: panel_enhand_45
+  - first:
+      213: 5477181462599137125
+    second: panel_enhand_46
+  - first:
+      213: -8310826654903591167
+    second: panel_enhand_47
+  - first:
+      213: -8551457484300878365
+    second: panel_enhand_48
+  - first:
+      213: 1122159733493224556
+    second: panel_enhand_49
+  - first:
+      213: 1577103669345660913
+    second: panel_enhand_50
+  - first:
+      213: 7373636806400221492
+    second: panel_enhand_51
+  - first:
+      213: 7004815358412694008
+    second: panel_enhand_52
+  - first:
+      213: -7134568048948755142
+    second: panel_enhand_53
+  - first:
+      213: 3770050682004760878
+    second: panel_enhand_54
+  - first:
+      213: -8479501904781531220
+    second: panel_enhand_55
+  - first:
+      213: -7078094235351669114
+    second: panel_enhand_56
+  - first:
+      213: -713341685606691836
+    second: panel_enhand_57
+  - first:
+      213: -9082522570742166764
+    second: panel_enhand_58
+  - first:
+      213: 3983619329648670502
+    second: panel_enhand_59
+  - first:
+      213: -3565603881251946134
+    second: panel_enhand_60
+  - first:
+      213: 310285822348152121
+    second: panel_enhand_61
+  - first:
+      213: 254208512844679111
+    second: panel_enhand_62
+  - first:
+      213: 634214771589803528
+    second: panel_enhand_63
+  - first:
+      213: 118051323685359983
+    second: panel_enhand_64
+  - first:
+      213: 7392207288046448673
+    second: panel_enhand_65
+  - first:
+      213: -7668443568796866639
+    second: panel_enhand_66
+  - first:
+      213: -5758906730477918749
+    second: panel_enhand_67
+  - first:
+      213: -2928708069587440620
+    second: panel_enhand_68
+  - first:
+      213: -6948630699507235171
+    second: panel_enhand_69
+  - first:
+      213: -1718076998435287502
+    second: panel_enhand_70
+  - first:
+      213: -6068098283449244772
+    second: panel_enhand_71
+  - first:
+      213: -104331416134244331
+    second: panel_enhand_72
+  - first:
+      213: -5341686445271917242
+    second: panel_enhand_73
+  - first:
+      213: -393802595024352781
+    second: panel_enhand_74
+  - first:
+      213: -6563992135144367027
+    second: panel_enhand_75
+  - first:
+      213: -2160056393958237139
+    second: panel_enhand_76
+  - first:
+      213: 3088155854671374595
+    second: panel_enhand_77
+  - first:
+      213: -5951901951305804650
+    second: panel_enhand_78
+  - first:
+      213: -5880760364657913063
+    second: panel_enhand_79
+  - first:
+      213: -1871725744822847203
+    second: panel_enhand_80
+  - first:
+      213: 5305373862960978667
+    second: panel_enhand_81
+  - first:
+      213: -658432215414393136
+    second: panel_enhand_82
+  - first:
+      213: 6711444800127899301
+    second: panel_enhand_83
+  - first:
+      213: 126901731025083397
+    second: panel_enhand_84
+  - first:
+      213: -531983190298538053
+    second: panel_enhand_85
+  - first:
+      213: 4474968898799007100
+    second: panel_enhand_86
+  - first:
+      213: -8507950627982209406
+    second: panel_enhand_87
+  - first:
+      213: 4256556168235599424
+    second: panel_enhand_88
+  - first:
+      213: 5891673396048772257
+    second: panel_enhand_89
+  - first:
+      213: 3125400720209859949
+    second: panel_enhand_90
+  - first:
+      213: 4068056205332706752
+    second: panel_enhand_91
+  - first:
+      213: 7379264237536953451
+    second: panel_enhand_92
+  - first:
+      213: -3491288268394085879
+    second: panel_enhand_93
+  - first:
+      213: 1855948910173329536
+    second: panel_enhand_94
+  - first:
+      213: -6508489363657415059
+    second: panel_enhand_95
+  - first:
+      213: -7438192164802752043
+    second: panel_enhand_96
+  - first:
+      213: -5140053845729497472
+    second: panel_enhand_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_enhand_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 1533
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e5c07273b1aa530800000000000000
+      internalID: 3866933153743265358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_1
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1018
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b7faf29838c160800000000000000
+      internalID: 7045943820948060084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_2
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1008
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e1d5b6090c96760800000000000000
+      internalID: 7451698784970284636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_3
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 994
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df335ff9a639a0f0800000000000000
+      internalID: -1105292129781727271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 808
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f387729cfac11600800000000000000
+      internalID: 437353824969524210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 752
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73419bff0c96a290800000000000000
+      internalID: -7879438905579060355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bce76fca3310740800000000000000
+      internalID: 5116427469632490397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 696
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0b6ad0704c6fe0800000000000000
+      internalID: -1194508947715059746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 680
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5ed0d99cccdcc60800000000000000
+      internalID: 7840147692617328123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 670
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f57464bcbced0e0800000000000000
+      internalID: -2243131490466046087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 640
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1dcee4b1afa7330800000000000000
+      internalID: 3709552238288228815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 616
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aa827004c46d1c0800000000000000
+      internalID: -4479308941491656095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 622
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8bcdc1a3dd00a80800000000000000
+      internalID: -8502552854813427508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 608
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7ef8ddd072e8970800000000000000
+      internalID: 8758981265787447220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 584
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489a503ad477fd610800000000000000
+      internalID: 1648167163972135300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 566
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec587f47ac13407a0800000000000000
+      internalID: -6411945223853210162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 550
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf2802381a53c7e0800000000000000
+      internalID: -1746453170524508213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 542
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d65bba28eece31c0800000000000000
+      internalID: -4521949479288744233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 534
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8215395b310c580e0800000000000000
+      internalID: -2268195646427934424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 528
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cee2625b2df1990800000000000000
+      internalID: -7412974786157024251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 520
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c66ebf3078f1db30800000000000000
+      internalID: 4310499479359743681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 488
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d944206da49c4c0800000000000000
+      internalID: -4266796888935326377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 454
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e6358fa67ffcf50800000000000000
+      internalID: 6904008792587071080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dce625eb20efdd0800000000000000
+      internalID: -2450518130792936047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 440
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da09951dedb8963e0800000000000000
+      internalID: -2059961565433982803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 430
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398cbd4f04460c8c0800000000000000
+      internalID: -3981071840446789485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 422
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80aa786b8a23b210800000000000000
+      internalID: 1347467491755597966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 415
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971319b95462e8d50800000000000000
+      internalID: 6741367772624793977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 398
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82ffcf0cf27f1da0800000000000000
+      internalID: -5971928153947377011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14591edb7e3428430800000000000000
+      internalID: 3783661299546821953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 391
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca12d66176a4dee10800000000000000
+      internalID: 2228519197236601260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 375
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aa521d9d3e47500800000000000000
+      internalID: 393189592144390765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 358
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1515de33bcc897ab0800000000000000
+      internalID: -5009818306095525551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7247a0544188db0800000000000000
+      internalID: -4789555916947839038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 318
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a861cea6e226700800000000000000
+      internalID: 532038742745451099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 341
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bc085c5ba1fa5e0800000000000000
+      internalID: -1896267550094734491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_36
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 343
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143a09b4b5b9e1800800000000000000
+      internalID: 585075818016842561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_37
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 325
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b34ef489515e7290800000000000000
+      internalID: -7890780052181335111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 310
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d73132b4244c4b0800000000000000
+      internalID: -5421135160968774248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_39
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 312
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e912230545e4011d0800000000000000
+      internalID: -3382117196125560418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_40
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482106991b0bb1c60800000000000000
+      internalID: 7790014257296315012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 302
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e6e022095804190800000000000000
+      internalID: -7980231685607363055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 293
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4647a0d54c181b70800000000000000
+      internalID: 8869870552285136459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 286
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4e21dc3ad03a780800000000000000
+      internalID: -8673073460214045463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 278
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73499e87f5145f020800000000000000
+      internalID: 2374876256814076983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_45
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 272
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70d6f1ed82e4f3f0800000000000000
+      internalID: -867819729166348166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 264
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5677398558bd20c40800000000000000
+      internalID: 5477181462599137125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 270
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f9f94a0330aac80800000000000000
+      internalID: -8310826654903591167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_48
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 263
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edf360c9be135980800000000000000
+      internalID: -8551457484300878365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 253
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c645c180556b29f00800000000000000
+      internalID: 1122159733493224556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 246
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff20517e6ff2e510800000000000000
+      internalID: 1577103669345660913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 237
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4312b34bb9b645660800000000000000
+      internalID: 7373636806400221492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1a363947a163160800000000000000
+      internalID: 7004815358412694008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_53
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 238
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35ce88f82cecfc90800000000000000
+      internalID: -7134568048948755142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_54
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 231
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ec16ee19e15430800000000000000
+      internalID: 3770050682004760878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 222
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7af35a1f1c25a80800000000000000
+      internalID: -8479501904781531220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 214
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686af175bce85cd90800000000000000
+      internalID: -7078094235351669114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c4fe13483b916f0800000000000000
+      internalID: -713341685606691836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b027ad7d564f180800000000000000
+      internalID: -9082522570742166764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b6189ca8a84730800000000000000
+      internalID: 3983619329648670502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_60
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 200
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a614930592e648ec0800000000000000
+      internalID: -3565603881251946134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 189
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dc6ebbf4b5e4400800000000000000
+      internalID: 310285822348152121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 182
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7ccfaab41278300800000000000000
+      internalID: 254208512844679111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 176
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e6aeb79fe2dc800800000000000000
+      internalID: 634214771589803528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61d78dad0763a100800000000000000
+      internalID: 118051323685359983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 166
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120ff06ec55669660800000000000000
+      internalID: 7392207288046448673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7ebbd0437349590800000000000000
+      internalID: -7668443568796866639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_67
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5e14337d04410b0800000000000000
+      internalID: -5758906730477918749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_68
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cab6517832b57d0800000000000000
+      internalID: -2928708069587440620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_69
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d964f78b131819f90800000000000000
+      internalID: -6948630699507235171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ece7b921a2828e0800000000000000
+      internalID: -1718076998435287502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93a9d8e2c8c9cba0800000000000000
+      internalID: -6068098283449244772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 65
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518a76a31275d8ef0800000000000000
+      internalID: -104331416134244331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_73
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 54
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d5c00ca748ed5b0800000000000000
+      internalID: -5341686445271917242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_74
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f942f350aee88af0800000000000000
+      internalID: -393802595024352781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_75
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 57
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c134c3ee308e4a0800000000000000
+      internalID: -6563992135144367027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_76
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 64
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cde477720f502e0800000000000000
+      internalID: -2160056393958237139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_77
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 53
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309eab853655bda20800000000000000
+      internalID: 3088155854671374595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_78
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 46
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6949676b5b8966da0800000000000000
+      internalID: -5951901951305804650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_79
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 58
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9135e5f1b97536ea0800000000000000
+      internalID: -5880760364657913063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_80
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 62
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1971e61a5b4606e0800000000000000
+      internalID: -1871725744822847203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_81
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 58
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea5e665b6970a940800000000000000
+      internalID: 5305373862960978667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_82
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d63d8b7367ccd6f0800000000000000
+      internalID: -658432215414393136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_83
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 58
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a61449ac77d32d50800000000000000
+      internalID: 6711444800127899301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_84
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 48
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cd127b378d2c100800000000000000
+      internalID: 126901731025083397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_85
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 48
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfc6c36b140e98f0800000000000000
+      internalID: -531983190298538053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_86
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 57
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75f5d901884a1e30800000000000000
+      internalID: 4474968898799007100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_87
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 56
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e0f8c1bffade980800000000000000
+      internalID: -8507950627982209406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_88
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0464e266843521b30800000000000000
+      internalID: 4256556168235599424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_89
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac3b100dbd63c150800000000000000
+      internalID: 5891673396048772257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_90
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 39
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65dbdc5567af5b20800000000000000
+      internalID: 3125400720209859949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_91
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 45
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5fd25b093a47830800000000000000
+      internalID: 4068056205332706752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_92
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64422e1ab9686660800000000000000
+      internalID: 7379264237536953451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_93
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c1e941d37c8fc0800000000000000
+      internalID: -3491288268394085879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_94
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088972853b7a1c910800000000000000
+      internalID: 1855948910173329536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_95
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66aace38633da5a0800000000000000
+      internalID: -6508489363657415059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_96
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d196d5a2ab36c890800000000000000
+      internalID: -7438192164802752043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enhand_97
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ea9eea24cdaa8b0800000000000000
+      internalID: -5140053845729497472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel_enhand_0: 3866933153743265358
+      panel_enhand_1: 7045943820948060084
+      panel_enhand_10: 3709552238288228815
+      panel_enhand_11: -4479308941491656095
+      panel_enhand_12: -8502552854813427508
+      panel_enhand_13: 8758981265787447220
+      panel_enhand_14: 1648167163972135300
+      panel_enhand_15: -6411945223853210162
+      panel_enhand_16: -1746453170524508213
+      panel_enhand_17: -4521949479288744233
+      panel_enhand_18: -2268195646427934424
+      panel_enhand_19: -7412974786157024251
+      panel_enhand_2: 7451698784970284636
+      panel_enhand_20: 4310499479359743681
+      panel_enhand_21: -4266796888935326377
+      panel_enhand_22: 6904008792587071080
+      panel_enhand_23: -2450518130792936047
+      panel_enhand_24: -2059961565433982803
+      panel_enhand_25: -3981071840446789485
+      panel_enhand_26: 1347467491755597966
+      panel_enhand_27: 6741367772624793977
+      panel_enhand_28: -5971928153947377011
+      panel_enhand_29: 3783661299546821953
+      panel_enhand_3: -1105292129781727271
+      panel_enhand_30: 2228519197236601260
+      panel_enhand_31: 393189592144390765
+      panel_enhand_32: -5009818306095525551
+      panel_enhand_33: -4789555916947839038
+      panel_enhand_34: 532038742745451099
+      panel_enhand_35: -1896267550094734491
+      panel_enhand_36: 585075818016842561
+      panel_enhand_37: -7890780052181335111
+      panel_enhand_38: -5421135160968774248
+      panel_enhand_39: -3382117196125560418
+      panel_enhand_4: 437353824969524210
+      panel_enhand_40: 7790014257296315012
+      panel_enhand_41: -7980231685607363055
+      panel_enhand_42: 8869870552285136459
+      panel_enhand_43: -8673073460214045463
+      panel_enhand_44: 2374876256814076983
+      panel_enhand_45: -867819729166348166
+      panel_enhand_46: 5477181462599137125
+      panel_enhand_47: -8310826654903591167
+      panel_enhand_48: -8551457484300878365
+      panel_enhand_49: 1122159733493224556
+      panel_enhand_5: -7879438905579060355
+      panel_enhand_50: 1577103669345660913
+      panel_enhand_51: 7373636806400221492
+      panel_enhand_52: 7004815358412694008
+      panel_enhand_53: -7134568048948755142
+      panel_enhand_54: 3770050682004760878
+      panel_enhand_55: -8479501904781531220
+      panel_enhand_56: -7078094235351669114
+      panel_enhand_57: -713341685606691836
+      panel_enhand_58: -9082522570742166764
+      panel_enhand_59: 3983619329648670502
+      panel_enhand_6: 5116427469632490397
+      panel_enhand_60: -3565603881251946134
+      panel_enhand_61: 310285822348152121
+      panel_enhand_62: 254208512844679111
+      panel_enhand_63: 634214771589803528
+      panel_enhand_64: 118051323685359983
+      panel_enhand_65: 7392207288046448673
+      panel_enhand_66: -7668443568796866639
+      panel_enhand_67: -5758906730477918749
+      panel_enhand_68: -2928708069587440620
+      panel_enhand_69: -6948630699507235171
+      panel_enhand_7: -1194508947715059746
+      panel_enhand_70: -1718076998435287502
+      panel_enhand_71: -6068098283449244772
+      panel_enhand_72: -104331416134244331
+      panel_enhand_73: -5341686445271917242
+      panel_enhand_74: -393802595024352781
+      panel_enhand_75: -6563992135144367027
+      panel_enhand_76: -2160056393958237139
+      panel_enhand_77: 3088155854671374595
+      panel_enhand_78: -5951901951305804650
+      panel_enhand_79: -5880760364657913063
+      panel_enhand_8: 7840147692617328123
+      panel_enhand_80: -1871725744822847203
+      panel_enhand_81: 5305373862960978667
+      panel_enhand_82: -658432215414393136
+      panel_enhand_83: 6711444800127899301
+      panel_enhand_84: 126901731025083397
+      panel_enhand_85: -531983190298538053
+      panel_enhand_86: 4474968898799007100
+      panel_enhand_87: -8507950627982209406
+      panel_enhand_88: 4256556168235599424
+      panel_enhand_89: 5891673396048772257
+      panel_enhand_9: -2243131490466046087
+      panel_enhand_90: 3125400720209859949
+      panel_enhand_91: 4068056205332706752
+      panel_enhand_92: 7379264237536953451
+      panel_enhand_93: -3491288268394085879
+      panel_enhand_94: 1855948910173329536
+      panel_enhand_95: -6508489363657415059
+      panel_enhand_96: -7438192164802752043
+      panel_enhand_97: -5140053845729497472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

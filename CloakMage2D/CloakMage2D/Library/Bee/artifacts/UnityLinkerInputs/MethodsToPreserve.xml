@@ -1,0 +1,95 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="CharacterEquipmentUI">
+			<method name="Toggle"/>
+			<method name="Toggle"/>
+			<method name="Toggle"/>
+			<method name="Toggle"/>
+		</type>
+		<type fullname="EquipmentPanelUI">
+			<method name="OnClickEquip"/>
+			<method name="OnClickEquip"/>
+		</type>
+		<type fullname="GameOverUI">
+			<method name="Quit"/>
+			<method name="Retry"/>
+		</type>
+		<type fullname="GoogleLogin">
+			<method name="SignIn"/>
+		</type>
+		<type fullname="InventoryUI">
+			<method name="Toggle"/>
+			<method name="Toggle"/>
+			<method name="Toggle"/>
+			<method name="Toggle"/>
+		</type>
+		<type fullname="ItemPanelUI">
+			<method name="ClosePanel"/>
+			<method name="ClosePanel"/>
+			<method name="ClosePanel"/>
+		</type>
+		<type fullname="MainMenuUI">
+			<method name="PlayGame"/>
+			<method name="PlayGame"/>
+			<method name="PlayGame"/>
+			<method name="PlayGame"/>
+			<method name="PlayGame"/>
+			<method name="PlayGame"/>
+		</type>
+		<type fullname="MapUIController">
+			<method name="ToggleMap"/>
+			<method name="ToggleMap"/>
+		</type>
+		<type fullname="PlayerDeathKnockback">
+			<method name="PlayDeath"/>
+			<method name="PlayDeath"/>
+		</type>
+		<type fullname="PlayerMove2D">
+			<method name="OnFlyDown"/>
+			<method name="OnFlyUp"/>
+		</type>
+		<type fullname="PlayerStatsPanelUI">
+			<method name="TogglePanel"/>
+			<method name="TogglePanel"/>
+			<method name="TogglePanel"/>
+		</type>
+		<type fullname="WeaponController">
+			<method name="OnAttackDown"/>
+			<method name="OnAttackUp"/>
+			<method name="OnSecondaryDown"/>
+			<method name="OnSecondaryUp"/>
+			<method name="OnUltimateDown"/>
+			<method name="OnUltimateUp"/>
+		</type>
+		<type fullname="WeaponPanelUI">
+			<method name="Toggle"/>
+			<method name="Toggle"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
+			<method name="OnAction"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+</linker>

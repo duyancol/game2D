@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec13bc8f86748540856d6f10fd5a9d5, type: 3}
+  m_Name: New Rain Of Judgment Skill
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 0
+  skillIcon: {fileID: -8069713644359312995, guid: df9af2b681dce694ab0b42d0cd0a28f1, type: 3}
+  cooldown: 12
+  arrowPrefab: {fileID: 8848468547802208971, guid: 65ff8ca3bb87c2c4287ca12f3fcc7ab8, type: 3}
+  auraPrefab: {fileID: 0}
+  auraLocalOffset: {x: 0, y: 0.2, z: 0}
+  auraLife: 1
+  arrowCount: 50
+  rainRadius: 15
+  forwardDistance: 4
+  arrowHeight: 7.6
+  arrowFallTime: 0.6
+  delayBetweenArrows: 0.01
+  baseDamage: 0
+  atkScale: 0.6
+  smptScale: 0
+  damageType: 0
+  canCrit: 1
+  radius: 1.2
+  hitMask:
+    serializedVersion: 2
+    m_Bits: 64
+  invincibleTime: 0.5

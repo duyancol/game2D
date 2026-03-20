@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7bd0608deb15cc40b5c406d8211eb28, type: 3}
+  m_Name: "\u0110\xE1"
+  m_EditorClassIdentifier: 
+  itemId: item_dch
+  itemName: "\u0110\xE1 c\u01B0\u1EDDng h\xF3a"
+  icon: {fileID: -1194089945859603751, guid: 900fc26843b9afd499fcd14028d46035, type: 3}
+  useEffect: {fileID: 0}
+  itemType: 2
+  description: "Nguy\xEAn li\u1EC7u d\xF9ng \u0111\u1EC3 c\u01B0\u1EDDng h\xF3a v\u0169
+    kh\xED."
+  equipmentProfile: {fileID: 0}
+  weaponProfile: {fileID: 0}

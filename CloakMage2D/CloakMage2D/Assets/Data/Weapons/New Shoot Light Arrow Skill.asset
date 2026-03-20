@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef216152f7625f42b531e959ec5039a, type: 3}
+  m_Name: New Shoot Light Arrow Skill
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 0
+  skillIcon: {fileID: 1132778385506510779, guid: df9af2b681dce694ab0b42d0cd0a28f1, type: 3}
+  cooldown: 0.7
+  spreadAngle: 5
+  multiArrowCount: 5
+  lightArrowPrefab: {fileID: 6842625049292623778, guid: 7156e8ddbc29b2a4b9cd72583a7fcd0b, type: 3}
+  muzzleFlashPrefab: {fileID: 0}
+  speed: 30
+  lifeTime: 1.2
+  muzzleOffset: 0.8
+  aimAngleOffset: 0
+  damage: 1
+  damageType: 0
+  atkScale: 0.4
+  smptScale: 0
+  canCrit: 1
+  ignoreOwnerCollisionTime: 0.08
+  muzzleFlashLife: 0.25
+  skillAnimDuration: 0.4

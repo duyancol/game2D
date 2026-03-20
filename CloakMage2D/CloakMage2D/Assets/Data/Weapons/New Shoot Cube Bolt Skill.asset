@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc1b876478df88241a4e1f9b16aab99c, type: 3}
+  m_Name: New Shoot Cube Bolt Skill
+  m_EditorClassIdentifier: 
+  skillName: normal
+  castType: 0
+  skillIcon: {fileID: -1861001398132649826, guid: 556f6c576eb3eb84d8ffdf5a43d09216, type: 3}
+  cooldown: 1
+  projectilePrefab: {fileID: 5479717801456112797, guid: 9a288aa4f4219f24fb1de255b41313ff, type: 3}
+  speed: 20
+  lifeTime: 1.2
+  muzzleOffset: 2
+  aimAngleOffset: 0
+  damage: 60
+  damageType: 1
+  atkScale: 0
+  smptScale: 1
+  canCrit: 1
+  ignoreOwnerCollisionTime: 0.08

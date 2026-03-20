@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 46654b4e367f14549ab3f31162752735
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6596945680655518761
+    second: Impact_UltiSW_0
+  - first:
+      213: -4329000150498379242
+    second: Impact_UltiSW_1
+  - first:
+      213: 2151573658012988385
+    second: Impact_UltiSW_2
+  - first:
+      213: 1670665786620401990
+    second: Impact_UltiSW_3
+  - first:
+      213: -4035211302804412439
+    second: Impact_UltiSW_4
+  - first:
+      213: -6747369221196642767
+    second: Impact_UltiSW_5
+  - first:
+      213: 999693077501990042
+    second: Impact_UltiSW_6
+  - first:
+      213: 918477225226698628
+    second: Impact_UltiSW_7
+  - first:
+      213: 2269749733649307491
+    second: Impact_UltiSW_8
+  - first:
+      213: 6952374944357023915
+    second: Impact_UltiSW_9
+  - first:
+      213: -6128463608193542078
+    second: Impact_UltiSW_10
+  - first:
+      213: -810020466434679055
+    second: Impact_UltiSW_11
+  - first:
+      213: -2445388161340461275
+    second: Impact_UltiSW_12
+  - first:
+      213: 7926641270025563759
+    second: Impact_UltiSW_13
+  - first:
+      213: 4797893688082162628
+    second: Impact_UltiSW_14
+  - first:
+      213: 3644964685743888739
+    second: Impact_UltiSW_15
+  - first:
+      213: 4699433115589397802
+    second: Impact_UltiSW_16
+  - first:
+      213: 6063154318080173750
+    second: Impact_UltiSW_17
+  - first:
+      213: -3837357888918381672
+    second: Impact_UltiSW_18
+  - first:
+      213: 1626688327244782511
+    second: Impact_UltiSW_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Impact_UltiSW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c050af42f0d8b50800000000000000
+      internalID: 6596945680655518761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 268
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a7ee49c4d4ce3c0800000000000000
+      internalID: -4329000150498379242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 263
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3b3f9a7dcebdd10800000000000000
+      internalID: 2151573658012988385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 271
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64958ed6ea56f2710800000000000000
+      internalID: 1670665786620401990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7a3b613bc0008c0800000000000000
+      internalID: -4035211302804412439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 127
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1368b2241778c52a0800000000000000
+      internalID: -6747369221196642767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 116
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a945ce0be8f9fdd00800000000000000
+      internalID: 999693077501990042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f7ce78b261fbc00800000000000000
+      internalID: 918477225226698628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 85
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367543b6b55cf7f10800000000000000
+      internalID: 2269749733649307491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 90
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba00ab73d2ccb7060800000000000000
+      internalID: 6952374944357023915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 54
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24817be71d253faa0800000000000000
+      internalID: -6128463608193542078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe5d5d6daa32c4f0800000000000000
+      internalID: -810020466434679055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f2b596c6c301ed0800000000000000
+      internalID: -2445388161340461275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 52
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e23d9ec36110e60800000000000000
+      internalID: 7926641270025563759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 47
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3e93493ea859240800000000000000
+      internalID: 4797893688082162628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3699b90e114859230800000000000000
+      internalID: 3644964685743888739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dc96c158db73140800000000000000
+      internalID: 4699433115589397802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 19
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b66b837ab6a42450800000000000000
+      internalID: 6063154318080173750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b1afac457febac0800000000000000
+      internalID: -3837357888918381672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_UltiSW_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab13b14a68239610800000000000000
+      internalID: 1626688327244782511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Impact_UltiSW_0: 6596945680655518761
+      Impact_UltiSW_1: -4329000150498379242
+      Impact_UltiSW_10: -6128463608193542078
+      Impact_UltiSW_11: -810020466434679055
+      Impact_UltiSW_12: -2445388161340461275
+      Impact_UltiSW_13: 7926641270025563759
+      Impact_UltiSW_14: 4797893688082162628
+      Impact_UltiSW_15: 3644964685743888739
+      Impact_UltiSW_16: 4699433115589397802
+      Impact_UltiSW_17: 6063154318080173750
+      Impact_UltiSW_18: -3837357888918381672
+      Impact_UltiSW_19: 1626688327244782511
+      Impact_UltiSW_2: 2151573658012988385
+      Impact_UltiSW_3: 1670665786620401990
+      Impact_UltiSW_4: -4035211302804412439
+      Impact_UltiSW_5: -6747369221196642767
+      Impact_UltiSW_6: 999693077501990042
+      Impact_UltiSW_7: 918477225226698628
+      Impact_UltiSW_8: 2269749733649307491
+      Impact_UltiSW_9: 6952374944357023915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

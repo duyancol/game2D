@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: a8869fd09567a3c4388b21ac7a80e832
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1387529610964762846
+    second: skill_light_icon_0
+  - first:
+      213: -5953191157620961258
+    second: skill_light_icon_1
+  - first:
+      213: -5774482901859772249
+    second: skill_light_icon_2
+  - first:
+      213: 3460897547938402671
+    second: skill_light_icon_3
+  - first:
+      213: -7305468300457380159
+    second: skill_light_icon_4
+  - first:
+      213: 656812582908300386
+    second: skill_light_icon_5
+  - first:
+      213: 2446470165631180648
+    second: skill_light_icon_6
+  - first:
+      213: 2432585596551157394
+    second: skill_light_icon_7
+  - first:
+      213: -8204927319194774881
+    second: skill_light_icon_8
+  - first:
+      213: 5429837739633311950
+    second: skill_light_icon_9
+  - first:
+      213: -7557288942307248766
+    second: skill_light_icon_10
+  - first:
+      213: 7982777402358512229
+    second: skill_light_icon_11
+  - first:
+      213: -6196589208920058191
+    second: skill_light_icon_12
+  - first:
+      213: -1068764502157797875
+    second: skill_light_icon_13
+  - first:
+      213: 4077279225251651627
+    second: skill_light_icon_14
+  - first:
+      213: 4575275489481605695
+    second: skill_light_icon_15
+  - first:
+      213: -6087817300283217189
+    second: skill_light_icon_16
+  - first:
+      213: 5110608423640867502
+    second: skill_light_icon_17
+  - first:
+      213: 1985314800658255273
+    second: skill_light_icon_18
+  - first:
+      213: 1387956205056885595
+    second: skill_light_icon_19
+  - first:
+      213: -3792635071381086134
+    second: skill_light_icon_20
+  - first:
+      213: -497478395777034821
+    second: skill_light_icon_21
+  - first:
+      213: -1142965067328133370
+    second: skill_light_icon_22
+  - first:
+      213: -6917203597553087334
+    second: skill_light_icon_23
+  - first:
+      213: -6800072901976082808
+    second: skill_light_icon_24
+  - first:
+      213: -6332747381346537427
+    second: skill_light_icon_25
+  - first:
+      213: 8740073119048634217
+    second: skill_light_icon_26
+  - first:
+      213: 7651994272635370696
+    second: skill_light_icon_27
+  - first:
+      213: 6214977876495509476
+    second: skill_light_icon_28
+  - first:
+      213: 8048924147667455820
+    second: skill_light_icon_29
+  - first:
+      213: 6796557845574650846
+    second: skill_light_icon_30
+  - first:
+      213: 6316671483870265948
+    second: skill_light_icon_31
+  - first:
+      213: 6149364667293851230
+    second: skill_light_icon_32
+  - first:
+      213: -4706712303121903978
+    second: skill_light_icon_33
+  - first:
+      213: 8946093611428205675
+    second: skill_light_icon_34
+  - first:
+      213: 797129595820600750
+    second: skill_light_icon_35
+  - first:
+      213: 7182635780604570201
+    second: skill_light_icon_36
+  - first:
+      213: 1423204307190680445
+    second: skill_light_icon_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skill_light_icon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 107
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed004e864de714310800000000000000
+      internalID: 1387529610964762846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610910afe24026da0800000000000000
+      internalID: -5953191157620961258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 664
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8d411356aecdfa0800000000000000
+      internalID: -5774482901859772249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 648
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6193e4bbf3970030800000000000000
+      internalID: 3460897547938402671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 632
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c67c596943cd9a90800000000000000
+      internalID: -7305468300457380159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 622
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c814070977d1900800000000000000
+      internalID: 656812582908300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 616
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f990857ab93f120800000000000000
+      internalID: 2446470165631180648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 581
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296d92036b742c120800000000000000
+      internalID: 2432585596551157394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 547
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f925f73231e322e80800000000000000
+      internalID: -8204927319194774881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 533
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec08adad7a8aa5b40800000000000000
+      internalID: 5429837739633311950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 525
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285f9c84fbd1f1790800000000000000
+      internalID: -7557288942307248766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 517
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a389cb0c588ce60800000000000000
+      internalID: 7982777402358512229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 470
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b61d4702fa410aa0800000000000000
+      internalID: -6196589208920058191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 437
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06565c095cfa21f0800000000000000
+      internalID: -1068764502157797875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 427
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20643f5ad7659830800000000000000
+      internalID: 4077279225251651627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 411
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f324a1c11d4ae7f30800000000000000
+      internalID: 4575275489481605695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 395
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda24278b6ab38ba0800000000000000
+      internalID: -6087817300283217189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 381
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ab3db8478ce640800000000000000
+      internalID: 5110608423640867502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 371
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad8f84ea414d8b10800000000000000
+      internalID: 1985314800658255273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 360
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53073690d2034310800000000000000
+      internalID: 1387956205056885595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 349
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4064af2f7add5bc0800000000000000
+      internalID: -3792635071381086134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 323
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb55748e80a9819f0800000000000000
+      internalID: -497478395777034821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 307
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607e933b35f5320f0800000000000000
+      internalID: -1142965067328133370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 293
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c4bc81af72100a0800000000000000
+      internalID: -6917203597553087334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 710
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886b4f659b941a1a0800000000000000
+      internalID: -6800072901976082808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20fd8a1fcf8d18a0800000000000000
+      internalID: -6332747381346537427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 334
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f85d3e13afa4970800000000000000
+      internalID: 8740073119048634217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc31cbbf38513a60800000000000000
+      internalID: 7651994272635370696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 574
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e72d674379004650800000000000000
+      internalID: 6214977876495509476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 542
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f48c50ed583bf60800000000000000
+      internalID: 8048924147667455820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb0fd0d959325e50800000000000000
+      internalID: 6796557845574650846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 289
+        width: 463
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c524de65f3359a750800000000000000
+      internalID: 6316671483870265948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e536c859ee65550800000000000000
+      internalID: 6149364667293851230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 411
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e4578f8166eaeb0800000000000000
+      internalID: -4706712303121903978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_34
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 240
+        width: 610
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d19cbdb8e62c70800000000000000
+      internalID: 8946093611428205675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_35
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead66ded429ff0b00800000000000000
+      internalID: 797129595820600750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_36
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a22fdef29dda360800000000000000
+      internalID: 7182635780604570201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_light_icon_37
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 154
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b08e4e6cc30c310800000000000000
+      internalID: 1423204307190680445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ca7b0958b5f1fc04abb400ee6270caf3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skill_light_icon_0: 1387529610964762846
+      skill_light_icon_1: -5953191157620961258
+      skill_light_icon_10: -7557288942307248766
+      skill_light_icon_11: 7982777402358512229
+      skill_light_icon_12: -6196589208920058191
+      skill_light_icon_13: -1068764502157797875
+      skill_light_icon_14: 4077279225251651627
+      skill_light_icon_15: 4575275489481605695
+      skill_light_icon_16: -6087817300283217189
+      skill_light_icon_17: 5110608423640867502
+      skill_light_icon_18: 1985314800658255273
+      skill_light_icon_19: 1387956205056885595
+      skill_light_icon_2: -5774482901859772249
+      skill_light_icon_20: -3792635071381086134
+      skill_light_icon_21: -497478395777034821
+      skill_light_icon_22: -1142965067328133370
+      skill_light_icon_23: -6917203597553087334
+      skill_light_icon_24: -6800072901976082808
+      skill_light_icon_25: -6332747381346537427
+      skill_light_icon_26: 8740073119048634217
+      skill_light_icon_27: 7651994272635370696
+      skill_light_icon_28: 6214977876495509476
+      skill_light_icon_29: 8048924147667455820
+      skill_light_icon_3: 3460897547938402671
+      skill_light_icon_30: 6796557845574650846
+      skill_light_icon_31: 6316671483870265948
+      skill_light_icon_32: 6149364667293851230
+      skill_light_icon_33: -4706712303121903978
+      skill_light_icon_34: 8946093611428205675
+      skill_light_icon_35: 797129595820600750
+      skill_light_icon_36: 7182635780604570201
+      skill_light_icon_37: 1423204307190680445
+      skill_light_icon_4: -7305468300457380159
+      skill_light_icon_5: 656812582908300386
+      skill_light_icon_6: 2446470165631180648
+      skill_light_icon_7: 2432585596551157394
+      skill_light_icon_8: -8204927319194774881
+      skill_light_icon_9: 5429837739633311950
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

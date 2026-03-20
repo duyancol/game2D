@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 2c46201b26062f24399264cb62073371
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -763456181041743142
+    second: boss_ant_gold_0
+  - first:
+      213: -1412561501133541552
+    second: boss_ant_gold_1
+  - first:
+      213: -6867814514811360895
+    second: boss_ant_gold_2
+  - first:
+      213: -4919324539839133439
+    second: boss_ant_gold_3
+  - first:
+      213: 4891269559333754012
+    second: boss_ant_gold_4
+  - first:
+      213: -1595734015475565059
+    second: boss_ant_gold_5
+  - first:
+      213: 6195095781217925022
+    second: boss_ant_gold_6
+  - first:
+      213: -1231859582775345106
+    second: boss_ant_gold_7
+  - first:
+      213: -4288442092078148446
+    second: boss_ant_gold_8
+  - first:
+      213: -4627874902363879701
+    second: boss_ant_gold_9
+  - first:
+      213: -6262059439461249427
+    second: boss_ant_gold_10
+  - first:
+      213: -7724755497371970475
+    second: boss_ant_gold_11
+  - first:
+      213: -63770162293508200
+    second: boss_ant_gold_12
+  - first:
+      213: 4182420243776656751
+    second: boss_ant_gold_13
+  - first:
+      213: -2047483615663402932
+    second: boss_ant_gold_14
+  - first:
+      213: 7841833019238769377
+    second: boss_ant_gold_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_ant_gold_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 744
+        width: 231
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada3e67f5a8a765f0800000000000000
+      internalID: -763456181041743142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fea8d7cc2956ce0800000000000000
+      internalID: -1412561501133541552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 687
+        width: 287
+        height: 335
+      alignment: 9
+      pivot: {x: 0.42018005, y: 0.07450625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a565061f90b0a0800000000000000
+      internalID: -6867814514811360895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 594
+        width: 421
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109c60c056c0bbbb0800000000000000
+      internalID: -4919324539839133439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 951
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9415c8cfb741e340800000000000000
+      internalID: 4891269559333754012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 319
+        width: 134
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd32931e50dad9e0800000000000000
+      internalID: -1595734015475565059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 536
+        width: 192
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97f30d3ac669f550800000000000000
+      internalID: 6195095781217925022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 347
+        width: 89
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c3837c3e87eee0800000000000000
+      internalID: -1231859582775345106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 327
+        width: 206
+        height: 345
+      alignment: 9
+      pivot: {x: 0.635918, y: 0.5553341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a459dd63a46c74c0800000000000000
+      internalID: -4288442092078148446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 252
+        width: 390
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6c7abbb4c76cfb0800000000000000
+      internalID: -4627874902363879701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 97
+        width: 146
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec78c1e12b819a0800000000000000
+      internalID: -6262059439461249427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 39
+        width: 211
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554d56a7dc72cc490800000000000000
+      internalID: -7724755497371970475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 52
+        width: 324
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f93110617d1ff0800000000000000
+      internalID: -63770162293508200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_13
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 73
+        width: 128
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65d5b36d01fa0a30800000000000000
+      internalID: 4182420243776656751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 23
+        width: 227
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4053f4ef70e593e0800000000000000
+      internalID: -2047483615663402932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_ant_gold_15
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2e7ab4599c3dc60800000000000000
+      internalID: 7841833019238769377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7c5cee229bd5bec4b9da851821cfb2ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_ant_gold_0: -763456181041743142
+      boss_ant_gold_1: -1412561501133541552
+      boss_ant_gold_10: -6262059439461249427
+      boss_ant_gold_11: -7724755497371970475
+      boss_ant_gold_12: -63770162293508200
+      boss_ant_gold_13: 4182420243776656751
+      boss_ant_gold_14: -2047483615663402932
+      boss_ant_gold_15: 7841833019238769377
+      boss_ant_gold_2: -6867814514811360895
+      boss_ant_gold_3: -4919324539839133439
+      boss_ant_gold_4: 4891269559333754012
+      boss_ant_gold_5: -1595734015475565059
+      boss_ant_gold_6: 6195095781217925022
+      boss_ant_gold_7: -1231859582775345106
+      boss_ant_gold_8: -4288442092078148446
+      boss_ant_gold_9: -4627874902363879701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

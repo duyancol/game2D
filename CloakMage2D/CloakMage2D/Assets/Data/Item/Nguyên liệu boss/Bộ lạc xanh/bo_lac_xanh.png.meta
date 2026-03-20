@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 16d0580fe4f7d504bb6fd60919de6e93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9048602908622622750
+    second: bo_lac_xanh_0
+  - first:
+      213: -7878136269076608000
+    second: bo_lac_xanh_1
+  - first:
+      213: -4579785554471886298
+    second: bo_lac_xanh_2
+  - first:
+      213: -3564274122698379351
+    second: bo_lac_xanh_3
+  - first:
+      213: -7965634330379437755
+    second: bo_lac_xanh_4
+  - first:
+      213: -7644883343915199103
+    second: bo_lac_xanh_5
+  - first:
+      213: -5244747806896218612
+    second: bo_lac_xanh_6
+  - first:
+      213: 4630259989772183475
+    second: bo_lac_xanh_7
+  - first:
+      213: 6871530608457857352
+    second: bo_lac_xanh_8
+  - first:
+      213: 624501503114371692
+    second: bo_lac_xanh_9
+  - first:
+      213: -6255012125501856330
+    second: bo_lac_xanh_10
+  - first:
+      213: -7553421825204517085
+    second: bo_lac_xanh_11
+  - first:
+      213: -6267722659760246766
+    second: bo_lac_xanh_12
+  - first:
+      213: 1998733125008567245
+    second: bo_lac_xanh_13
+  - first:
+      213: -271838041854080383
+    second: bo_lac_xanh_14
+  - first:
+      213: -2020254307735187536
+    second: bo_lac_xanh_15
+  - first:
+      213: -1740247134997674143
+    second: bo_lac_xanh_16
+  - first:
+      213: 4006407933468771782
+    second: bo_lac_xanh_17
+  - first:
+      213: 6471163909563333960
+    second: bo_lac_xanh_18
+  - first:
+      213: 1294757943867325713
+    second: bo_lac_xanh_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 230, y: 186, z: 172, w: 151}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bo_lac_xanh_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 86
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1094026768139d70800000000000000
+      internalID: 9048602908622622750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 614
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c419dadcc3ba290800000000000000
+      internalID: -7878136269076608000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 983
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622ec3e8d455170c0800000000000000
+      internalID: -4579785554471886298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 815
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af227ad197298ec0800000000000000
+      internalID: -3564274122698379351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 768
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b31fb7c1647190800000000000000
+      internalID: -7965634330379437755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 303
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18552a06a1be7e590800000000000000
+      internalID: -7644883343915199103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 238
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e117158a9e637b0800000000000000
+      internalID: -5244747806896218612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72314bdecf14040800000000000000
+      internalID: 4630259989772183475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849ba547ea49c5f50800000000000000
+      internalID: 6871530608457857352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 1427
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6264deeeccaaa800800000000000000
+      internalID: 624501503114371692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_10
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 856
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b563b1cc9bb139a0800000000000000
+      internalID: -6255012125501856330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_11
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3278006aedadc2790800000000000000
+      internalID: -7553421825204517085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 865
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210f252e2739409a0800000000000000
+      internalID: -6267722659760246766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_13
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 879
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb21fcff2decbb10800000000000000
+      internalID: 1998733125008567245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_14
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 872
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a89debdbc3a3cf0800000000000000
+      internalID: -271838041854080383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_15
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 863
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfcd7f296d96f3e0800000000000000
+      internalID: -2020254307735187536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_16
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 853
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1678211737669d7e0800000000000000
+      internalID: -1740247134997674143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_17
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 863
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c586b3e9ce999730800000000000000
+      internalID: 4006407933468771782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_18
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 855
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84db9d04a413ec950800000000000000
+      internalID: 6471163909563333960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bo_lac_xanh_19
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 871
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11db3527d77e7f110800000000000000
+      internalID: 1294757943867325713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bo_lac_xanh_0: 9048602908622622750
+      bo_lac_xanh_1: -7878136269076608000
+      bo_lac_xanh_10: -6255012125501856330
+      bo_lac_xanh_11: -7553421825204517085
+      bo_lac_xanh_12: -6267722659760246766
+      bo_lac_xanh_13: 1998733125008567245
+      bo_lac_xanh_14: -271838041854080383
+      bo_lac_xanh_15: -2020254307735187536
+      bo_lac_xanh_16: -1740247134997674143
+      bo_lac_xanh_17: 4006407933468771782
+      bo_lac_xanh_18: 6471163909563333960
+      bo_lac_xanh_19: 1294757943867325713
+      bo_lac_xanh_2: -4579785554471886298
+      bo_lac_xanh_3: -3564274122698379351
+      bo_lac_xanh_4: -7965634330379437755
+      bo_lac_xanh_5: -7644883343915199103
+      bo_lac_xanh_6: -5244747806896218612
+      bo_lac_xanh_7: 4630259989772183475
+      bo_lac_xanh_8: 6871530608457857352
+      bo_lac_xanh_9: 624501503114371692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

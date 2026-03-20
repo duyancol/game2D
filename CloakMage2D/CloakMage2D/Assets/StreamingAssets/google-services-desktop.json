@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "173231895009",
+    "project_id": "myunitygame-19c59",
+    "storage_bucket": "myunitygame-19c59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173231895009:android:0ac3629085ef20d8c6a2a0",
+        "android_client_info": {
+          "package_name": "com.tuongduy.cloakmage2d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173231895009-ktgn38b5l7gndlsil741mumjlo9np28e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuongduy.cloakmage2d",
+            "certificate_hash": "bab28fdf42bb0b9745601e61a35f7f52277c0e49"
+          }
+        },
+        {
+          "client_id": "173231895009-8hq2821ha5aviccme6lm3a87omveeogd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UTmYQsdB2OzLKUNbBaeR79_52cG-mKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173231895009-8hq2821ha5aviccme6lm3a87omveeogd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

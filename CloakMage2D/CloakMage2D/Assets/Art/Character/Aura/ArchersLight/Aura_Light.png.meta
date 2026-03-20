@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: e246574c4ae737d4da4394fd10e3bf36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2361675326536921307
+    second: Aura_Light_0
+  - first:
+      213: -6661894615981977850
+    second: Aura_Light_1
+  - first:
+      213: 6153162101965007754
+    second: Aura_Light_2
+  - first:
+      213: -3469006579686402450
+    second: Aura_Light_3
+  - first:
+      213: -7415113072845226193
+    second: Aura_Light_4
+  - first:
+      213: -8573212126424483722
+    second: Aura_Light_5
+  - first:
+      213: 7020430776493811756
+    second: Aura_Light_6
+  - first:
+      213: -8468355480233417432
+    second: Aura_Light_7
+  - first:
+      213: -673134189974074789
+    second: Aura_Light_8
+  - first:
+      213: 7477276554262315894
+    second: Aura_Light_9
+  - first:
+      213: -6416970289612972084
+    second: Aura_Light_10
+  - first:
+      213: -4288162738705409990
+    second: Aura_Light_11
+  - first:
+      213: 4926629340459038070
+    second: Aura_Light_12
+  - first:
+      213: 5099145618992245674
+    second: Aura_Light_13
+  - first:
+      213: -5750110398757174885
+    second: Aura_Light_14
+  - first:
+      213: 371283121764221771
+    second: Aura_Light_15
+  - first:
+      213: -9048485734199732416
+    second: Aura_Light_16
+  - first:
+      213: -8754194037428491096
+    second: Aura_Light_17
+  - first:
+      213: 974299398680502460
+    second: Aura_Light_18
+  - first:
+      213: -5929799283181525590
+    second: Aura_Light_19
+  - first:
+      213: 4918152973608847210
+    second: Aura_Light_20
+  - first:
+      213: 945432427028498115
+    second: Aura_Light_21
+  - first:
+      213: 1541014269577846213
+    second: Aura_Light_22
+  - first:
+      213: -6488568407244579669
+    second: Aura_Light_23
+  - first:
+      213: 7269968927395048839
+    second: Aura_Light_24
+  - first:
+      213: -247677151963291291
+    second: Aura_Light_25
+  - first:
+      213: 1085656880491390563
+    second: Aura_Light_26
+  - first:
+      213: -2071171195083961232
+    second: Aura_Light_27
+  - first:
+      213: -150371514917463678
+    second: Aura_Light_28
+  - first:
+      213: -429306487462966346
+    second: Aura_Light_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aura_Light_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 1533
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f46fe9dc4a93fd0800000000000000
+      internalID: -2361675326536921307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 464
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f8e4b94223c83a0800000000000000
+      internalID: -6661894615981977850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 455
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b2505b45c646550800000000000000
+      internalID: 6153162101965007754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 417
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e669c4635ec9bdfc0800000000000000
+      internalID: -3469006579686402450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 413
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f74bb72f9381990800000000000000
+      internalID: -7415113072845226193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 390
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b56c6ef4d50980800000000000000
+      internalID: -8573212126424483722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28222b68949d6160800000000000000
+      internalID: 7020430776493811756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 311
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82564f8de8b5a7a80800000000000000
+      internalID: -8468355480233417432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 237
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5acc68450c88a6f0800000000000000
+      internalID: -673134189974074789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 235
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6738928e86f94c760800000000000000
+      internalID: 7477276554262315894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 239
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf1269258752f6a0800000000000000
+      internalID: -6416970289612972084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_11
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 231
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38d56475b26d74c0800000000000000
+      internalID: -4288162738705409990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_12
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 238
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675f3126847ee5440800000000000000
+      internalID: 4926629340459038070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_13
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 224
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaba50e8cedc3c640800000000000000
+      internalID: 5099145618992245674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 240
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b918cc6ce018330b0800000000000000
+      internalID: -5750110398757174885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_15
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43cad73800172500800000000000000
+      internalID: 371283121764221771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_16
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 227
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047d5d96a225d6280800000000000000
+      internalID: -9048485734199732416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_17
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 239
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac6b3897ead28680800000000000000
+      internalID: -8754194037428491096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 224
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb06a3b1428658d00800000000000000
+      internalID: 974299398680502460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_19
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 223
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5699828fe15bda0800000000000000
+      internalID: -5929799283181525590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 227
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a678cfe621ac04440800000000000000
+      internalID: 4918152973608847210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 221
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c64b2488c9de1d00800000000000000
+      internalID: 945432427028498115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_22
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 224
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cddef34058c26510800000000000000
+      internalID: 1541014269577846213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_23
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac5d595969f3f5a0800000000000000
+      internalID: -6488568407244579669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_24
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 215
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d6285b83e14e460800000000000000
+      internalID: 7269968927395048839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_25
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5616f3a41f2109cf0800000000000000
+      internalID: -247677151963291291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_26
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366e5a54e27011f00800000000000000
+      internalID: 1085656880491390563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_27
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ccff785c8b143e0800000000000000
+      internalID: -2071171195083961232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_28
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 179
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289d10567e5c9edf0800000000000000
+      internalID: -150371514917463678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Light_29
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbcff2360cca0af0800000000000000
+      internalID: -429306487462966346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aura_Light_0: -2361675326536921307
+      Aura_Light_1: -6661894615981977850
+      Aura_Light_10: -6416970289612972084
+      Aura_Light_11: -4288162738705409990
+      Aura_Light_12: 4926629340459038070
+      Aura_Light_13: 5099145618992245674
+      Aura_Light_14: -5750110398757174885
+      Aura_Light_15: 371283121764221771
+      Aura_Light_16: -9048485734199732416
+      Aura_Light_17: -8754194037428491096
+      Aura_Light_18: 974299398680502460
+      Aura_Light_19: -5929799283181525590
+      Aura_Light_2: 6153162101965007754
+      Aura_Light_20: 4918152973608847210
+      Aura_Light_21: 945432427028498115
+      Aura_Light_22: 1541014269577846213
+      Aura_Light_23: -6488568407244579669
+      Aura_Light_24: 7269968927395048839
+      Aura_Light_25: -247677151963291291
+      Aura_Light_26: 1085656880491390563
+      Aura_Light_27: -2071171195083961232
+      Aura_Light_28: -150371514917463678
+      Aura_Light_29: -429306487462966346
+      Aura_Light_3: -3469006579686402450
+      Aura_Light_4: -7415113072845226193
+      Aura_Light_5: -8573212126424483722
+      Aura_Light_6: 7020430776493811756
+      Aura_Light_7: -8468355480233417432
+      Aura_Light_8: -673134189974074789
+      Aura_Light_9: 7477276554262315894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58b644f1520635d478ddef95d5fb93a8, type: 3}
+  m_Name: New Shoot Green Abyss Spear Skill
+  m_EditorClassIdentifier: 
+  skillName: 
+  skillIcon: {fileID: 2391756132258337540, guid: be5a8aa8be5059a428053bd28e91c161, type: 3}
+  cooldown: 1
+  holdThreshold: 0.22
+  stepCooldown: 0.08
+  stabPrefab: {fileID: 5250413696058144097, guid: 67cd22dec77a8fa4a8cb7811c35da259, type: 3}
+  tapMuzzleOffset: 1.2
+  tapThrustDistance: 2.2
+  tapThrustDuration: 0.18
+  hitLifeTap: 0.5
+  dashPlayerOnTap: 1
+  tapPlayerDashDistance: 8
+  tapPlayerDashDuration: 0.08
+  dashBlockMask:
+    serializedVersion: 2
+    m_Bits: 0
+  eachSpearMoveDuration: 0.05
+  eachSpearLinger: 0.2
+  throwDistance: 6.5
+  fanAngle: 30
+  spriteAngleOffset: 0
+  tapDamage: 60
+  tapAtkScale: 1.5
+  throwDamage: 60
+  throwAtkScale: 1
+  damageType: 0
+  smptScale: 0
+  canCrit: 1
+  boxSize: {x: 2.6, y: 1.2}
+  useBoxCollider: 1

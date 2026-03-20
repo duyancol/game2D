@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: d275f66f58a22344cbcf7ea8aad2cedc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6282889313981752609
+    second: eqip_buffolow_0
+  - first:
+      213: 1281000581195293780
+    second: eqip_buffolow_1
+  - first:
+      213: 2991458857169594742
+    second: eqip_buffolow_2
+  - first:
+      213: -115947226119097934
+    second: eqip_buffolow_3
+  - first:
+      213: -8678756598025064422
+    second: eqip_buffolow_4
+  - first:
+      213: 3723455671364537438
+    second: eqip_buffolow_5
+  - first:
+      213: -7865797396882895222
+    second: eqip_buffolow_6
+  - first:
+      213: -5435650604243623737
+    second: eqip_buffolow_7
+  - first:
+      213: 7353878420848964983
+    second: eqip_buffolow_8
+  - first:
+      213: -2904927258775755257
+    second: eqip_buffolow_9
+  - first:
+      213: 6225682673726717112
+    second: eqip_buffolow_10
+  - first:
+      213: 8434428054965930321
+    second: eqip_buffolow_11
+  - first:
+      213: -2982512357686474563
+    second: eqip_buffolow_12
+  - first:
+      213: -1589263400526461218
+    second: eqip_buffolow_13
+  - first:
+      213: -103418922461562034
+    second: eqip_buffolow_14
+  - first:
+      213: 2911831474923820854
+    second: eqip_buffolow_15
+  - first:
+      213: 7325439053925003220
+    second: eqip_buffolow_16
+  - first:
+      213: -8228255542043919652
+    second: eqip_buffolow_17
+  - first:
+      213: 7118996651707776397
+    second: eqip_buffolow_18
+  - first:
+      213: -4587862266023530961
+    second: eqip_buffolow_19
+  - first:
+      213: -7175804919096341893
+    second: eqip_buffolow_20
+  - first:
+      213: -6843548102309918817
+    second: eqip_buffolow_21
+  - first:
+      213: 4210793415068144981
+    second: eqip_buffolow_22
+  - first:
+      213: 6028950896503523064
+    second: eqip_buffolow_23
+  - first:
+      213: -2063918451321590538
+    second: eqip_buffolow_24
+  - first:
+      213: -3673146319718306639
+    second: eqip_buffolow_25
+  - first:
+      213: 8949709952432611328
+    second: eqip_buffolow_26
+  - first:
+      213: 5855127937722990549
+    second: eqip_buffolow_27
+  - first:
+      213: -1503706562398853089
+    second: eqip_buffolow_28
+  - first:
+      213: -7210178573328785167
+    second: eqip_buffolow_29
+  - first:
+      213: 3929412701566300718
+    second: eqip_buffolow_30
+  - first:
+      213: 424109878628823091
+    second: eqip_buffolow_31
+  - first:
+      213: -155228284643013892
+    second: eqip_buffolow_32
+  - first:
+      213: -2721622380519952912
+    second: eqip_buffolow_33
+  - first:
+      213: -3943523781748816095
+    second: eqip_buffolow_34
+  - first:
+      213: 169887055861253414
+    second: eqip_buffolow_35
+  - first:
+      213: 3763286630422941685
+    second: eqip_buffolow_36
+  - first:
+      213: -8678434177470499917
+    second: eqip_buffolow_37
+  - first:
+      213: -6674790405622415202
+    second: eqip_buffolow_38
+  - first:
+      213: -4415442628561505010
+    second: eqip_buffolow_39
+  - first:
+      213: -4886564596049321290
+    second: eqip_buffolow_40
+  - first:
+      213: -5914416552994745536
+    second: eqip_buffolow_41
+  - first:
+      213: 4732283945724749171
+    second: eqip_buffolow_42
+  - first:
+      213: -7257626464230944586
+    second: eqip_buffolow_43
+  - first:
+      213: 1980924678267250770
+    second: eqip_buffolow_44
+  - first:
+      213: -6079928893738252784
+    second: eqip_buffolow_45
+  - first:
+      213: -2722232909896431620
+    second: eqip_buffolow_46
+  - first:
+      213: 5902838972522381811
+    second: eqip_buffolow_47
+  - first:
+      213: 330053298377385908
+    second: eqip_buffolow_48
+  - first:
+      213: 6468148936379710115
+    second: eqip_buffolow_49
+  - first:
+      213: 5687712084148505269
+    second: eqip_buffolow_50
+  - first:
+      213: 8560869051056699832
+    second: eqip_buffolow_51
+  - first:
+      213: 7567106827586028313
+    second: eqip_buffolow_52
+  - first:
+      213: 3282374299252179245
+    second: eqip_buffolow_53
+  - first:
+      213: 7457604157667029269
+    second: eqip_buffolow_54
+  - first:
+      213: -2218163787993841801
+    second: eqip_buffolow_55
+  - first:
+      213: 3223136704618157631
+    second: eqip_buffolow_56
+  - first:
+      213: -714722202404507995
+    second: eqip_buffolow_57
+  - first:
+      213: 5662969051122278170
+    second: eqip_buffolow_58
+  - first:
+      213: -5419453273585230095
+    second: eqip_buffolow_59
+  - first:
+      213: -1770542147572014264
+    second: eqip_buffolow_60
+  - first:
+      213: -6595801248162128502
+    second: eqip_buffolow_61
+  - first:
+      213: 6758023702696962827
+    second: eqip_buffolow_62
+  - first:
+      213: -6620189425051653655
+    second: eqip_buffolow_63
+  - first:
+      213: 4661900281507262775
+    second: eqip_buffolow_64
+  - first:
+      213: -4131520700122577571
+    second: eqip_buffolow_65
+  - first:
+      213: 5982821680232499707
+    second: eqip_buffolow_66
+  - first:
+      213: 8282885815879006469
+    second: eqip_buffolow_67
+  - first:
+      213: -1621390982640930164
+    second: eqip_buffolow_68
+  - first:
+      213: 194876309979141837
+    second: eqip_buffolow_69
+  - first:
+      213: 8381984707155519944
+    second: eqip_buffolow_70
+  - first:
+      213: -3670625081057503880
+    second: eqip_buffolow_71
+  - first:
+      213: 1400429592024523842
+    second: eqip_buffolow_72
+  - first:
+      213: 4813498267589206524
+    second: eqip_buffolow_73
+  - first:
+      213: -4004324795341814578
+    second: eqip_buffolow_74
+  - first:
+      213: -6382237616830168061
+    second: eqip_buffolow_75
+  - first:
+      213: 3450922454090184416
+    second: eqip_buffolow_76
+  - first:
+      213: 1680449941495215244
+    second: eqip_buffolow_77
+  - first:
+      213: -5994907924696645784
+    second: eqip_buffolow_78
+  - first:
+      213: -2401363685432779536
+    second: eqip_buffolow_79
+  - first:
+      213: 7514314937872595096
+    second: eqip_buffolow_80
+  - first:
+      213: 5649422128002194721
+    second: eqip_buffolow_81
+  - first:
+      213: -4361103089685363962
+    second: eqip_buffolow_82
+  - first:
+      213: -5840166281819476679
+    second: eqip_buffolow_83
+  - first:
+      213: 1727056526654755430
+    second: eqip_buffolow_84
+  - first:
+      213: 1611325277994777415
+    second: eqip_buffolow_85
+  - first:
+      213: -5189049707045635014
+    second: eqip_buffolow_86
+  - first:
+      213: 5070271702856250477
+    second: eqip_buffolow_87
+  - first:
+      213: 3239947902223893160
+    second: eqip_buffolow_88
+  - first:
+      213: -6429952629506497862
+    second: eqip_buffolow_89
+  - first:
+      213: 7078990494995159172
+    second: eqip_buffolow_90
+  - first:
+      213: 6664743983213135015
+    second: eqip_buffolow_91
+  - first:
+      213: 28867481132445511
+    second: eqip_buffolow_92
+  - first:
+      213: -8543540239748114505
+    second: eqip_buffolow_93
+  - first:
+      213: 4757921557849384828
+    second: eqip_buffolow_94
+  - first:
+      213: 4380393458004319163
+    second: eqip_buffolow_95
+  - first:
+      213: 4599981300074729978
+    second: eqip_buffolow_96
+  - first:
+      213: 2120269235994681942
+    second: eqip_buffolow_97
+  - first:
+      213: 5275604790883227906
+    second: eqip_buffolow_98
+  - first:
+      213: -6599421982809389292
+    second: eqip_buffolow_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eqip_buffolow_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 575
+        width: 453
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda15050571bec8a0800000000000000
+      internalID: -6282889313981752609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1015
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e637dd3707c110800000000000000
+      internalID: 1281000581195293780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 578
+        width: 456
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6792acd2bfbc38920800000000000000
+      internalID: 2991458857169594742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_3
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 574
+        width: 451
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1ba76bc92146ef0800000000000000
+      internalID: -115947226119097934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 990
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1073aa2bdcde8780800000000000000
+      internalID: -8678756598025064422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 999
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc894943f5ca330800000000000000
+      internalID: 3723455671364537438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 989
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e4a9b31f217d290800000000000000
+      internalID: -7865797396882895222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_7
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 977
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0ebe22390b094b0800000000000000
+      internalID: -5435650604243623737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 979
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775fc1416793e0660800000000000000
+      internalID: 7353878420848964983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_9
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 978
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70662529c00afa7d0800000000000000
+      internalID: -2904927258775755257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_10
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 920
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcf8cb1861166650800000000000000
+      internalID: 6225682673726717112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_11
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 895
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15945d3e0ab1d0570800000000000000
+      internalID: 8434428054965930321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_12
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 864
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db882ed00dcfb96d0800000000000000
+      internalID: -2982512357686474563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_13
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 840
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed647158b5dc1f9e0800000000000000
+      internalID: -1589263400526461218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_14
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 815
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bff97b905909ef0800000000000000
+      internalID: -103418922461562034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_15
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 792
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637d2a48c47e86820800000000000000
+      internalID: 2911831474923820854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 776
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df29f8f10039a560800000000000000
+      internalID: 7325439053925003220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_17
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 768
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda355ffd2d5fcd80800000000000000
+      internalID: -8228255542043919652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_18
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 759
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dbc369cb1cbc260800000000000000
+      internalID: 7118996651707776397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_19
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 743
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eaf3b9393a450c0800000000000000
+      internalID: -4587862266023530961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_20
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 735
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a03c3f17b6a6c90800000000000000
+      internalID: -7175804919096341893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_21
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 727
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97c4867245d601a0800000000000000
+      internalID: -6843548102309918817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_22
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 719
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555d0bf1d4ebf6a30800000000000000
+      internalID: 4210793415068144981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_23
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 703
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f68d5ac5e22ba350800000000000000
+      internalID: 6028950896503523064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_24
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 695
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc2a978a1d7b53e0800000000000000
+      internalID: -2063918451321590538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_25
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 688
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc282522ec560dc0800000000000000
+      internalID: -3673146319718306639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 663
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000268db8c1c33c70800000000000000
+      internalID: 8949709952432611328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_27
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 671
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfb17a66d7914150800000000000000
+      internalID: 5855127937722990549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_28
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 647
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18eac539d2c12be0800000000000000
+      internalID: -1503706562398853089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 574
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0ea99e9cc40fb90800000000000000
+      internalID: -7210178573328785167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 574
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2274cc7804188630800000000000000
+      internalID: 3929412701566300718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 571
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b76500bdb2e500800000000000000
+      internalID: 424109878628823091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_32
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 573
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa82c292b488ddf0800000000000000
+      internalID: -155228284643013892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_33
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdea5c5ddada3ad0800000000000000
+      internalID: -2721622380519952912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 535
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278e81a30ac549c0800000000000000
+      internalID: -3943523781748816095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 543
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6250c80906f8b5200800000000000000
+      internalID: 169887055861253414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_36
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 544
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff065a6041e93430800000000000000
+      internalID: 3763286630422941685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_37
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 535
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3f24d8812009780800000000000000
+      internalID: -8678434177470499917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 527
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c0ba9d716e53a0800000000000000
+      internalID: -6674790405622415202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e057976c25239b2c0800000000000000
+      internalID: -4415442628561505010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 107
+        width: 453
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ea78d36f6f2cb0800000000000000
+      internalID: -4886564596049321290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 511
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043de012b75cbeda0800000000000000
+      internalID: -5914416552994745536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_42
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 502
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37525390d237ca140800000000000000
+      internalID: 4732283945724749171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_43
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 114
+        width: 474
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05a0fee2bb74b90800000000000000
+      internalID: -7257626464230944586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_44
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 509
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258aceedf78ad7b10800000000000000
+      internalID: 1980924678267250770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_45
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 110
+        width: 458
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016091d42e0cf9ba0800000000000000
+      internalID: -6079928893738252784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_46
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 471
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ceb9679fa83ad0800000000000000
+      internalID: -2722232909896431620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_47
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 480
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1478b55c81be150800000000000000
+      internalID: 5902838972522381811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_48
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 464
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7eab6e9b5949400800000000000000
+      internalID: 330053298377385908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_49
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 455
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aabb3b103b73c950800000000000000
+      internalID: 6468148936379710115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_50
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 439
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba4e587100deee40800000000000000
+      internalID: 5687712084148505269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_51
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 447
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9bed46b015ec670800000000000000
+      internalID: 8560869051056699832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_52
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913c2b34193c30960800000000000000
+      internalID: 7567106827586028313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_53
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 415
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d214ccec8065d8d20800000000000000
+      internalID: 3282374299252179245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_54
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 431
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5113835287bbe7760800000000000000
+      internalID: 7457604157667029269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_55
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 409
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ffdf289cf7731e0800000000000000
+      internalID: -2218163787993841801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_56
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 407
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36d94581c1eabc20800000000000000
+      internalID: 3223136704618157631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_57
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 391
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae289491fbc416f0800000000000000
+      internalID: -714722202404507995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_58
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 399
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9c2a2958e69e40800000000000000
+      internalID: 5662969051122278170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_59
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 391
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fedf1f06fb3ac4b0800000000000000
+      internalID: -5419453273585230095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_60
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 355
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ec1a2c45cd67e0800000000000000
+      internalID: -1770542147572014264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_61
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 371
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd73af5b10774a0800000000000000
+      internalID: -6595801248162128502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_62
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 344
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b2ce680c259cd50800000000000000
+      internalID: 6758023702696962827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_63
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 331
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9affd0bcc5024a0800000000000000
+      internalID: -6620189425051653655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_64
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 328
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731b8813b9562b040800000000000000
+      internalID: 4661900281507262775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_65
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 319
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55450f10d3e9a6c0800000000000000
+      internalID: -4131520700122577571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_66
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf983ccae90470350800000000000000
+      internalID: 5982821680232499707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_67
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 296
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f692d3c8b2f270800000000000000
+      internalID: 8282885815879006469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_68
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 273
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c827aa5ed79af79e0800000000000000
+      internalID: -1621390982640930164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_69
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 272
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6127fa8f654b200800000000000000
+      internalID: 194876309979141837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_70
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 279
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9e2c67eaac25470800000000000000
+      internalID: 8381984707155519944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_71
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 270
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8759de3cfe15f0dc0800000000000000
+      internalID: -3670625081057503880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_72
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 263
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244219d4b435f6310800000000000000
+      internalID: 1400429592024523842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_73
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 251
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1ec9edb2bfcc240800000000000000
+      internalID: 4813498267589206524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_74
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 239
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4cc5080d7cd68c0800000000000000
+      internalID: -4004324795341814578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_75
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 231
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c3b8b3bcbd67a0800000000000000
+      internalID: -6382237616830168061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_76
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6f67f20b324ef20800000000000000
+      internalID: 3450922454090184416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 211
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84f5a18158225710800000000000000
+      internalID: 1680449941495215244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_78
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 208
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f384f310fcdcca0800000000000000
+      internalID: -5994907924696645784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_79
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 199
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc91497374acaed0800000000000000
+      internalID: -2401363685432779536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_80
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 191
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898be4a9f95384860800000000000000
+      internalID: 7514314937872595096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_81
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 184
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d5dc55e77c66e40800000000000000
+      internalID: 5649422128002194721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_82
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 174
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603027698df3a73c0800000000000000
+      internalID: -4361103089685363962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_83
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 24
+        width: 7
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dafee85bf83fea0800000000000000
+      internalID: -5840166281819476679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_84
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 107
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662d64ab2ccb7f710800000000000000
+      internalID: 1727056526654755430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_85
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 105
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7c7c9dc39c5610800000000000000
+      internalID: 1611325277994777415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_86
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c33b1c8caccf7b0800000000000000
+      internalID: -5189049707045635014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_87
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 106
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64367310493d5640800000000000000
+      internalID: 5070271702856250477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_88
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 107
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2c3da737b96fc20800000000000000
+      internalID: 3239947902223893160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_89
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab22dab962834c6a0800000000000000
+      internalID: -6429952629506497862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_90
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4889d8e5950ad3260800000000000000
+      internalID: 7078990494995159172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_91
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 102
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a44756675ded7c50800000000000000
+      internalID: 6664743983213135015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_92
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 102
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa57632de866000800000000000000
+      internalID: 28867481132445511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_93
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 95
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7de85ea6f3f6980800000000000000
+      internalID: -8543540239748114505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_94
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 90
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7729c4c278870240800000000000000
+      internalID: 4757921557849384828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_95
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbdac844a84acc30800000000000000
+      internalID: 4380393458004319163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_96
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 94
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1d464ee9a66df30800000000000000
+      internalID: 4599981300074729978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 86
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652e6afe2a5bc6d10800000000000000
+      internalID: 2120269235994681942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20991ff1b96b63940800000000000000
+      internalID: 5275604790883227906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eqip_buffolow_99
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4170ebffba42a64a0800000000000000
+      internalID: -6599421982809389292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c437421b9a63d3a4d9b6507216431feb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eqip_buffolow_0: -6282889313981752609
+      eqip_buffolow_1: 1281000581195293780
+      eqip_buffolow_10: 6225682673726717112
+      eqip_buffolow_11: 8434428054965930321
+      eqip_buffolow_12: -2982512357686474563
+      eqip_buffolow_13: -1589263400526461218
+      eqip_buffolow_14: -103418922461562034
+      eqip_buffolow_15: 2911831474923820854
+      eqip_buffolow_16: 7325439053925003220
+      eqip_buffolow_17: -8228255542043919652
+      eqip_buffolow_18: 7118996651707776397
+      eqip_buffolow_19: -4587862266023530961
+      eqip_buffolow_2: 2991458857169594742
+      eqip_buffolow_20: -7175804919096341893
+      eqip_buffolow_21: -6843548102309918817
+      eqip_buffolow_22: 4210793415068144981
+      eqip_buffolow_23: 6028950896503523064
+      eqip_buffolow_24: -2063918451321590538
+      eqip_buffolow_25: -3673146319718306639
+      eqip_buffolow_26: 8949709952432611328
+      eqip_buffolow_27: 5855127937722990549
+      eqip_buffolow_28: -1503706562398853089
+      eqip_buffolow_29: -7210178573328785167
+      eqip_buffolow_3: -115947226119097934
+      eqip_buffolow_30: 3929412701566300718
+      eqip_buffolow_31: 424109878628823091
+      eqip_buffolow_32: -155228284643013892
+      eqip_buffolow_33: -2721622380519952912
+      eqip_buffolow_34: -3943523781748816095
+      eqip_buffolow_35: 169887055861253414
+      eqip_buffolow_36: 3763286630422941685
+      eqip_buffolow_37: -8678434177470499917
+      eqip_buffolow_38: -6674790405622415202
+      eqip_buffolow_39: -4415442628561505010
+      eqip_buffolow_4: -8678756598025064422
+      eqip_buffolow_40: -4886564596049321290
+      eqip_buffolow_41: -5914416552994745536
+      eqip_buffolow_42: 4732283945724749171
+      eqip_buffolow_43: -7257626464230944586
+      eqip_buffolow_44: 1980924678267250770
+      eqip_buffolow_45: -6079928893738252784
+      eqip_buffolow_46: -2722232909896431620
+      eqip_buffolow_47: 5902838972522381811
+      eqip_buffolow_48: 330053298377385908
+      eqip_buffolow_49: 6468148936379710115
+      eqip_buffolow_5: 3723455671364537438
+      eqip_buffolow_50: 5687712084148505269
+      eqip_buffolow_51: 8560869051056699832
+      eqip_buffolow_52: 7567106827586028313
+      eqip_buffolow_53: 3282374299252179245
+      eqip_buffolow_54: 7457604157667029269
+      eqip_buffolow_55: -2218163787993841801
+      eqip_buffolow_56: 3223136704618157631
+      eqip_buffolow_57: -714722202404507995
+      eqip_buffolow_58: 5662969051122278170
+      eqip_buffolow_59: -5419453273585230095
+      eqip_buffolow_6: -7865797396882895222
+      eqip_buffolow_60: -1770542147572014264
+      eqip_buffolow_61: -6595801248162128502
+      eqip_buffolow_62: 6758023702696962827
+      eqip_buffolow_63: -6620189425051653655
+      eqip_buffolow_64: 4661900281507262775
+      eqip_buffolow_65: -4131520700122577571
+      eqip_buffolow_66: 5982821680232499707
+      eqip_buffolow_67: 8282885815879006469
+      eqip_buffolow_68: -1621390982640930164
+      eqip_buffolow_69: 194876309979141837
+      eqip_buffolow_7: -5435650604243623737
+      eqip_buffolow_70: 8381984707155519944
+      eqip_buffolow_71: -3670625081057503880
+      eqip_buffolow_72: 1400429592024523842
+      eqip_buffolow_73: 4813498267589206524
+      eqip_buffolow_74: -4004324795341814578
+      eqip_buffolow_75: -6382237616830168061
+      eqip_buffolow_76: 3450922454090184416
+      eqip_buffolow_77: 1680449941495215244
+      eqip_buffolow_78: -5994907924696645784
+      eqip_buffolow_79: -2401363685432779536
+      eqip_buffolow_8: 7353878420848964983
+      eqip_buffolow_80: 7514314937872595096
+      eqip_buffolow_81: 5649422128002194721
+      eqip_buffolow_82: -4361103089685363962
+      eqip_buffolow_83: -5840166281819476679
+      eqip_buffolow_84: 1727056526654755430
+      eqip_buffolow_85: 1611325277994777415
+      eqip_buffolow_86: -5189049707045635014
+      eqip_buffolow_87: 5070271702856250477
+      eqip_buffolow_88: 3239947902223893160
+      eqip_buffolow_89: -6429952629506497862
+      eqip_buffolow_9: -2904927258775755257
+      eqip_buffolow_90: 7078990494995159172
+      eqip_buffolow_91: 6664743983213135015
+      eqip_buffolow_92: 28867481132445511
+      eqip_buffolow_93: -8543540239748114505
+      eqip_buffolow_94: 4757921557849384828
+      eqip_buffolow_95: 4380393458004319163
+      eqip_buffolow_96: 4599981300074729978
+      eqip_buffolow_97: 2120269235994681942
+      eqip_buffolow_98: 5275604790883227906
+      eqip_buffolow_99: -6599421982809389292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

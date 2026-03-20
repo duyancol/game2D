@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e1a971be6026c748a9cb83c1fd7b10f, type: 3}
+  m_Name: New Sword Combo Move Skill
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 0
+  skillIcon: {fileID: 5707637620462791867, guid: d2477f75e70ad204b86181f1b082a2f6, type: 3}
+  cooldown: 0.5
+  comboWindow: 1.64
+  stepCooldown: 0.8
+  inputBuffer: 0.36
+  hit1Windup: 0.04
+  hit2Windup: 0.04
+  hit3Windup: 0.04
+  hit1Recovery: 0.1
+  hit2Recovery: 0.12
+  hit3Recovery: 0.2
+  dashDistance: 1.2
+  dashTime: 0.2
+  jumpUp: 1.6
+  jumpUpTime: 0.12
+  slamDownTime: 0.1
+  stabPrefab: {fileID: 3001871527004090156, guid: 016f4746c9e120e4c824c94ea22d380b, type: 3}
+  slashSidePrefab: {fileID: 7614406565806038999, guid: c283a3004afe2e545b2894d2405ee953, type: 3}
+  slashDownPrefab: {fileID: 130206590770822522, guid: 2778f5b46554057489aa724f637b61fe, type: 3}
+  stabOffset: {x: 2, y: 0.1, z: 30}
+  slashSideOffset: {x: 2, y: 0.2, z: 0}
+  slashDownOffset: {x: 2, y: -0.2, z: 0}
+  stabLife: 0.8
+  slashSideLife: 0.82
+  slamLife: 0.86
+  damageType: 1
+  canCrit: 1
+  smptScale: 0
+  stabDamage: 60
+  stabAtkScale: 1
+  slashSideDamage: 72
+  slashSideAtkScale: 1.2
+  slamDamage: 102
+  slamAtkScale: 1.5
+  usePlayerAction: 1
+  hit1ImpactT: 0.55
+  hit2ImpactT: 0.15
+  hit3ImpactT: 0.85

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0358493ae2ff1734ba143e09ed13b528, type: 3}
+  m_Name: New Ultimate Fire Bird Skill
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 0
+  skillIcon: {fileID: 6486550919374658054, guid: d2477f75e70ad204b86181f1b082a2f6, type: 3}
+  cooldown: 8
+  birdPrefab: {fileID: 7070386050623605728, guid: f9d0eb5773067da41b83a12b346f59dd, type: 3}
+  auraPrefab: {fileID: 0}
+  auraLocalOffset: {x: 0, y: -0.5, z: 0}
+  auraLife: 10
+  arcHeight1: 1.5
+  arcHeight2: -20.53
+  ultimatePrefab: {fileID: 0}
+  ultimateLocalOffset: {x: 0, y: 1, z: 0}
+  ultimateLife: 0.6
+  chargeDelay: 0.6
+  rotateToVelocity: 1
+  spriteAngleOffset: 0
+  handLocalOffset: {x: 0.35, y: 0.15, z: 0}
+  outDistance: 20
+  outTime: 1
+  riseHeight: 7
+  riseTime: 1.5
+  riseForward: 0.8
+  impactVfx: {fileID: 2319793012459271799, guid: 8511b96e8db4cd74c8f67183b3162511, type: 3}
+  impactLife: 0.8
+  damage: 60
+  damageType: 1
+  atkScale: 2
+  smptScale: 4
+  canCrit: 1
+  radius: 3
+  hitMask:
+    serializedVersion: 2
+    m_Bits: 64

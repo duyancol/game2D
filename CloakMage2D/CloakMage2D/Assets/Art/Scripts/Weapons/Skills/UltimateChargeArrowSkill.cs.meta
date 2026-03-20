@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aefc7150d0dbdae428d7efb30073d280
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chargeVfxPrefab: {instanceID: 0}
+  - auraPrefab: {instanceID: 0}
+  - ultPowPrefab: {instanceID: 0}
+  - chargeBarPrefab: {instanceID: 0}
+  - projectilePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

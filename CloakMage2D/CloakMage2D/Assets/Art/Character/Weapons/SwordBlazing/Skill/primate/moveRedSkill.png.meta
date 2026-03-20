@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 9d68295f2df3ddf4ea40edaa0343702f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8347367564167747699
+    second: moveRedSkill_0
+  - first:
+      213: -8544531702024238720
+    second: moveRedSkill_1
+  - first:
+      213: 5430685268293262637
+    second: moveRedSkill_2
+  - first:
+      213: -2178208540124166492
+    second: moveRedSkill_3
+  - first:
+      213: 1300396161384058520
+    second: moveRedSkill_4
+  - first:
+      213: 3532857724350787416
+    second: moveRedSkill_5
+  - first:
+      213: 6775648883056136493
+    second: moveRedSkill_6
+  - first:
+      213: 2749299621709947240
+    second: moveRedSkill_7
+  - first:
+      213: 1700487775239388469
+    second: moveRedSkill_8
+  - first:
+      213: 5374137576433310492
+    second: moveRedSkill_9
+  - first:
+      213: -7523829347234529956
+    second: moveRedSkill_10
+  - first:
+      213: 223076910503897480
+    second: moveRedSkill_11
+  - first:
+      213: 7743679969157857513
+    second: moveRedSkill_12
+  - first:
+      213: 8954705969208043754
+    second: moveRedSkill_13
+  - first:
+      213: -5905161191727022759
+    second: moveRedSkill_14
+  - first:
+      213: 7532812911309821668
+    second: moveRedSkill_15
+  - first:
+      213: 2289924569148922140
+    second: moveRedSkill_16
+  - first:
+      213: 8360080601271917891
+    second: moveRedSkill_17
+  - first:
+      213: 9121503779477154216
+    second: moveRedSkill_18
+  - first:
+      213: -4176568845119864530
+    second: moveRedSkill_19
+  - first:
+      213: 1783453468169779717
+    second: moveRedSkill_20
+  - first:
+      213: -8104637262062130511
+    second: moveRedSkill_21
+  - first:
+      213: 4859742631989894337
+    second: moveRedSkill_22
+  - first:
+      213: -8286614482527352587
+    second: moveRedSkill_23
+  - first:
+      213: 219292124863077263
+    second: moveRedSkill_24
+  - first:
+      213: 7187213425089424951
+    second: moveRedSkill_25
+  - first:
+      213: 579164148654893844
+    second: moveRedSkill_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moveRedSkill_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 226
+        height: 1016
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37816d7c29ec7d370800000000000000
+      internalID: 8347367564167747699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 303
+        width: 617
+        height: 329
+      alignment: 9
+      pivot: {x: 0.17990275, y: 0.7446809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08908c810b9bb6980800000000000000
+      internalID: -8544531702024238720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 554
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d119f7a7bad5b40800000000000000
+      internalID: 5430685268293262637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 576
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a64d279fd275c1e0800000000000000
+      internalID: -2178208540124166492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 507
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e04924b6feb0210800000000000000
+      internalID: 1300396161384058520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 570
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f6ce5e16b370130800000000000000
+      internalID: 3532857724350787416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 540
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21555d92c0f70e50800000000000000
+      internalID: 6775648883056136493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 807
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86123258079772620800000000000000
+      internalID: 2749299621709947240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53db90c3f98599710800000000000000
+      internalID: 1700487775239388469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 982
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bd26107a5c49a40800000000000000
+      internalID: 5374137576433310492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 951
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d3d67521df59790800000000000000
+      internalID: -7523829347234529956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 884
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8892d28a447881300800000000000000
+      internalID: 223076910503897480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 846
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e046f777e3177b60800000000000000
+      internalID: 7743679969157857513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 838
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae827ba82a1854c70800000000000000
+      internalID: 8954705969208043754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 824
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d30b9de27ac0ea0800000000000000
+      internalID: -5905161191727022759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 814
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6191aae6de98860800000000000000
+      internalID: 7532812911309821668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 641
+        width: 484
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c199f8a534277cf10800000000000000
+      internalID: 2289924569148922140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 330
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d52746309f40470800000000000000
+      internalID: 8360080601271917891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_18
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 339
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a96e111c57169e70800000000000000
+      internalID: 9121503779477154216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_19
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 203
+        width: 401
+        height: 593
+      alignment: 9
+      pivot: {x: 0.63092273, y: 0.5059022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21caa683c8d906c0800000000000000
+      internalID: -4176568845119864530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_20
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 788
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ab2bbea7910c810800000000000000
+      internalID: 1783453468169779717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_21
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 201
+        width: 491
+        height: 616
+      alignment: 9
+      pivot: {x: 0.5600815, y: 0.52435064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba6461b95b868f80800000000000000
+      internalID: -8104637262062130511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_22
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc549ffc26417340800000000000000
+      internalID: 4859742631989894337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_23
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f889525808000d80800000000000000
+      internalID: -8286614482527352587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_24
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 375
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b118496051b0300800000000000000
+      internalID: 219292124863077263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_25
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 481
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eaf57d78c1eb360800000000000000
+      internalID: 7187213425089424951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moveRedSkill_26
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 430
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b673389ba990800800000000000000
+      internalID: 579164148654893844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae6e3ce566eef8c4eaf97040668346d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      moveRedSkill_0: 8347367564167747699
+      moveRedSkill_1: -8544531702024238720
+      moveRedSkill_10: -7523829347234529956
+      moveRedSkill_11: 223076910503897480
+      moveRedSkill_12: 7743679969157857513
+      moveRedSkill_13: 8954705969208043754
+      moveRedSkill_14: -5905161191727022759
+      moveRedSkill_15: 7532812911309821668
+      moveRedSkill_16: 2289924569148922140
+      moveRedSkill_17: 8360080601271917891
+      moveRedSkill_18: 9121503779477154216
+      moveRedSkill_19: -4176568845119864530
+      moveRedSkill_2: 5430685268293262637
+      moveRedSkill_20: 1783453468169779717
+      moveRedSkill_21: -8104637262062130511
+      moveRedSkill_22: 4859742631989894337
+      moveRedSkill_23: -8286614482527352587
+      moveRedSkill_24: 219292124863077263
+      moveRedSkill_25: 7187213425089424951
+      moveRedSkill_26: 579164148654893844
+      moveRedSkill_3: -2178208540124166492
+      moveRedSkill_4: 1300396161384058520
+      moveRedSkill_5: 3532857724350787416
+      moveRedSkill_6: 6775648883056136493
+      moveRedSkill_7: 2749299621709947240
+      moveRedSkill_8: 1700487775239388469
+      moveRedSkill_9: 5374137576433310492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
