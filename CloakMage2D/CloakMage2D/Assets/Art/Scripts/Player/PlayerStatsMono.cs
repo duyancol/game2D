@@ -234,12 +234,16 @@ public class PlayerStatsMono : MonoBehaviour
         atk = (atk + passiveFlatAtk) * (1f + totalPercentAtk + passivePercentAtk);
         smpt = (smpt + passiveFlatSmpt) * (1f + totalPercentSmpt + passivePercentSmpt);
 
+        //critChance = Mathf.Clamp01(
+        //    (critChance + passiveFlatCritChance) *
+        //    (1f + totalPercentCritChance + passivePercentCritChance)
+        //);
         critChance = Mathf.Clamp01(
-            (critChance + passiveFlatCritChance) *
-            (1f + totalPercentCritChance + passivePercentCritChance)
-        );
-
-        critDamage *= (1f + totalPercentCritDamage);
+       (critChance + passiveFlatCritChance) +
+       ( totalPercentCritChance + passivePercentCritChance)
+   );
+        // critDamage *= (1f + totalPercentCritDamage);
+        critDamage += (totalPercentCritDamage);
         def *= (1f + totalPercentDef);
         mdef *= (1f + totalPercentMdef);
        // critChance = Mathf.Clamp01(critChance * (1f + totalPercentCritChance));

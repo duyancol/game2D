@@ -149,7 +149,7 @@ MonoBehaviour:
   baseDamage: 40
   atkScale: 0
   smptScale: 0
-  damageType: 0
+  damageType: 1
   canCrit: 1
 --- !u!58 &7600208329563418485
 CircleCollider2D:

@@ -10,49 +10,49 @@
 10        android:targetSdkVersion="36" />
 11
 12    <supports-screens
-12-->D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+12-->D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
 13        android:anyDensity="true"
-13-->D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+13-->D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
 14        android:largeScreens="true"
-14-->D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+14-->D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
 15        android:normalScreens="true"
-15-->D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+15-->D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
 16        android:smallScreens="true"
-16-->D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+16-->D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
 17        android:xlargeScreens="true" />
-17-->D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+17-->D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
 18
 19    <uses-permission android:name="android.permission.INTERNET" />
-19-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-67
-19-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:22-64
+19-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-67
+19-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:22-64
 20
 21    <uses-feature android:glEsVersion="0x00030000" />
-21-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:5-54
-21-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:19-51
+21-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:5-54
+21-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:19-51
 22    <uses-feature
-22-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:5-13:36
+22-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:5-13:36
 23        android:name="android.hardware.vulkan.version"
-23-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:9-55
+23-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:9-55
 24        android:required="false" />
-24-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:9-33
+24-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:9-33
 25    <uses-feature
-25-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:5-16:36
+25-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:5-16:36
 26        android:name="android.hardware.touchscreen"
-26-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:9-52
+26-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:9-52
 27        android:required="false" />
-27-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:9-33
+27-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:9-33
 28    <uses-feature
-28-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:17:5-19:36
+28-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:17:5-19:36
 29        android:name="android.hardware.touchscreen.multitouch"
-29-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:18:9-63
+29-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:18:9-63
 30        android:required="false" />
-30-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:19:9-33
+30-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:19:9-33
 31    <uses-feature
-31-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:5-22:36
+31-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:5-22:36
 32        android:name="android.hardware.touchscreen.multitouch.distinct"
-32-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:21:9-72
+32-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:21:9-72
 33        android:required="false" />
-33-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:22:9-33
+33-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:22:9-33
 34
 35    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 35-->[com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:26:5-79
@@ -88,128 +88,128 @@
 47-->[androidx.core:core:1.9.0] C:\Users\anvt1\.gradle\caches\8.11\transforms\01b0759c45be5acd57b988c62a807a3d\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 48
 49    <application
-49-->D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+49-->D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
 50        android:appCategory="game"
-50-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:25:9-35
+50-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:25:9-35
 51        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 51-->[androidx.core:core:1.9.0] C:\Users\anvt1\.gradle\caches\8.11\transforms\01b0759c45be5acd57b988c62a807a3d\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 52        android:enableOnBackInvokedCallback="false"
-52-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:26:9-52
+52-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:26:9-52
 53        android:extractNativeLibs="true"
 54        android:icon="@mipmap/app_icon"
-54-->D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-47
+54-->D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-47
 55        android:label="@string/app_name" >
-55-->D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:48-80
+55-->D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:48-80
 56        <meta-data
-56-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:28:9-30:33
+56-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:28:9-30:33
 57            android:name="unity.splash-mode"
-57-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:29:13-45
+57-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:29:13-45
 58            android:value="0" />
-58-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:13-30
+58-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:13-30
 59        <meta-data
-59-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:31:9-33:36
+59-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:31:9-33:36
 60            android:name="unity.splash-enable"
-60-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:32:13-47
+60-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:32:13-47
 61            android:value="True" />
-61-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:33:13-33
+61-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:33:13-33
 62        <meta-data
-62-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:34:9-36:36
+62-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:34:9-36:36
 63            android:name="unity.launch-fullscreen"
-63-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:35:13-51
+63-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:35:13-51
 64            android:value="True" />
-64-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:36:13-33
+64-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:36:13-33
 65        <meta-data
-65-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:37:9-39:36
+65-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:37:9-39:36
 66            android:name="unity.render-outside-safearea"
-66-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:38:13-57
+66-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:38:13-57
 67            android:value="True" />
-67-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:39:13-33
+67-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:39:13-33
 68        <meta-data
-68-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:40:9-42:50
+68-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:40:9-42:50
 69            android:name="notch.config"
-69-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:41:13-40
+69-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:41:13-40
 70            android:value="portrait|landscape" />
-70-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:42:13-47
+70-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:42:13-47
 71        <meta-data
-71-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:43:9-45:36
+71-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:43:9-45:36
 72            android:name="unity.auto-report-fully-drawn"
-72-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:44:13-57
+72-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:44:13-57
 73            android:value="true" />
-73-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:45:13-33
+73-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:45:13-33
 74        <meta-data
-74-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:46:9-48:36
+74-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:46:9-48:36
 75            android:name="unity.strip-engine-code"
-75-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:47:13-51
+75-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:47:13-51
 76            android:value="true" />
-76-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:48:13-33
+76-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:48:13-33
 77        <meta-data
-77-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:49:9-51:36
+77-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:49:9-51:36
 78            android:name="unity.auto-set-game-state"
-78-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:50:13-53
+78-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:50:13-53
 79            android:value="true" />
-79-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:51:13-33
+79-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:51:13-33
 80
 81        <activity
-81-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:53:9-84:20
+81-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:53:9-84:20
 82            android:name="com.unity3d.player.UnityPlayerGameActivity"
-82-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:54:13-70
+82-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:54:13-70
 83            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-83-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:55:13-194
+83-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:55:13-194
 84            android:enabled="true"
-84-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:56:13-35
+84-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:56:13-35
 85            android:exported="true"
-85-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:57:13-36
+85-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:57:13-36
 86            android:hardwareAccelerated="false"
-86-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:58:13-48
+86-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:58:13-48
 87            android:launchMode="singleTask"
-87-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:59:13-44
+87-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:59:13-44
 88            android:resizeableActivity="true"
-88-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:60:13-46
+88-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:60:13-46
 89            android:screenOrientation="fullUser"
-89-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:61:13-49
+89-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:61:13-49
 90            android:theme="@style/BaseUnityGameActivityTheme" >
-90-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:62:13-62
+90-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:62:13-62
 91            <intent-filter>
-91-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:63:13-67:29
+91-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:63:13-67:29
 92                <category android:name="android.intent.category.LAUNCHER" />
-92-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:64:17-77
-92-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:64:27-74
+92-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:64:17-77
+92-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:64:27-74
 93
 94                <action android:name="android.intent.action.MAIN" />
-94-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:17-69
-94-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:25-66
+94-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:17-69
+94-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:25-66
 95            </intent-filter>
 96
 97            <meta-data
-97-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:69:13-71:40
+97-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:69:13-71:40
 98                android:name="unityplayer.UnityActivity"
-98-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:70:17-57
+98-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:70:17-57
 99                android:value="true" />
-99-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:71:17-37
+99-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:71:17-37
 100            <meta-data
-100-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:72:13-74:40
+100-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:72:13-74:40
 101                android:name="android.app.lib_name"
-101-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:73:17-52
+101-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:73:17-52
 102                android:value="game" />
-102-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:74:17-37
+102-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:74:17-37
 103            <meta-data
-103-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:75:13-77:71
+103-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:75:13-77:71
 104                android:name="WindowManagerPreference:FreeformWindowSize"
-104-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:76:17-74
+104-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:76:17-74
 105                android:value="@string/FreeformWindowSize_maximize" />
-105-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:77:17-68
+105-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:77:17-68
 106            <meta-data
-106-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:78:13-80:79
+106-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:78:13-80:79
 107                android:name="WindowManagerPreference:FreeformWindowOrientation"
-107-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:79:17-81
+107-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:79:17-81
 108                android:value="@string/FreeformWindowOrientation_landscape" />
-108-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:80:17-76
+108-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:80:17-76
 109            <meta-data
-109-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:81:13-83:40
+109-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:81:13-83:40
 110                android:name="notch_support"
-110-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:82:17-45
+110-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:82:17-45
 111                android:value="true" />
-111-->[:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:83:17-37
+111-->[:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:83:17-37
 112        </activity>
 113        <activity
 113-->[com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:29:9-46:20

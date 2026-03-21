@@ -176,7 +176,11 @@
           },
           {
             "name": "ComputeShader",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
+              "Assets/Scenes/Map_Grassland.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -328,7 +332,11 @@
           },
           {
             "name": "Mesh",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
+              "Assets/Scenes/Map_Grassland.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -517,6 +525,7 @@
             "name": "SpriteRenderer",
             "scenes": [
               "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/LoginScene.unity",
               "Assets/Scenes/MainMenu.unity",
               "Assets/Scenes/Map_Grassland.unity"
             ],
@@ -942,6 +951,8 @@
           {
             "name": "ParticleSystem",
             "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
               "Assets/Scenes/Map_Grassland.unity"
             ],
             "dependencyType": 0,
@@ -950,6 +961,8 @@
           {
             "name": "ParticleSystemRenderer",
             "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
               "Assets/Scenes/Map_Grassland.unity"
             ],
             "dependencyType": 0,
@@ -1033,6 +1046,7 @@
             "name": "CircleCollider2D",
             "scenes": [
               "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/LoginScene.unity",
               "Assets/Scenes/MainMenu.unity",
               "Assets/Scenes/Map_Grassland.unity"
             ],
@@ -1089,6 +1103,7 @@
             "name": "Rigidbody2D",
             "scenes": [
               "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/LoginScene.unity",
               "Assets/Scenes/MainMenu.unity",
               "Assets/Scenes/Map_Grassland.unity"
             ],
@@ -1581,19 +1596,31 @@
           },
           {
             "name": "VFXRenderer",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
+              "Assets/Scenes/Map_Grassland.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "VisualEffect",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
+              "Assets/Scenes/Map_Grassland.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "VisualEffectAsset",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
+              "Assets/Scenes/Map_Grassland.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },

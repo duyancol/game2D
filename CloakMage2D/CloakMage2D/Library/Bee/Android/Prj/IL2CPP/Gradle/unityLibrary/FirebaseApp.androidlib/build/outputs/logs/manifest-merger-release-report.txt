@@ -1,21 +1,21 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:2:1-6:12
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:2:1-6:12
+ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:2:1-6:12
 	package
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:3:11-50
-		INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:3:11-50
+		INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:5:11-36
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:5:11-36
 	xmlns:android
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:2:11-69
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:4:11-34
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml:4:11-34
 uses-sdk
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
+		INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
+		INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml

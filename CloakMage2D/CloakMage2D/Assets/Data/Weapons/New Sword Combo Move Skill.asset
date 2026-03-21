@@ -33,21 +33,24 @@ MonoBehaviour:
   stabPrefab: {fileID: 3001871527004090156, guid: 016f4746c9e120e4c824c94ea22d380b, type: 3}
   slashSidePrefab: {fileID: 7614406565806038999, guid: c283a3004afe2e545b2894d2405ee953, type: 3}
   slashDownPrefab: {fileID: 130206590770822522, guid: 2778f5b46554057489aa724f637b61fe, type: 3}
-  stabOffset: {x: 2, y: 0.1, z: 30}
+  stabOffset: {x: 2, y: 0.1, z: 0}
   slashSideOffset: {x: 2, y: 0.2, z: 0}
   slashDownOffset: {x: 2, y: -0.2, z: 0}
   stabLife: 0.8
   slashSideLife: 0.82
   slamLife: 0.86
-  damageType: 1
+  stabAngle: 0
+  slashSideAngle: 0
+  slamAngle: 0
+  damageType: 2
   canCrit: 1
-  smptScale: 0
-  stabDamage: 60
-  stabAtkScale: 1
-  slashSideDamage: 72
-  slashSideAtkScale: 1.2
-  slamDamage: 102
-  slamAtkScale: 1.5
+  smptScale: 0.5
+  stabDamage: 10
+  stabAtkScale: 0.52
+  slashSideDamage: 12
+  slashSideAtkScale: 0.56
+  slamDamage: 16
+  slamAtkScale: 0.62
   usePlayerAction: 1
   hit1ImpactT: 0.55
   hit2ImpactT: 0.15

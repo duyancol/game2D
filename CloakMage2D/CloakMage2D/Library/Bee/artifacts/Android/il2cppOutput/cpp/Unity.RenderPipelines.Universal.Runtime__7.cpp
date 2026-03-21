@@ -526,6 +526,7 @@ IL2CPP_EXTERN_C RuntimeClass* UniversalAdditionalLightData_t64155D8CEDD90D83B101
 IL2CPP_EXTERN_C RuntimeClass* UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* UniversalRenderer_t31019D4AD52F646128E0D1649E7B87E33BA36D8A_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* VFXManager_tBD98CA24D5E15AFD9DAA3AF6B51F348C173A7E2E_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_il2cpp_TypeInfo_var;
@@ -1602,6 +1603,12 @@ struct UniversalRenderPipelineDebugDisplaySettings_t8E70DD217918DB0E7BD8BCCD9958
 struct UniversalResourceDataBase_t22F227228119E69F9151E30D6DC4BE0BAA0ADDE4  : public ContextItem_tFC5ECB349F0410923AE6BC2A9CAACA3589B51086
 {
 	bool ___U3CisAccessibleU3Ek__BackingField;
+};
+struct VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92 
+{
+	uint32_t ___viewTotal;
+	uint32_t ___viewCount;
+	uint32_t ___viewOffset;
 };
 struct Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 
 {
@@ -5740,6 +5747,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniversalRenderPipeline_IsGameCamera_mB9
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniversalRenderPipeline_RenderCameraStack_mD878320D0376DA3EE97CC00F99AE89DD30B7CC61 (ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 ___0_context, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___1_baseCamera, bool ___2_isLastBaseCamera, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraRenderingScope__ctor_mB6900429BFF6B78AF2325B36B44C96101329BD2C (CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86* __this, ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 ___0_context, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___1_camera, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraRenderingScope_Dispose_m7E450211F8C22CDF76970E0BC4FA3832ECE0E3C5 (CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VFXManager_PrepareCamera_m81F8E530644DBCE5C8BF9CB4D66AF83B828EC8C1 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___0_cam, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniversalRenderPipeline_UpdateVolumeFramework_mDB3BFFD3B2A0F901F74EED4DB173ABDF6C8BFA81 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___0_camera, UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* ___1_additionalCameraData, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniversalRenderPipeline_RenderSingleCameraInternal_m2B87B3125FBCC431EC0CD4C4F4D7122A06E75079 (ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 ___0_context, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___1_camera, bool ___2_isLastBaseCamera, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RenderGraph_EndFrame_mAE73E69B8B0F27992F451EFA2779F62F15E6F8A7 (RenderGraph_t73ECE03B3CA3D0D17F1448D64AE020E81592AA1E* __this, const RuntimeMethod* method) ;
@@ -5868,6 +5876,9 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void UniversalCameraData_set_xr_m
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniversalRenderPipeline_UpdateCameraData_m5F04CDC332D968B01F402ABCE3EA74B272F99AB8 (UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* ___0_baseCameraData, XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF** ___1_xr, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRLayout_ReconfigurePass_m3D21EAE37C6A5D3AF650146EDA4178A10CF7EBAB (XRLayout_tF69CBA03E12C4B21F31635BC159D6F171825D519* __this, XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* ___0_xrPass, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___1_camera, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRSystemUniversal_BeginLateLatching_mC7137371DF0AEC0E280A635155CA7917356E6522 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___0_camera, XRPassUniversal_t8D4B40107F5DBC12D39470D87D108D3D2A8FB8D1* ___1_xrPass, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t XRPass_get_viewCount_m0D9E6A5AEA60C52EAA3B211DDE1BEA734318A35D (XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t XRPass_get_multipassId_m312BE1D2B8BA520E9A214F50E601EA6BED92E245_inline (XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VFXManager_PrepareCamera_mDF07F46C4ED37B8EFF785C9AE55BEFFA9C133923 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___0_cam, VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92 ___1_camXRSettings, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool XRPass_get_isHDRDisplayOutputActive_mDDF923772ACEB4329636145DF533077CAD0991A3 (XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* __this, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool UniversalRenderPipelineAsset_get_supportsHDR_m21EBD3560B0CA09499967BB9F56C96D1B0AC9052_inline (UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRSystemUniversal_EndLateLatching_m59791DC107E3981C8C11D9250DFDAF4A62E8C150 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___0_camera, XRPassUniversal_t8D4B40107F5DBC12D39470D87D108D3D2A8FB8D1* ___1_xrPass, const RuntimeMethod* method) ;
@@ -6128,9 +6139,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Camera_SetStereoProjectionMatrix_mDD17B78DC3B755AB026A86CD3943587450702268 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* __this, int32_t ___0_eye, Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___1_matrix, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 XRPass_GetViewMatrix_m6B40CC647344BB873EA5D81A4EA9A1A55038F0A0 (XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* __this, int32_t ___0_viewIndex, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Camera_SetStereoViewMatrix_m0FA7006F8D828D97D97E62F7B6BA29055939A9A8 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* __this, int32_t ___0_eye, Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___1_matrix, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t XRPass_get_viewCount_m0D9E6A5AEA60C52EAA3B211DDE1BEA734318A35D (XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* __this, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Mathf_Min_m888083F74FF5655778F0403BB5E9608BEFDEA8CB_inline (int32_t ___0_a, int32_t ___1_b, const RuntimeMethod* method) ;
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t XRPass_get_multipassId_m312BE1D2B8BA520E9A214F50E601EA6BED92E245_inline (XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool RenderingUtils_get_useStructuredBuffer_m0B310996FC76E8BF72EBBCA9F94AB840277DAB1B (const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Light_t1E68479B7782AF2050FAA02A5DC612FD034F18F3* RenderSettings_get_sun_m5D3CDD2B31B8F48F77D5DC3830E3BB67A44869EC (const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Light_get_intensity_m8FA28D515853068A93FA68B2148809BBEE4E710F (Light_t1E68479B7782AF2050FAA02A5DC612FD034F18F3* __this, const RuntimeMethod* method) ;
@@ -7872,6 +7881,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniversalRenderPipeline_Render_m15A42AB4
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ProfilingSampler_Get_TisURPProfileId_tA83520239B6C0F10A73CCC6CEC7D3DA1F1932481_m9F3104BDEBD70A287E8F4BAC86579564A19A5661_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RTHandles_t84D932A74064E591F31E9813FBED5D64F5CC888C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&VFXManager_tBD98CA24D5E15AFD9DAA3AF6B51F348C173A7E2E_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&XRSystem_tF767981574E3DA643F7A67A995F12DB1C4A97096_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
@@ -7908,7 +7918,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniversalRenderPipeline_Render_m15A42AB4
 		auto __finallyBlock = il2cpp::utils::Finally([&]
 		{
 
-FINALLY_00fc:
+FINALLY_0103:
 			{
 				ProfilingScope_Dispose_m4231A2ACA1F8E345BB0078310A9F7601704C8BE4((&V_1), NULL);
 				return;
@@ -7928,7 +7938,7 @@ FINALLY_00fc:
 				auto __finallyBlock = il2cpp::utils::Finally([&]
 				{
 
-FINALLY_00ee_1:
+FINALLY_00f5_1:
 					{
 						il2cpp_codegen_runtime_class_init_inline(ContextRenderingScope_t41F3C30482A93F2E0777958D2D1DAB7357F2DA70_il2cpp_TypeInfo_var);
 						ContextRenderingScope_Dispose_mB51673C299E1DAA325206945F442709AF153868D((&V_2), NULL);
@@ -7961,7 +7971,7 @@ FINALLY_00ee_1:
 						L_14 = UniversalRenderPipeline_GetLastBaseCameraIndex_m1D4B358BC4E9FD8923EA5556159C26938AB7387B(__this, L_13, NULL);
 						V_3 = L_14;
 						V_4 = 0;
-						goto IL_00ce_2;
+						goto IL_00d5_2;
 					}
 
 IL_0076_2:
@@ -7990,7 +8000,7 @@ IL_0076_2:
 						bool L_24 = V_6;
 						il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
 						UniversalRenderPipeline_RenderCameraStack_mD878320D0376DA3EE97CC00F99AE89DD30B7CC61(L_22, L_23, L_24, NULL);
-						goto IL_00c8_2;
+						goto IL_00cf_2;
 					}
 
 IL_009c_2:
@@ -8006,7 +8016,7 @@ IL_009c_2:
 						auto __finallyBlock = il2cpp::utils::Finally([&]
 						{
 
-FINALLY_00ba_2:
+FINALLY_00c1_2:
 							{
 								il2cpp_codegen_runtime_class_init_inline(CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86_il2cpp_TypeInfo_var);
 								CameraRenderingScope_Dispose_m7E450211F8C22CDF76970E0BC4FA3832ECE0E3C5((&V_7), NULL);
@@ -8016,13 +8026,16 @@ FINALLY_00ba_2:
 						try
 						{
 							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_28 = V_5;
+							il2cpp_codegen_runtime_class_init_inline(VFXManager_tBD98CA24D5E15AFD9DAA3AF6B51F348C173A7E2E_il2cpp_TypeInfo_var);
+							VFXManager_PrepareCamera_m81F8E530644DBCE5C8BF9CB4D66AF83B828EC8C1(L_28, NULL);
+							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_29 = V_5;
 							il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
-							UniversalRenderPipeline_UpdateVolumeFramework_mDB3BFFD3B2A0F901F74EED4DB173ABDF6C8BFA81(L_28, (UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93*)NULL, NULL);
-							ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 L_29 = ___0_renderContext;
-							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_30 = V_5;
-							bool L_31 = V_6;
-							UniversalRenderPipeline_RenderSingleCameraInternal_m2B87B3125FBCC431EC0CD4C4F4D7122A06E75079(L_29, L_30, L_31, NULL);
-							goto IL_00c8_2;
+							UniversalRenderPipeline_UpdateVolumeFramework_mDB3BFFD3B2A0F901F74EED4DB173ABDF6C8BFA81(L_29, (UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93*)NULL, NULL);
+							ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 L_30 = ___0_renderContext;
+							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_31 = V_5;
+							bool L_32 = V_6;
+							UniversalRenderPipeline_RenderSingleCameraInternal_m2B87B3125FBCC431EC0CD4C4F4D7122A06E75079(L_30, L_31, L_32, NULL);
+							goto IL_00cf_2;
 						}
 						catch(Il2CppExceptionWrapper& e)
 						{
@@ -8030,32 +8043,32 @@ FINALLY_00ba_2:
 						}
 					}
 
-IL_00c8_2:
-					{
-						int32_t L_32 = V_4;
-						V_4 = ((int32_t)il2cpp_codegen_add(L_32, 1));
-					}
-
-IL_00ce_2:
+IL_00cf_2:
 					{
 						int32_t L_33 = V_4;
-						int32_t L_34 = V_0;
-						if ((((int32_t)L_33) < ((int32_t)L_34)))
+						V_4 = ((int32_t)il2cpp_codegen_add(L_33, 1));
+					}
+
+IL_00d5_2:
+					{
+						int32_t L_34 = V_4;
+						int32_t L_35 = V_0;
+						if ((((int32_t)L_34) < ((int32_t)L_35)))
 						{
 							goto IL_0076_2;
 						}
 					}
 					{
 						il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
-						RenderGraph_t73ECE03B3CA3D0D17F1448D64AE020E81592AA1E* L_35 = ((UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_StaticFields*)il2cpp_codegen_static_fields_for(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var))->___s_RenderGraph;
-						NullCheck(L_35);
-						RenderGraph_EndFrame_mAE73E69B8B0F27992F451EFA2779F62F15E6F8A7(L_35, NULL);
-						RTHandleResourcePool_tB08B48917D5F811C85F6DDF0D751436D366CEF7A* L_36 = ((UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_StaticFields*)il2cpp_codegen_static_fields_for(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var))->___s_RTHandlePool;
-						int32_t L_37;
-						L_37 = Time_get_frameCount_m4A42E558A71301A216BDC49EC402D62F19C79667(NULL);
+						RenderGraph_t73ECE03B3CA3D0D17F1448D64AE020E81592AA1E* L_36 = ((UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_StaticFields*)il2cpp_codegen_static_fields_for(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var))->___s_RenderGraph;
 						NullCheck(L_36);
-						RTHandleResourcePool_PurgeUnusedResources_m4D1AEFD43D086C82967304A59850BFC00B5156AA(L_36, L_37, NULL);
-						goto IL_010a;
+						RenderGraph_EndFrame_mAE73E69B8B0F27992F451EFA2779F62F15E6F8A7(L_36, NULL);
+						RTHandleResourcePool_tB08B48917D5F811C85F6DDF0D751436D366CEF7A* L_37 = ((UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_StaticFields*)il2cpp_codegen_static_fields_for(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var))->___s_RTHandlePool;
+						int32_t L_38;
+						L_38 = Time_get_frameCount_m4A42E558A71301A216BDC49EC402D62F19C79667(NULL);
+						NullCheck(L_37);
+						RTHandleResourcePool_PurgeUnusedResources_m4D1AEFD43D086C82967304A59850BFC00B5156AA(L_37, L_38, NULL);
+						goto IL_0111;
 					}
 				}
 				catch(Il2CppExceptionWrapper& e)
@@ -8070,7 +8083,7 @@ IL_00ce_2:
 		}
 	}
 
-IL_010a:
+IL_0111:
 	{
 		return;
 	}
@@ -9342,6 +9355,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniversalRenderPipeline_RenderCameraStac
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&VFXManager_tBD98CA24D5E15AFD9DAA3AF6B51F348C173A7E2E_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&XRPassUniversal_t8D4B40107F5DBC12D39470D87D108D3D2A8FB8D1_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&XRSystemUniversal_tC6D796087104B8263D12B71391A3147102BE3FF7_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&XRSystem_tF767981574E3DA643F7A67A995F12DB1C4A97096_il2cpp_TypeInfo_var);
@@ -9382,21 +9396,31 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniversalRenderPipeline_RenderCameraStac
 	XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* V_19 = NULL;
 	XRPassUniversal_t8D4B40107F5DBC12D39470D87D108D3D2A8FB8D1* V_20 = NULL;
 	bool V_21 = false;
-	CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86 V_22;
+	VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92 V_22;
 	memset((&V_22), 0, sizeof(V_22));
-	UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* V_23 = NULL;
-	bool V_24 = false;
-	int32_t V_25 = 0;
-	Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* V_26 = NULL;
-	UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* V_27 = NULL;
-	UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* V_28 = NULL;
-	bool V_29 = false;
-	CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* V_30 = NULL;
+	CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86 V_23;
+	memset((&V_23), 0, sizeof(V_23));
+	UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* V_24 = NULL;
+	bool V_25 = false;
+	int32_t V_26 = 0;
+	Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* V_27 = NULL;
+	UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* V_28 = NULL;
+	UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* V_29 = NULL;
+	bool V_30 = false;
+	CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* V_31 = NULL;
 	int32_t G_B7_0 = 0;
 	List_1_tD2FA3273746E404D72561E8324608D18B52B533E* G_B12_0 = NULL;
 	int32_t G_B15_0 = 0;
 	int32_t G_B35_0 = 0;
-	int32_t G_B50_0 = 0;
+	VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92* G_B44_0 = NULL;
+	VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92* G_B43_0 = NULL;
+	int32_t G_B45_0 = 0;
+	VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92* G_B45_1 = NULL;
+	VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92* G_B47_0 = NULL;
+	VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92* G_B46_0 = NULL;
+	int32_t G_B48_0 = 0;
+	VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92* G_B48_1 = NULL;
+	int32_t G_B56_0 = 0;
 	{
 		ProfilingSampler_t420D4672EDB44E0EF980B31ADFD9E5747200FECE* L_0;
 		L_0 = ProfilingSampler_Get_TisURPProfileId_tA83520239B6C0F10A73CCC6CEC7D3DA1F1932481_m9F3104BDEBD70A287E8F4BAC86579564A19A5661(2, ProfilingSampler_Get_TisURPProfileId_tA83520239B6C0F10A73CCC6CEC7D3DA1F1932481_m9F3104BDEBD70A287E8F4BAC86579564A19A5661_RuntimeMethod_var);
@@ -9406,7 +9430,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniversalRenderPipeline_RenderCameraStac
 		auto __finallyBlock = il2cpp::utils::Finally([&]
 		{
 
-FINALLY_04fa:
+FINALLY_055b:
 			{
 				ProfilingScope_Dispose_m4231A2ACA1F8E345BB0078310A9F7601704C8BE4((&V_0), NULL);
 				return;
@@ -9439,7 +9463,7 @@ FINALLY_04fa:
 				}
 			}
 			{
-				goto IL_0508;
+				goto IL_0569;
 			}
 
 IL_002d_1:
@@ -9860,7 +9884,7 @@ IL_023e_1:
 				auto __finallyBlock = il2cpp::utils::Finally([&]
 				{
 
-FINALLY_04bb_1:
+FINALLY_051c_1:
 					{
 						Enumerator_Dispose_mAE75DD92E7D707B1868BAE66A363B805DA544D9C((&V_18), Enumerator_Dispose_mAE75DD92E7D707B1868BAE66A363B805DA544D9C_RuntimeMethod_var);
 						return;
@@ -9869,7 +9893,7 @@ FINALLY_04bb_1:
 				try
 				{
 					{
-						goto IL_04ad_2;
+						goto IL_050e_2;
 					}
 
 IL_0264_2:
@@ -9910,16 +9934,16 @@ IL_029a_2:
 						CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86 L_122;
 						memset((&L_122), 0, sizeof(L_122));
 						CameraRenderingScope__ctor_mB6900429BFF6B78AF2325B36B44C96101329BD2C((&L_122), L_120, L_121, NULL);
-						V_22 = L_122;
+						V_23 = L_122;
 					}
 					{
 						auto __finallyBlock = il2cpp::utils::Finally([&]
 						{
 
-FINALLY_037d_2:
+FINALLY_03d5_2:
 							{
 								il2cpp_codegen_runtime_class_init_inline(CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86_il2cpp_TypeInfo_var);
-								CameraRenderingScope_Dispose_m7E450211F8C22CDF76970E0BC4FA3832ECE0E3C5((&V_22), NULL);
+								CameraRenderingScope_Dispose_m7E450211F8C22CDF76970E0BC4FA3832ECE0E3C5((&V_23), NULL);
 								return;
 							}
 						});
@@ -9939,7 +9963,7 @@ FINALLY_037d_2:
 								bool L_129 = V_7;
 								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_130;
 								L_130 = UniversalRenderPipeline_CreateCameraData_mD9B2FCF3B62C230FC633489494829EC282944A6F(L_126, L_127, L_128, (bool)((((int32_t)L_129) == ((int32_t)0))? 1 : 0), NULL);
-								V_23 = L_130;
+								V_24 = L_130;
 								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_131 = V_19;
 								NullCheck(L_131);
 								bool L_132;
@@ -9950,11 +9974,11 @@ FINALLY_037d_2:
 								}
 							}
 							{
-								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_133 = V_23;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_133 = V_24;
 								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_134 = V_19;
 								NullCheck(L_133);
 								UniversalCameraData_set_xr_mEB2F322702C7AD348862B3652C45BB186DB5D328_inline(L_133, L_134, NULL);
-								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_135 = V_23;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_135 = V_24;
 								il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
 								UniversalRenderPipeline_UpdateCameraData_m5F04CDC332D968B01F402ABCE3EA74B272F99AB8(L_135, (&V_19), NULL);
 								XRLayout_tF69CBA03E12C4B21F31635BC159D6F171825D519* L_136 = V_10;
@@ -9974,113 +9998,191 @@ IL_02ee_3:
 								UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_142 = V_1;
 								bool L_143 = V_7;
 								bool L_144 = ___2_isLastBaseCamera;
-								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_145 = V_23;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_145 = V_24;
 								il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
 								UniversalRenderPipeline_InitializeAdditionalCameraData_m7D68DD98098E0639F44520BA529AC93B88DC28FF(L_141, L_142, (bool)((((int32_t)L_143) == ((int32_t)0))? 1 : 0), L_144, L_145, NULL);
-								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_146 = V_23;
-								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_147 = L_146;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_146 = V_24;
+								NullCheck(L_146);
+								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_147;
+								L_147 = UniversalCameraData_get_xr_mC600E667BA2B92EADF2CF60CD49E15242FA83C4D_inline(L_146, NULL);
 								NullCheck(L_147);
-								bool L_148 = L_147->___postProcessingRequiresDepthTexture;
-								bool L_149 = ((UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_StaticFields*)il2cpp_codegen_static_fields_for(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var))->___cameraStackRequiresDepthForPostprocessing;
-								NullCheck(L_147);
-								L_147->___postProcessingRequiresDepthTexture = (bool)((int32_t)((int32_t)L_148|(int32_t)L_149));
-								bool L_150 = V_5;
-								V_24 = L_150;
-								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_151 = V_19;
-								NullCheck(L_151);
-								bool L_152;
-								L_152 = XRPass_get_enabled_m488D52C18CC6B83FDC3212E98864BA02116A64A3(L_151, NULL);
-								if (!L_152)
+								bool L_148;
+								L_148 = XRPass_get_enabled_m488D52C18CC6B83FDC3212E98864BA02116A64A3(L_147, NULL);
+								if (L_148)
 								{
-									goto IL_0326_3;
+									G_B44_0 = (&V_22);
+									goto IL_0310_3;
 								}
+								G_B43_0 = (&V_22);
 							}
 							{
-								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_153 = V_19;
+								G_B45_0 = 1;
+								G_B45_1 = G_B43_0;
+								goto IL_0311_3;
+							}
+
+IL_0310_3:
+							{
+								G_B45_0 = 2;
+								G_B45_1 = G_B44_0;
+							}
+
+IL_0311_3:
+							{
+								G_B45_1->___viewTotal = G_B45_0;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_149 = V_24;
+								NullCheck(L_149);
+								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_150;
+								L_150 = UniversalCameraData_get_xr_mC600E667BA2B92EADF2CF60CD49E15242FA83C4D_inline(L_149, NULL);
+								NullCheck(L_150);
+								bool L_151;
+								L_151 = XRPass_get_enabled_m488D52C18CC6B83FDC3212E98864BA02116A64A3(L_150, NULL);
+								if (L_151)
+								{
+									G_B47_0 = (&V_22);
+									goto IL_0329_3;
+								}
+								G_B46_0 = (&V_22);
+							}
+							{
+								G_B48_0 = 1;
+								G_B48_1 = G_B46_0;
+								goto IL_0335_3;
+							}
+
+IL_0329_3:
+							{
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_152 = V_24;
+								NullCheck(L_152);
+								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_153;
+								L_153 = UniversalCameraData_get_xr_mC600E667BA2B92EADF2CF60CD49E15242FA83C4D_inline(L_152, NULL);
 								NullCheck(L_153);
-								bool L_154;
-								L_154 = XRPass_get_isHDRDisplayOutputActive_mDDF923772ACEB4329636145DF533077CAD0991A3(L_153, NULL);
-								V_24 = L_154;
+								int32_t L_154;
+								L_154 = XRPass_get_viewCount_m0D9E6A5AEA60C52EAA3B211DDE1BEA734318A35D(L_153, NULL);
+								G_B48_0 = L_154;
+								G_B48_1 = G_B47_0;
 							}
 
-IL_0326_3:
+IL_0335_3:
 							{
-								il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
-								UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232* L_155;
-								L_155 = UniversalRenderPipeline_get_asset_mCDEF564C748A6FE271F3749C82ECA64D0F6DE9E9(NULL);
+								G_B48_1->___viewCount = G_B48_0;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_155 = V_24;
 								NullCheck(L_155);
-								bool L_156;
-								L_156 = UniversalRenderPipelineAsset_get_supportsHDR_m21EBD3560B0CA09499967BB9F56C96D1B0AC9052_inline(L_155, NULL);
-								bool L_157 = V_24;
-								if (!((int32_t)((int32_t)L_156&(int32_t)L_157)))
-								{
-									goto IL_035e_3;
-								}
-							}
-							{
+								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_156;
+								L_156 = UniversalCameraData_get_xr_mC600E667BA2B92EADF2CF60CD49E15242FA83C4D_inline(L_155, NULL);
+								NullCheck(L_156);
+								int32_t L_157;
+								L_157 = XRPass_get_multipassId_m312BE1D2B8BA520E9A214F50E601EA6BED92E245_inline(L_156, NULL);
+								(&V_22)->___viewOffset = L_157;
 								Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_158 = ___1_baseCamera;
-								NullCheck(L_158);
-								RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27* L_159;
-								L_159 = Camera_get_targetTexture_mC856D7FF8351476068D04E245E4F08F5C56A55BD(L_158, NULL);
-								il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-								bool L_160;
-								L_160 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_159, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-								if (!L_160)
-								{
-									goto IL_035e_3;
-								}
-							}
-							{
-								Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_161 = ___1_baseCamera;
+								VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92 L_159 = V_22;
+								il2cpp_codegen_runtime_class_init_inline(VFXManager_tBD98CA24D5E15AFD9DAA3AF6B51F348C173A7E2E_il2cpp_TypeInfo_var);
+								VFXManager_PrepareCamera_mDF07F46C4ED37B8EFF785C9AE55BEFFA9C133923(L_158, L_159, NULL);
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_160 = V_24;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_161 = L_160;
 								NullCheck(L_161);
-								int32_t L_162;
-								L_162 = Camera_get_cameraType_m85434C4C986D2EAC04FBFA44B284840AFC497851(L_161, NULL);
-								if ((((int32_t)L_162) == ((int32_t)1)))
-								{
-									goto IL_0355_3;
-								}
-							}
-							{
-								Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_163 = ___1_baseCamera;
-								NullCheck(L_163);
-								int32_t L_164;
-								L_164 = Camera_get_cameraType_m85434C4C986D2EAC04FBFA44B284840AFC497851(L_163, NULL);
-								if ((!(((uint32_t)L_164) == ((uint32_t)8))))
-								{
-									goto IL_035e_3;
-								}
-							}
-
-IL_0355_3:
-							{
-								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_165 = V_23;
-								NullCheck(L_165);
-								bool L_166 = L_165->___allowHDROutput;
-								G_B50_0 = ((int32_t)(L_166));
-								goto IL_035f_3;
-							}
-
-IL_035e_3:
-							{
-								G_B50_0 = 0;
-							}
-
-IL_035f_3:
-							{
-								V_21 = (bool)G_B50_0;
-								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_167 = V_23;
-								bool L_168 = V_4;
-								NullCheck(L_167);
-								L_167->___stackAnyPostProcessingEnabled = L_168;
-								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_169 = V_23;
-								bool L_170 = V_21;
-								NullCheck(L_169);
-								L_169->___stackLastCameraOutputToHDR = L_170;
-								ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 L_171 = ___0_context;
-								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_172 = V_23;
+								bool L_162 = L_161->___postProcessingRequiresDepthTexture;
 								il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
-								UniversalRenderPipeline_RenderSingleCamera_m2BED2535B52183757555545A51CE20C9330FC5C6(L_171, L_172, NULL);
-								goto IL_038b_2;
+								bool L_163 = ((UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_StaticFields*)il2cpp_codegen_static_fields_for(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var))->___cameraStackRequiresDepthForPostprocessing;
+								NullCheck(L_161);
+								L_161->___postProcessingRequiresDepthTexture = (bool)((int32_t)((int32_t)L_162|(int32_t)L_163));
+								bool L_164 = V_5;
+								V_25 = L_164;
+								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_165 = V_19;
+								NullCheck(L_165);
+								bool L_166;
+								L_166 = XRPass_get_enabled_m488D52C18CC6B83FDC3212E98864BA02116A64A3(L_165, NULL);
+								if (!L_166)
+								{
+									goto IL_037e_3;
+								}
+							}
+							{
+								XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_167 = V_19;
+								NullCheck(L_167);
+								bool L_168;
+								L_168 = XRPass_get_isHDRDisplayOutputActive_mDDF923772ACEB4329636145DF533077CAD0991A3(L_167, NULL);
+								V_25 = L_168;
+							}
+
+IL_037e_3:
+							{
+								il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
+								UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232* L_169;
+								L_169 = UniversalRenderPipeline_get_asset_mCDEF564C748A6FE271F3749C82ECA64D0F6DE9E9(NULL);
+								NullCheck(L_169);
+								bool L_170;
+								L_170 = UniversalRenderPipelineAsset_get_supportsHDR_m21EBD3560B0CA09499967BB9F56C96D1B0AC9052_inline(L_169, NULL);
+								bool L_171 = V_25;
+								if (!((int32_t)((int32_t)L_170&(int32_t)L_171)))
+								{
+									goto IL_03b6_3;
+								}
+							}
+							{
+								Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_172 = ___1_baseCamera;
+								NullCheck(L_172);
+								RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27* L_173;
+								L_173 = Camera_get_targetTexture_mC856D7FF8351476068D04E245E4F08F5C56A55BD(L_172, NULL);
+								il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+								bool L_174;
+								L_174 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_173, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+								if (!L_174)
+								{
+									goto IL_03b6_3;
+								}
+							}
+							{
+								Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_175 = ___1_baseCamera;
+								NullCheck(L_175);
+								int32_t L_176;
+								L_176 = Camera_get_cameraType_m85434C4C986D2EAC04FBFA44B284840AFC497851(L_175, NULL);
+								if ((((int32_t)L_176) == ((int32_t)1)))
+								{
+									goto IL_03ad_3;
+								}
+							}
+							{
+								Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_177 = ___1_baseCamera;
+								NullCheck(L_177);
+								int32_t L_178;
+								L_178 = Camera_get_cameraType_m85434C4C986D2EAC04FBFA44B284840AFC497851(L_177, NULL);
+								if ((!(((uint32_t)L_178) == ((uint32_t)8))))
+								{
+									goto IL_03b6_3;
+								}
+							}
+
+IL_03ad_3:
+							{
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_179 = V_24;
+								NullCheck(L_179);
+								bool L_180 = L_179->___allowHDROutput;
+								G_B56_0 = ((int32_t)(L_180));
+								goto IL_03b7_3;
+							}
+
+IL_03b6_3:
+							{
+								G_B56_0 = 0;
+							}
+
+IL_03b7_3:
+							{
+								V_21 = (bool)G_B56_0;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_181 = V_24;
+								bool L_182 = V_4;
+								NullCheck(L_181);
+								L_181->___stackAnyPostProcessingEnabled = L_182;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_183 = V_24;
+								bool L_184 = V_21;
+								NullCheck(L_183);
+								L_183->___stackLastCameraOutputToHDR = L_184;
+								ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 L_185 = ___0_context;
+								UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_186 = V_24;
+								il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
+								UniversalRenderPipeline_RenderSingleCamera_m2BED2535B52183757555545A51CE20C9330FC5C6(L_185, L_186, NULL);
+								goto IL_03e3_2;
 							}
 						}
 						catch(Il2CppExceptionWrapper& e)
@@ -10089,178 +10191,182 @@ IL_035f_3:
 						}
 					}
 
-IL_038b_2:
+IL_03e3_2:
 					{
-						XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_173 = V_19;
-						NullCheck(L_173);
-						bool L_174;
-						L_174 = XRPass_get_enabled_m488D52C18CC6B83FDC3212E98864BA02116A64A3(L_173, NULL);
-						if (!L_174)
+						XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_187 = V_19;
+						NullCheck(L_187);
+						bool L_188;
+						L_188 = XRPass_get_enabled_m488D52C18CC6B83FDC3212E98864BA02116A64A3(L_187, NULL);
+						if (!L_188)
 						{
-							goto IL_039c_2;
+							goto IL_03f4_2;
 						}
 					}
 					{
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_175 = ___1_baseCamera;
-						XRPassUniversal_t8D4B40107F5DBC12D39470D87D108D3D2A8FB8D1* L_176 = V_20;
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_189 = ___1_baseCamera;
+						XRPassUniversal_t8D4B40107F5DBC12D39470D87D108D3D2A8FB8D1* L_190 = V_20;
 						il2cpp_codegen_runtime_class_init_inline(XRSystemUniversal_tC6D796087104B8263D12B71391A3147102BE3FF7_il2cpp_TypeInfo_var);
-						XRSystemUniversal_EndLateLatching_m59791DC107E3981C8C11D9250DFDAF4A62E8C150(L_175, L_176, NULL);
+						XRSystemUniversal_EndLateLatching_m59791DC107E3981C8C11D9250DFDAF4A62E8C150(L_189, L_190, NULL);
 					}
 
-IL_039c_2:
+IL_03f4_2:
 					{
-						bool L_177 = V_7;
-						if (!L_177)
+						bool L_191 = V_7;
+						if (!L_191)
 						{
-							goto IL_04ad_2;
+							goto IL_050e_2;
 						}
 					}
 					{
-						V_25 = 0;
-						goto IL_04a0_2;
+						V_26 = 0;
+						goto IL_0501_2;
 					}
 
-IL_03ab_2:
+IL_0403_2:
 					{
-						List_1_tD2FA3273746E404D72561E8324608D18B52B533E* L_178 = V_3;
-						int32_t L_179 = V_25;
-						NullCheck(L_178);
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_180;
-						L_180 = List_1_get_Item_m7CEE3A6E144C8D86DE6490620206FAB13432ACF6(L_178, L_179, List_1_get_Item_m7CEE3A6E144C8D86DE6490620206FAB13432ACF6_RuntimeMethod_var);
-						V_26 = L_180;
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_181 = V_26;
-						NullCheck(L_181);
-						bool L_182;
-						L_182 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_181, NULL);
-						if (!L_182)
+						List_1_tD2FA3273746E404D72561E8324608D18B52B533E* L_192 = V_3;
+						int32_t L_193 = V_26;
+						NullCheck(L_192);
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_194;
+						L_194 = List_1_get_Item_m7CEE3A6E144C8D86DE6490620206FAB13432ACF6(L_192, L_193, List_1_get_Item_m7CEE3A6E144C8D86DE6490620206FAB13432ACF6_RuntimeMethod_var);
+						V_27 = L_194;
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_195 = V_27;
+						NullCheck(L_195);
+						bool L_196;
+						L_196 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_195, NULL);
+						if (!L_196)
 						{
-							goto IL_049a_2;
+							goto IL_04fb_2;
 						}
 					}
 					{
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_183 = V_26;
-						NullCheck(L_183);
-						bool L_184;
-						L_184 = Component_TryGetComponent_TisUniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93_m399477CCB032DFC9D1F9D077AC7E5E237504FE86(L_183, (&V_27), Component_TryGetComponent_TisUniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93_m399477CCB032DFC9D1F9D077AC7E5E237504FE86_RuntimeMethod_var);
-						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_185 = V_27;
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_197 = V_27;
+						NullCheck(L_197);
+						bool L_198;
+						L_198 = Component_TryGetComponent_TisUniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93_m399477CCB032DFC9D1F9D077AC7E5E237504FE86(L_197, (&V_28), Component_TryGetComponent_TisUniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93_m399477CCB032DFC9D1F9D077AC7E5E237504FE86_RuntimeMethod_var);
+						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_199 = V_28;
 						il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-						bool L_186;
-						L_186 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_185, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-						if (!L_186)
+						bool L_200;
+						L_200 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_199, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+						if (!L_200)
 						{
-							goto IL_049a_2;
+							goto IL_04fb_2;
 						}
 					}
 					{
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_187 = V_26;
-						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_188 = V_27;
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_201 = V_27;
+						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_202 = V_28;
 						il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
-						ScriptableRenderer_tF15B95BB85F26BE4B4719901D909831B89DC8892* L_189;
-						L_189 = UniversalRenderPipeline_GetRenderer_mB6B47C96F0905461A39ECAB0083B6C49A8FD3E8C(L_187, L_188, NULL);
-						NullCheck(L_189);
-						ContextContainer_t384E08F63FABEFF6A7F1A753F5EF02699DAD414C* L_190;
-						L_190 = ScriptableRenderer_get_frameData_m1E575C1F7F79B65139F8AD75EB4B40BB4113714A_inline(L_189, NULL);
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_191 = ___1_baseCamera;
-						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_192 = V_1;
-						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_193;
-						L_193 = UniversalRenderPipeline_CreateCameraData_mD9B2FCF3B62C230FC633489494829EC282944A6F(L_190, L_191, L_192, (bool)0, NULL);
-						V_28 = L_193;
-						XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_194 = V_19;
-						NullCheck(L_194);
-						bool L_195;
-						L_195 = XRPass_get_enabled_m488D52C18CC6B83FDC3212E98864BA02116A64A3(L_194, NULL);
-						if (!L_195)
+						ScriptableRenderer_tF15B95BB85F26BE4B4719901D909831B89DC8892* L_203;
+						L_203 = UniversalRenderPipeline_GetRenderer_mB6B47C96F0905461A39ECAB0083B6C49A8FD3E8C(L_201, L_202, NULL);
+						NullCheck(L_203);
+						ContextContainer_t384E08F63FABEFF6A7F1A753F5EF02699DAD414C* L_204;
+						L_204 = ScriptableRenderer_get_frameData_m1E575C1F7F79B65139F8AD75EB4B40BB4113714A_inline(L_203, NULL);
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_205 = ___1_baseCamera;
+						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_206 = V_1;
+						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_207;
+						L_207 = UniversalRenderPipeline_CreateCameraData_mD9B2FCF3B62C230FC633489494829EC282944A6F(L_204, L_205, L_206, (bool)0, NULL);
+						V_29 = L_207;
+						XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_208 = V_19;
+						NullCheck(L_208);
+						bool L_209;
+						L_209 = XRPass_get_enabled_m488D52C18CC6B83FDC3212E98864BA02116A64A3(L_208, NULL);
+						if (!L_209)
 						{
-							goto IL_040b_2;
+							goto IL_0463_2;
 						}
 					}
 					{
-						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_196 = V_28;
-						XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_197 = V_19;
-						NullCheck(L_196);
-						UniversalCameraData_set_xr_mEB2F322702C7AD348862B3652C45BB186DB5D328_inline(L_196, L_197, NULL);
-						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_198 = V_28;
+						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_210 = V_29;
+						XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_211 = V_19;
+						NullCheck(L_210);
+						UniversalCameraData_set_xr_mEB2F322702C7AD348862B3652C45BB186DB5D328_inline(L_210, L_211, NULL);
+						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_212 = V_29;
 						il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
-						UniversalRenderPipeline_UpdateCameraData_m5F04CDC332D968B01F402ABCE3EA74B272F99AB8(L_198, (&V_19), NULL);
+						UniversalRenderPipeline_UpdateCameraData_m5F04CDC332D968B01F402ABCE3EA74B272F99AB8(L_212, (&V_19), NULL);
 					}
 
-IL_040b_2:
+IL_0463_2:
 					{
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_199 = V_26;
-						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_200 = V_27;
-						bool L_201 = ___2_isLastBaseCamera;
-						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_202 = V_28;
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_213 = V_27;
+						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_214 = V_28;
+						bool L_215 = ___2_isLastBaseCamera;
+						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_216 = V_29;
 						il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
-						UniversalRenderPipeline_InitializeAdditionalCameraData_m7D68DD98098E0639F44520BA529AC93B88DC28FF(L_199, L_200, (bool)0, L_201, L_202, NULL);
-						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_203 = V_28;
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_204 = V_26;
-						NullCheck(L_203);
-						L_203->___camera = L_204;
-						Il2CppCodeGenWriteBarrier((void**)(&L_203->___camera), (void*)L_204);
-						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_205 = V_28;
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_206 = ___1_baseCamera;
-						NullCheck(L_205);
-						L_205->___baseCamera = L_206;
-						Il2CppCodeGenWriteBarrier((void**)(&L_205->___baseCamera), (void*)L_206);
-						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_207 = V_27;
-						NullCheck(L_207);
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_208;
-						L_208 = UniversalAdditionalCameraData_get_camera_m70D661D426B117218E3172F92AC50DBCF095B2C3(L_207, NULL);
-						XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_209 = V_19;
-						UniversalRenderPipeline_UpdateCameraStereoMatrices_mDEDA79D35BB95E1938076E72027BA15F737012BC(L_208, L_209, NULL);
-						ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 L_210 = ___0_context;
-						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_211 = V_26;
-						CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86 L_212;
-						memset((&L_212), 0, sizeof(L_212));
-						CameraRenderingScope__ctor_mB6900429BFF6B78AF2325B36B44C96101329BD2C((&L_212), L_210, L_211, NULL);
-						V_22 = L_212;
+						UniversalRenderPipeline_InitializeAdditionalCameraData_m7D68DD98098E0639F44520BA529AC93B88DC28FF(L_213, L_214, (bool)0, L_215, L_216, NULL);
+						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_217 = V_29;
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_218 = V_27;
+						NullCheck(L_217);
+						L_217->___camera = L_218;
+						Il2CppCodeGenWriteBarrier((void**)(&L_217->___camera), (void*)L_218);
+						UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_219 = V_29;
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_220 = ___1_baseCamera;
+						NullCheck(L_219);
+						L_219->___baseCamera = L_220;
+						Il2CppCodeGenWriteBarrier((void**)(&L_219->___baseCamera), (void*)L_220);
+						UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_221 = V_28;
+						NullCheck(L_221);
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_222;
+						L_222 = UniversalAdditionalCameraData_get_camera_m70D661D426B117218E3172F92AC50DBCF095B2C3(L_221, NULL);
+						XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_223 = V_19;
+						UniversalRenderPipeline_UpdateCameraStereoMatrices_mDEDA79D35BB95E1938076E72027BA15F737012BC(L_222, L_223, NULL);
+						ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 L_224 = ___0_context;
+						Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_225 = V_27;
+						CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86 L_226;
+						memset((&L_226), 0, sizeof(L_226));
+						CameraRenderingScope__ctor_mB6900429BFF6B78AF2325B36B44C96101329BD2C((&L_226), L_224, L_225, NULL);
+						V_23 = L_226;
 					}
 					{
 						auto __finallyBlock = il2cpp::utils::Finally([&]
 						{
 
-FINALLY_048c_2:
+FINALLY_04ed_2:
 							{
 								il2cpp_codegen_runtime_class_init_inline(CameraRenderingScope_t22DC9DD80675F9F4798118075227E437E22B0D86_il2cpp_TypeInfo_var);
-								CameraRenderingScope_Dispose_m7E450211F8C22CDF76970E0BC4FA3832ECE0E3C5((&V_22), NULL);
+								CameraRenderingScope_Dispose_m7E450211F8C22CDF76970E0BC4FA3832ECE0E3C5((&V_23), NULL);
 								return;
 							}
 						});
 						try
 						{
-							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_213 = V_26;
-							UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_214 = V_27;
+							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_227 = V_27;
+							VFXCameraXRSettings_t03DB07CF170D5B4B66546F8DE78FED3CF9755D92 L_228 = V_22;
+							il2cpp_codegen_runtime_class_init_inline(VFXManager_tBD98CA24D5E15AFD9DAA3AF6B51F348C173A7E2E_il2cpp_TypeInfo_var);
+							VFXManager_PrepareCamera_mDF07F46C4ED37B8EFF785C9AE55BEFFA9C133923(L_227, L_228, NULL);
+							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_229 = V_27;
+							UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_230 = V_28;
 							il2cpp_codegen_runtime_class_init_inline(UniversalRenderPipeline_t54B4737DC500C08628C5BE283D8C583C14DED98F_il2cpp_TypeInfo_var);
-							UniversalRenderPipeline_UpdateVolumeFramework_mDB3BFFD3B2A0F901F74EED4DB173ABDF6C8BFA81(L_213, L_214, NULL);
-							int32_t L_215 = V_25;
-							int32_t L_216 = V_6;
-							V_29 = (bool)((((int32_t)L_215) == ((int32_t)L_216))? 1 : 0);
-							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_217 = V_26;
-							UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_218 = V_27;
-							bool L_219 = V_29;
-							bool L_220 = ___2_isLastBaseCamera;
-							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_221 = V_28;
-							UniversalRenderPipeline_InitializeAdditionalCameraData_m7D68DD98098E0639F44520BA529AC93B88DC28FF(L_217, L_218, L_219, L_220, L_221, NULL);
-							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_222 = V_28;
-							bool L_223 = V_4;
-							NullCheck(L_222);
-							L_222->___stackAnyPostProcessingEnabled = L_223;
-							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_224 = V_28;
-							bool L_225 = V_21;
-							NullCheck(L_224);
-							L_224->___stackLastCameraOutputToHDR = L_225;
-							XRLayout_tF69CBA03E12C4B21F31635BC159D6F171825D519* L_226 = V_10;
-							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_227 = V_28;
-							NullCheck(L_227);
-							XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_228;
-							L_228 = UniversalCameraData_get_xr_mC600E667BA2B92EADF2CF60CD49E15242FA83C4D_inline(L_227, NULL);
-							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_229 = V_26;
-							NullCheck(L_226);
-							XRLayout_ReconfigurePass_m3D21EAE37C6A5D3AF650146EDA4178A10CF7EBAB(L_226, L_228, L_229, NULL);
-							ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 L_230 = ___0_context;
-							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_231 = V_28;
-							UniversalRenderPipeline_RenderSingleCamera_m2BED2535B52183757555545A51CE20C9330FC5C6(L_230, L_231, NULL);
-							goto IL_049a_2;
+							UniversalRenderPipeline_UpdateVolumeFramework_mDB3BFFD3B2A0F901F74EED4DB173ABDF6C8BFA81(L_229, L_230, NULL);
+							int32_t L_231 = V_26;
+							int32_t L_232 = V_6;
+							V_30 = (bool)((((int32_t)L_231) == ((int32_t)L_232))? 1 : 0);
+							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_233 = V_27;
+							UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_234 = V_28;
+							bool L_235 = V_30;
+							bool L_236 = ___2_isLastBaseCamera;
+							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_237 = V_29;
+							UniversalRenderPipeline_InitializeAdditionalCameraData_m7D68DD98098E0639F44520BA529AC93B88DC28FF(L_233, L_234, L_235, L_236, L_237, NULL);
+							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_238 = V_29;
+							bool L_239 = V_4;
+							NullCheck(L_238);
+							L_238->___stackAnyPostProcessingEnabled = L_239;
+							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_240 = V_29;
+							bool L_241 = V_21;
+							NullCheck(L_240);
+							L_240->___stackLastCameraOutputToHDR = L_241;
+							XRLayout_tF69CBA03E12C4B21F31635BC159D6F171825D519* L_242 = V_10;
+							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_243 = V_29;
+							NullCheck(L_243);
+							XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* L_244;
+							L_244 = UniversalCameraData_get_xr_mC600E667BA2B92EADF2CF60CD49E15242FA83C4D_inline(L_243, NULL);
+							Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_245 = V_27;
+							NullCheck(L_242);
+							XRLayout_ReconfigurePass_m3D21EAE37C6A5D3AF650146EDA4178A10CF7EBAB(L_242, L_244, L_245, NULL);
+							ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36 L_246 = ___0_context;
+							UniversalCameraData_t7904AE9D68B973761A72DFAA7CA3DE915696E1C7* L_247 = V_29;
+							UniversalRenderPipeline_RenderSingleCamera_m2BED2535B52183757555545A51CE20C9330FC5C6(L_246, L_247, NULL);
+							goto IL_04fb_2;
 						}
 						catch(Il2CppExceptionWrapper& e)
 						{
@@ -10268,36 +10374,36 @@ FINALLY_048c_2:
 						}
 					}
 
-IL_049a_2:
+IL_04fb_2:
 					{
-						int32_t L_232 = V_25;
-						V_25 = ((int32_t)il2cpp_codegen_add(L_232, 1));
+						int32_t L_248 = V_26;
+						V_26 = ((int32_t)il2cpp_codegen_add(L_248, 1));
 					}
 
-IL_04a0_2:
+IL_0501_2:
 					{
-						int32_t L_233 = V_25;
-						List_1_tD2FA3273746E404D72561E8324608D18B52B533E* L_234 = V_3;
-						NullCheck(L_234);
-						int32_t L_235;
-						L_235 = List_1_get_Count_mDCDDC4E9E15CD83C00D4CC32F79830261769F65C_inline(L_234, List_1_get_Count_mDCDDC4E9E15CD83C00D4CC32F79830261769F65C_RuntimeMethod_var);
-						if ((((int32_t)L_233) < ((int32_t)L_235)))
+						int32_t L_249 = V_26;
+						List_1_tD2FA3273746E404D72561E8324608D18B52B533E* L_250 = V_3;
+						NullCheck(L_250);
+						int32_t L_251;
+						L_251 = List_1_get_Count_mDCDDC4E9E15CD83C00D4CC32F79830261769F65C_inline(L_250, List_1_get_Count_mDCDDC4E9E15CD83C00D4CC32F79830261769F65C_RuntimeMethod_var);
+						if ((((int32_t)L_249) < ((int32_t)L_251)))
 						{
-							goto IL_03ab_2;
+							goto IL_0403_2;
 						}
 					}
 
-IL_04ad_2:
+IL_050e_2:
 					{
-						bool L_236;
-						L_236 = Enumerator_MoveNext_m1189043BF85871060FFF30E18CE16DE09CD6F853((&V_18), Enumerator_MoveNext_m1189043BF85871060FFF30E18CE16DE09CD6F853_RuntimeMethod_var);
-						if (L_236)
+						bool L_252;
+						L_252 = Enumerator_MoveNext_m1189043BF85871060FFF30E18CE16DE09CD6F853((&V_18), Enumerator_MoveNext_m1189043BF85871060FFF30E18CE16DE09CD6F853_RuntimeMethod_var);
+						if (L_252)
 						{
 							goto IL_0264_2;
 						}
 					}
 					{
-						goto IL_04c9_1;
+						goto IL_052a_1;
 					}
 				}
 				catch(Il2CppExceptionWrapper& e)
@@ -10306,36 +10412,36 @@ IL_04ad_2:
 				}
 			}
 
-IL_04c9_1:
+IL_052a_1:
 			{
-				bool L_237 = V_8;
-				if (!L_237)
+				bool L_253 = V_8;
+				if (!L_253)
 				{
-					goto IL_04f3_1;
+					goto IL_0554_1;
 				}
 			}
 			{
 				il2cpp_codegen_runtime_class_init_inline(CommandBufferPool_t88CACA06AB445EE4743F5C4D742C73761A2DEF0F_il2cpp_TypeInfo_var);
-				CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* L_238;
-				L_238 = CommandBufferPool_Get_m1A194FD7FBF7B6B0B47F292287DAD9EB65EE4423(NULL);
-				V_30 = L_238;
-				CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* L_239 = V_30;
-				Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_240 = ___1_baseCamera;
+				CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* L_254;
+				L_254 = CommandBufferPool_Get_m1A194FD7FBF7B6B0B47F292287DAD9EB65EE4423(NULL);
+				V_31 = L_254;
+				CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* L_255 = V_31;
+				Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_256 = ___1_baseCamera;
 				il2cpp_codegen_runtime_class_init_inline(XRSystem_tF767981574E3DA643F7A67A995F12DB1C4A97096_il2cpp_TypeInfo_var);
-				XRSystem_RenderMirrorView_m7F6EF57F53844C2D8F0E42E5AF0A97BBBD217AA3(L_239, L_240, NULL);
-				CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* L_241 = V_30;
+				XRSystem_RenderMirrorView_m7F6EF57F53844C2D8F0E42E5AF0A97BBBD217AA3(L_255, L_256, NULL);
+				CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* L_257 = V_31;
 				il2cpp_codegen_runtime_class_init_inline(ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36_il2cpp_TypeInfo_var);
-				ScriptableRenderContext_ExecuteCommandBuffer_mBAE37DFC699B7167A6E2C59012066C44A31E9896((&___0_context), L_241, NULL);
+				ScriptableRenderContext_ExecuteCommandBuffer_mBAE37DFC699B7167A6E2C59012066C44A31E9896((&___0_context), L_257, NULL);
 				ScriptableRenderContext_Submit_mF417223097ECEB2768EE736BE00A7F94DA3BDD26((&___0_context), NULL);
-				CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* L_242 = V_30;
-				CommandBufferPool_Release_mF83A83AA404E868E189436107015AD084C00C844(L_242, NULL);
+				CommandBuffer_tB56007DC84EF56296C325EC32DD12AC1E3DC91F7* L_258 = V_31;
+				CommandBufferPool_Release_mF83A83AA404E868E189436107015AD084C00C844(L_258, NULL);
 			}
 
-IL_04f3_1:
+IL_0554_1:
 			{
 				il2cpp_codegen_runtime_class_init_inline(XRSystem_tF767981574E3DA643F7A67A995F12DB1C4A97096_il2cpp_TypeInfo_var);
 				XRSystem_EndLayout_mD28C13F0E3AF1CEF3D9B405A0361A97ADFCA096D(NULL);
-				goto IL_0508;
+				goto IL_0569;
 			}
 		}
 		catch(Il2CppExceptionWrapper& e)
@@ -10344,7 +10450,7 @@ IL_04f3_1:
 		}
 	}
 
-IL_0508:
+IL_0569:
 	{
 		return;
 	}
@@ -29599,6 +29705,13 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void UniversalCameraData_set_xr_m
 		return;
 	}
 }
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t XRPass_get_multipassId_m312BE1D2B8BA520E9A214F50E601EA6BED92E245_inline (XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* __this, const RuntimeMethod* method) 
+{
+	{
+		int32_t L_0 = __this->___U3CmultipassIdU3Ek__BackingField;
+		return L_0;
+	}
+}
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool UniversalRenderPipelineAsset_get_supportsHDR_m21EBD3560B0CA09499967BB9F56C96D1B0AC9052_inline (UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232* __this, const RuntimeMethod* method) 
 {
 	{
@@ -30400,13 +30513,6 @@ IL_000c:
 	{
 		int32_t L_4 = V_0;
 		return L_4;
-	}
-}
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t XRPass_get_multipassId_m312BE1D2B8BA520E9A214F50E601EA6BED92E245_inline (XRPass_tFC4577E97B88E0EAAAB2EB387AB3A92E9EB9C6DF* __this, const RuntimeMethod* method) 
-{
-	{
-		int32_t L_0 = __this->___U3CmultipassIdU3Ek__BackingField;
-		return L_0;
 	}
 }
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_white_m068F5AF879B0FCA584E3693F762EA41BB65532C6_inline (const RuntimeMethod* method) 

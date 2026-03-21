@@ -127,7 +127,7 @@ MonoBehaviour:
   flyTime: 0.45
   spriteAngleOffset: 0
   owner: {fileID: 0}
-  impactVfx: {fileID: 569100430565760132}
+  impactVfx: {fileID: 8520959635160816606, guid: fc805c2fdb29e70419e8880267fa5a30, type: 3}
   impactVfxLife: 0.6
   explosionVfx: {fileID: 7657938868912402843, guid: 3dea67a4d410f5147ab8c90cee2f9025, type: 3}
   explosionVfxLife: 0.9

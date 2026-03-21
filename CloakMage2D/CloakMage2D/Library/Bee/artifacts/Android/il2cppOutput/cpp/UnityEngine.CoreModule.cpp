@@ -4901,6 +4901,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Camera_get_pixelRect_Injected_mFDDB91785
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Camera_set_pixelRect_Injected_m789BAC006F76565FB3AA136B6AB77F09999F80F9 (intptr_t ___0__unity_self, Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D* ___1_value, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_pixelWidth_Injected_mF7E68C414325394DAF45BB50AED4202CC98DC044 (intptr_t ___0__unity_self, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_pixelHeight_Injected_m755A96862339507C60B3C9AB2FE213700ECAF713 (intptr_t ___0__unity_self, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_scaledPixelWidth_Injected_m270EE1ECD94AE6E21DE119F1BF188AE404B22E3D (intptr_t ___0__unity_self, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_scaledPixelHeight_Injected_m70BF592DEFBDF4C3C92100E28CAF740A8849DF7F (intptr_t ___0__unity_self, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR intptr_t Camera_get_targetTexture_Injected_m421B053A47F969E3552CF69314F2C4AE4731BBE7 (intptr_t ___0__unity_self, const RuntimeMethod* method) ;
 inline RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27* Unmarshal_UnmarshalUnityObject_TisRenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27_m87693A3F5C324F0DB61909ED66D2D3EC4EE67070_inline (intptr_t ___0_gcHandlePtr, const RuntimeMethod* method)
 {
@@ -19535,6 +19537,76 @@ IL_000f:
 		return L_2;
 	}
 }
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_scaledPixelWidth_m249B2380A6E403DC1EA5E153546C4F61E226E42D (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MarshalledUnityObject_MarshalNotNull_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m15924AC4F274B53871C5D6A6938813258F728905_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	intptr_t G_B2_0;
+	memset((&G_B2_0), 0, sizeof(G_B2_0));
+	intptr_t G_B1_0;
+	memset((&G_B1_0), 0, sizeof(G_B1_0));
+	{
+		intptr_t L_0;
+		L_0 = MarshalledUnityObject_MarshalNotNull_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m15924AC4F274B53871C5D6A6938813258F728905_inline(__this, MarshalledUnityObject_MarshalNotNull_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m15924AC4F274B53871C5D6A6938813258F728905_RuntimeMethod_var);
+		intptr_t L_1 = L_0;
+		if (L_1)
+		{
+			G_B2_0 = L_1;
+			goto IL_000f;
+		}
+		G_B1_0 = L_1;
+	}
+	{
+		ThrowHelper_ThrowNullReferenceException_mA9C7629D32240EE0218631933DAC647668CA63CF(__this, NULL);
+		G_B2_0 = G_B1_0;
+	}
+
+IL_000f:
+	{
+		int32_t L_2;
+		L_2 = Camera_get_scaledPixelWidth_Injected_m270EE1ECD94AE6E21DE119F1BF188AE404B22E3D(G_B2_0, NULL);
+		return L_2;
+	}
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_scaledPixelHeight_m9A61AA4F944C308A6F8B7D094C92C7A40EFB4AB9 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MarshalledUnityObject_MarshalNotNull_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m15924AC4F274B53871C5D6A6938813258F728905_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	intptr_t G_B2_0;
+	memset((&G_B2_0), 0, sizeof(G_B2_0));
+	intptr_t G_B1_0;
+	memset((&G_B1_0), 0, sizeof(G_B1_0));
+	{
+		intptr_t L_0;
+		L_0 = MarshalledUnityObject_MarshalNotNull_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m15924AC4F274B53871C5D6A6938813258F728905_inline(__this, MarshalledUnityObject_MarshalNotNull_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m15924AC4F274B53871C5D6A6938813258F728905_RuntimeMethod_var);
+		intptr_t L_1 = L_0;
+		if (L_1)
+		{
+			G_B2_0 = L_1;
+			goto IL_000f;
+		}
+		G_B1_0 = L_1;
+	}
+	{
+		ThrowHelper_ThrowNullReferenceException_mA9C7629D32240EE0218631933DAC647668CA63CF(__this, NULL);
+		G_B2_0 = G_B1_0;
+	}
+
+IL_000f:
+	{
+		int32_t L_2;
+		L_2 = Camera_get_scaledPixelHeight_Injected_m70BF592DEFBDF4C3C92100E28CAF740A8849DF7F(G_B2_0, NULL);
+		return L_2;
+	}
+}
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27* Camera_get_targetTexture_mC856D7FF8351476068D04E245E4F08F5C56A55BD (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21047,6 +21119,24 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_pixelHeight_Injected_m755A
 	static Camera_get_pixelHeight_Injected_m755A96862339507C60B3C9AB2FE213700ECAF713_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Camera_get_pixelHeight_Injected_m755A96862339507C60B3C9AB2FE213700ECAF713_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_pixelHeight_Injected(System.IntPtr)");
+	int32_t icallRetVal = _il2cpp_icall_func(___0__unity_self);
+	return icallRetVal;
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_scaledPixelWidth_Injected_m270EE1ECD94AE6E21DE119F1BF188AE404B22E3D (intptr_t ___0__unity_self, const RuntimeMethod* method) 
+{
+	typedef int32_t (*Camera_get_scaledPixelWidth_Injected_m270EE1ECD94AE6E21DE119F1BF188AE404B22E3D_ftn) (intptr_t);
+	static Camera_get_scaledPixelWidth_Injected_m270EE1ECD94AE6E21DE119F1BF188AE404B22E3D_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Camera_get_scaledPixelWidth_Injected_m270EE1ECD94AE6E21DE119F1BF188AE404B22E3D_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_scaledPixelWidth_Injected(System.IntPtr)");
+	int32_t icallRetVal = _il2cpp_icall_func(___0__unity_self);
+	return icallRetVal;
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_scaledPixelHeight_Injected_m70BF592DEFBDF4C3C92100E28CAF740A8849DF7F (intptr_t ___0__unity_self, const RuntimeMethod* method) 
+{
+	typedef int32_t (*Camera_get_scaledPixelHeight_Injected_m70BF592DEFBDF4C3C92100E28CAF740A8849DF7F_ftn) (intptr_t);
+	static Camera_get_scaledPixelHeight_Injected_m70BF592DEFBDF4C3C92100E28CAF740A8849DF7F_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Camera_get_scaledPixelHeight_Injected_m70BF592DEFBDF4C3C92100E28CAF740A8849DF7F_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_scaledPixelHeight_Injected(System.IntPtr)");
 	int32_t icallRetVal = _il2cpp_icall_func(___0__unity_self);
 	return icallRetVal;
 }

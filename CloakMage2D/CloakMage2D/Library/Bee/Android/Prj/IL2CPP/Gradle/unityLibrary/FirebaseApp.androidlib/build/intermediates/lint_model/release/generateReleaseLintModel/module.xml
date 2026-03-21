@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib"
+    dir="D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib"
     name=":unityLibrary:FirebaseApp.androidlib"
     type="LIBRARY"
     maven="Gradle.unityLibrary:FirebaseApp.androidlib:unspecified"

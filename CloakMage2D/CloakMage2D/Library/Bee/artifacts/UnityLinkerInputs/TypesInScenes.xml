@@ -88,8 +88,8 @@
 		<type fullname="UIPulseEffect" preserve="nothing"/>
 		<type fullname="UltimateChargeArrowSkill" preserve="nothing"/>
 		<type fullname="UltimateCubeMeteorSkill" preserve="nothing"/>
-		<type fullname="UltimateDamage" preserve="nothing"/>
 		<type fullname="UltimateFireBirdSkill" preserve="nothing"/>
+		<type fullname="UpgradePanelUI" preserve="nothing"/>
 		<type fullname="WeaponController" preserve="nothing"/>
 		<type fullname="WeaponController_SwitchOnly" preserve="nothing"/>
 		<type fullname="WeaponPanelUI" preserve="nothing"/>
@@ -115,7 +115,6 @@
 		<type fullname="UnityEngine.InputSystem.InputSystemObject" preserve="nothing"/>
 		<type fullname="UnityEngine.InputSystem.RemoteInputPlayerConnection" preserve="nothing"/>
 		<type fullname="UnityEngine.InputSystem.UI.InputSystemUIInputModule" preserve="nothing"/>
-		<type fullname="UnityEngine.InputSystem.XR.TrackedPoseDriver" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.RenderPipelines.Core.Runtime">
 		<type fullname="UnityEngine.Rendering.ProbeVolumesOptions" preserve="nothing"/>
@@ -193,6 +192,9 @@
 		<type fullname="TMPro.TMP_SpriteAsset" preserve="nothing"/>
 		<type fullname="TMPro.TMP_StyleSheet" preserve="nothing"/>
 	</assembly>
+	<assembly fullname="Unity.VisualEffectGraph.Runtime">
+		<type fullname="UnityEngine.VFX.VFXRuntimeResources" preserve="nothing"/>
+	</assembly>
 	<assembly fullname="UnityEngine">
 		<type fullname="UnityEditor.Animations.AnimatorController" preserve="nothing"/>
 		<type fullname="UnityEditor.AudioManager" preserve="nothing"/>
@@ -225,6 +227,7 @@
 		<type fullname="UnityEngine.LightmapSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.LineRenderer" preserve="nothing"/>
 		<type fullname="UnityEngine.Material" preserve="nothing"/>
+		<type fullname="UnityEngine.Mesh" preserve="nothing"/>
 		<type fullname="UnityEngine.MeshRenderer" preserve="nothing"/>
 		<type fullname="UnityEngine.MonoBehaviour" preserve="nothing"/>
 		<type fullname="UnityEngine.Motion" preserve="nothing"/>
@@ -246,6 +249,10 @@
 		<type fullname="UnityEngine.Texture" preserve="nothing"/>
 		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
 		<type fullname="UnityEngine.Transform" preserve="nothing"/>
+		<type fullname="UnityEngine.VFX.VFXRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.VFX.VisualEffect" preserve="nothing"/>
+		<type fullname="UnityEngine.VFX.VisualEffectAsset" preserve="nothing"/>
+		<type fullname="UnityEngine.VFX.VisualEffectObject" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="UnityEngine.UI">
 		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>

@@ -18,7 +18,7 @@ public class InfernoRebirthPassive : WeaponSkill
 
     public GameObject eggVFXPrefab;
     [Header("Cooldown")]
-    public float cooldown = 60f;
+   // public float cooldown = 60f;
     float bonusAtk;
     float bonusSmpt;
     float bonusCrit;

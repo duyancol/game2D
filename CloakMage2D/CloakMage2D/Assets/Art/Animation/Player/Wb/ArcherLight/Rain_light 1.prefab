@@ -143,7 +143,7 @@ MonoBehaviour:
   useFlipXInsteadOf180: 1
   spriteFacesRight: 1
   owner: {fileID: 0}
-  impactVfx: {fileID: 7449697518660915018, guid: 6dee464ae214baf4db92734bbb9bf66a, type: 3}
+  impactVfx: {fileID: 8520959635160816606, guid: cf64c392e0646ca45aed6336576d856d, type: 3}
   impactLife: 0.8
   radius: 2.2
   hitMask:

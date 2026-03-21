@@ -428,6 +428,7 @@ public class UltimateChargeArrowSkill : WeaponSkill, IChargeSkill
 
             chargeVfxInstance = Instantiate(chargeVfxPrefab, p, Quaternion.identity);
             chargeVfxInstance.transform.SetParent(ctx.weaponPivot, true);
+            chargeVfxInstance.transform.localScale = Vector3.one;
             UpdateChargeVfxTransform(ctx);
         }
 

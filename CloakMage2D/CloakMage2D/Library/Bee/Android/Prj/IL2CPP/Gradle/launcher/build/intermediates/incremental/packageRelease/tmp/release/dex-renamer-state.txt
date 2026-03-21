@@ -1,9 +1,9 @@
-#Wed Mar 18 03:22:43 ICT 2026
-base.2=D\:\\CloakMage2D\\CloakMage2D\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+#Sun Mar 22 02:21:40 ICT 2026
+base.2=D\:\\game2D\\CloakMage2D\\CloakMage2D\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
 path.2=classes2.dex
-base.1=D\:\\CloakMage2D\\CloakMage2D\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\global_synthetics_dex\\release\\mergeReleaseGlobalSynthetics\\classes.dex
+base.1=D\:\\game2D\\CloakMage2D\\CloakMage2D\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\global_synthetics_dex\\release\\mergeReleaseGlobalSynthetics\\classes.dex
 path.1=classes.dex
-base.0=D\:\\CloakMage2D\\CloakMage2D\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.0=D\:\\game2D\\CloakMage2D\\CloakMage2D\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

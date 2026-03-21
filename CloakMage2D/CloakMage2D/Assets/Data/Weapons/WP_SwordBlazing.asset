@@ -19,7 +19,7 @@ MonoBehaviour:
   localPos: {x: 0, y: -1, z: 0}
   localRotZ: -90
   localScale: {x: 0.7, y: 0.7, z: 2}
-  auraPrefab: {fileID: 1911468635879801349, guid: 64b4b8d2966a9df41abd7b35898b5a17, type: 3}
+  auraPrefab: {fileID: 3405295111263885974, guid: 404b68031315ca0449bff813e30b349f, type: 3}
   auraLocalPos: {x: 0, y: 0, z: 0}
   auraLocalRot: {x: 0, y: 0, z: 0}
   auraLocalScale: {x: 1, y: 1, z: 1}
@@ -28,14 +28,14 @@ MonoBehaviour:
     addMaxHP: 0
     addAtk: 310
     addSmpt: 310
-    addCritChance: 0.17
-    addCritDamage: 0
+    addCritChance: 0
+    addCritDamage: 0.2
     addDef: 0
     addMdef: 0
-  level: 60
-  enhanceLevel: 0
-  exp: 500
-  ascend: 3
+  level: 100
+  enhanceLevel: 10
+  exp: 20
+  ascend: 4
   primarySkill: {fileID: 11400000, guid: 4ffe4203d5072eb44ba872c24590b03c, type: 2}
   secondarySkill: {fileID: 11400000, guid: 4d2b35d3890ec49428d01b6beb053780, type: 2}
   ultimateSkill: {fileID: 11400000, guid: 43faf16033ce00f4e988258b436dbace, type: 2}

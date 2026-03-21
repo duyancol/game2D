@@ -19,7 +19,8 @@ public class IceTornadoProjectile : MonoBehaviour
     public DamageType damageType = DamageType.Magic;
     public bool canCrit = true;
     public GameObject owner;
-
+    [Header("VFX")]
+    public GameObject hitVfxPrefab;
     float lifeTimer;
     float tickTimer;
     public float damageTick = 0.3f;
@@ -116,6 +117,15 @@ public class IceTornadoProjectile : MonoBehaviour
 
             // Trừ máu
             bossHp.TakeDamage(finalDamage);
+            if (hitVfxPrefab != null)
+            {
+                Vector3 hitPos = bossHp.head != null
+                    ? bossHp.head.position
+                    : bossHp.transform.position;
+
+                GameObject vfx = Instantiate(hitVfxPrefab, hitPos, Quaternion.identity);
+                Destroy(vfx, 1f);
+            }
             // ❄️ Absolute Zero – chỉ stack khi Ice Tornado crit phép
             if (isCrit && damageType == DamageType.Magic)
             {

@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: e9cfe3c811babfd4da40796da72fe558
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5654826727346642890
+    second: free_nomal_b-Photoroom_0
+  - first:
+      213: 2805776285328336227
+    second: free_nomal_b-Photoroom_1
+  - first:
+      213: -2834954719071022613
+    second: free_nomal_b-Photoroom_2
+  - first:
+      213: 8839142643052610997
+    second: free_nomal_b-Photoroom_3
+  - first:
+      213: 3223658911732487036
+    second: free_nomal_b-Photoroom_4
+  - first:
+      213: -8368968669940756813
+    second: free_nomal_b-Photoroom_5
+  - first:
+      213: 3635342752284469541
+    second: free_nomal_b-Photoroom_6
+  - first:
+      213: -4961199268146281220
+    second: free_nomal_b-Photoroom_7
+  - first:
+      213: -2873405522633857766
+    second: free_nomal_b-Photoroom_8
+  - first:
+      213: 3538255341245864138
+    second: free_nomal_b-Photoroom_9
+  - first:
+      213: -7357803794787891736
+    second: free_nomal_b-Photoroom_10
+  - first:
+      213: 1020424646372966119
+    second: free_nomal_b-Photoroom_11
+  - first:
+      213: 5635607456577613089
+    second: free_nomal_b-Photoroom_12
+  - first:
+      213: 8458948041842713294
+    second: free_nomal_b-Photoroom_13
+  - first:
+      213: -3124786495187363386
+    second: free_nomal_b-Photoroom_14
+  - first:
+      213: 2485935147939440440
+    second: free_nomal_b-Photoroom_15
+  - first:
+      213: -1956676029868576007
+    second: free_nomal_b-Photoroom_16
+  - first:
+      213: 3200538946981382659
+    second: free_nomal_b-Photoroom_17
+  - first:
+      213: -7554175128660545083
+    second: free_nomal_b-Photoroom_18
+  - first:
+      213: 5912612932386026356
+    second: free_nomal_b-Photoroom_19
+  - first:
+      213: -4820166204726759990
+    second: free_nomal_b-Photoroom_20
+  - first:
+      213: -2016025825335575504
+    second: free_nomal_b-Photoroom_21
+  - first:
+      213: 3650493581885148376
+    second: free_nomal_b-Photoroom_22
+  - first:
+      213: 3620073237551501678
+    second: free_nomal_b-Photoroom_23
+  - first:
+      213: 3028916440129460900
+    second: free_nomal_b-Photoroom_24
+  - first:
+      213: 4580728071919424033
+    second: free_nomal_b-Photoroom_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: free_nomal_b-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 769
+        width: 490
+        height: 255
+      alignment: 9
+      pivot: {x: 0.44285914, y: 0.1556272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365e5367aae10f620800000000000000
+      internalID: 2805776285328336227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_nomal_b-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 620
+        width: 228
+        height: 160
+      alignment: 9
+      pivot: {x: 0.52790964, y: 0.10228691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1547704b738a8d0800000000000000
+      internalID: -2834954719071022613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_nomal_b-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 614
+        width: 197
+        height: 145
+      alignment: 9
+      pivot: {x: 0.53876257, y: 0.061144177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5882ee661faaa70800000000000000
+      internalID: 8839142643052610997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_nomal_b-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 512
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529e4bae8f4537230800000000000000
+      internalID: 3635342752284469541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d15362db70fc6a840942d43dcd928ab0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      free_nomal_b-Photoroom_0: -5654826727346642890
+      free_nomal_b-Photoroom_1: 2805776285328336227
+      free_nomal_b-Photoroom_10: -7357803794787891736
+      free_nomal_b-Photoroom_11: 1020424646372966119
+      free_nomal_b-Photoroom_12: 5635607456577613089
+      free_nomal_b-Photoroom_13: 8458948041842713294
+      free_nomal_b-Photoroom_14: -3124786495187363386
+      free_nomal_b-Photoroom_15: 2485935147939440440
+      free_nomal_b-Photoroom_16: -1956676029868576007
+      free_nomal_b-Photoroom_17: 3200538946981382659
+      free_nomal_b-Photoroom_18: -7554175128660545083
+      free_nomal_b-Photoroom_19: 5912612932386026356
+      free_nomal_b-Photoroom_2: -2834954719071022613
+      free_nomal_b-Photoroom_20: -4820166204726759990
+      free_nomal_b-Photoroom_21: -2016025825335575504
+      free_nomal_b-Photoroom_22: 3650493581885148376
+      free_nomal_b-Photoroom_23: 3620073237551501678
+      free_nomal_b-Photoroom_24: 3028916440129460900
+      free_nomal_b-Photoroom_25: 4580728071919424033
+      free_nomal_b-Photoroom_3: 8839142643052610997
+      free_nomal_b-Photoroom_4: 3223658911732487036
+      free_nomal_b-Photoroom_5: -8368968669940756813
+      free_nomal_b-Photoroom_6: 3635342752284469541
+      free_nomal_b-Photoroom_7: -4961199268146281220
+      free_nomal_b-Photoroom_8: -2873405522633857766
+      free_nomal_b-Photoroom_9: 3538255341245864138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

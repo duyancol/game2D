@@ -19,7 +19,7 @@ MonoBehaviour:
   localPos: {x: 4, y: 0, z: 0}
   localRotZ: -30
   localScale: {x: 0.8, y: 0.8, z: 0}
-  auraPrefab: {fileID: 1911468635879801349, guid: 72234f0e71f70834884dd914c4cf4caf, type: 3}
+  auraPrefab: {fileID: 3405295111263885974, guid: 17b9d67c824a96f438ffe3142c4609cc, type: 3}
   auraLocalPos: {x: 0, y: 0, z: 0}
   auraLocalRot: {x: 0, y: 0, z: 60}
   auraLocalScale: {x: 1, y: 1, z: 1}

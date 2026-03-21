@@ -817,6 +817,8 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ContactPairHeader_tA8C64AAEEF0171
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR GCHandle_tC44F6F72EE68BD4CFABA24309DA7A179D41127DC* UnsafeUtility_As_TisIntPtr_t_TisGCHandle_tC44F6F72EE68BD4CFABA24309DA7A179D41127DC_mD94F597CB91662C823496DA9FA9A7CF908734A78_gshared_inline (intptr_t* ___0_from, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Buffer_Memmove_TisRaycastHit_t6F30BD0B38B56401CA833A1B87BD74F2ACD2F2B5_m0759F2B6F8E40AFE146E9082633904BC26CBCCD7_gshared (RaycastHit_t6F30BD0B38B56401CA833A1B87BD74F2ACD2F2B5* ___0_destination, RaycastHit_t6F30BD0B38B56401CA833A1B87BD74F2ACD2F2B5* ___1_source, uint64_t ___2_elementCount, const RuntimeMethod* method) ;
 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ContactPoint_get_point_mCCDFDACC5D8DB469898060A56A3CC45132911208 (ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ContactPoint_get_normal_mD7F0567CA2FD68644F7C6FE318E10C4D15F92AD6 (ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* __this, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_UnaryNegation_m5450829F333BD2A88AF9A592C4EE331661225915_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* ContactPairHeader_get_otherBody_m76BD1BDDE46A87839F214F741ECB0E0857EFAE0A (ContactPairHeader_tA8C64AAEEF017149E77A6600B10A10F1A1C5648B* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* ContactPairHeader_get_body_m8B8DC4B023CB7078B425E3CE764CFF3088D37FC8 (ContactPairHeader_tA8C64AAEEF017149E77A6600B10A10F1A1C5648B* __this, const RuntimeMethod* method) ;
@@ -826,8 +828,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Component_t39FBE53E5EFCF4409111FB22C15FF73717
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* Collision_get_collider_mBB5A086C78FE4BE0589E216F899B611673ADD25D (Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t ContactPair_ExtractContactsArray_mB82D786FF9A04BC4B5A4C10EA5DC400AB6D655EC (ContactPair_t096319945A27108A2DA384393A9ED390BE4356FD* __this, ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* ___0_managedContainer, bool ___1_flipped, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
 inline intptr_t MarshalledUnityObject_MarshalNotNull_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m678CFADF2E2F52CFF0A3761E355E2B6FB1D13F84_inline (BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* ___0_obj, const RuntimeMethod* method)
 {
 	return ((  intptr_t (*) (BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23*, const RuntimeMethod*))MarshalledUnityObject_MarshalNotNull_TisRuntimeObject_mEB1AA6B672D00242BB9DCE007056EC0E9C8DB075_gshared_inline)(___0_obj, method);
@@ -1020,8 +1022,11 @@ inline intptr_t MarshalledUnityObject_MarshalNotNull_TisSphereCollider_tBA111C54
 {
 	return ((  intptr_t (*) (SphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275*, const RuntimeMethod*))MarshalledUnityObject_MarshalNotNull_TisRuntimeObject_mEB1AA6B672D00242BB9DCE007056EC0E9C8DB075_gshared_inline)(___0_obj, method);
 }
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider_get_center_Injected_m092FEA1F41E394E8C2E25921DFD2A1425F8874E9 (intptr_t ___0__unity_self, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___1_ret, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider_set_center_Injected_mD9C8D6B7DA038F9580EBE6877D4B0EF8CE585238 (intptr_t ___0__unity_self, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___1_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float SphereCollider_get_radius_Injected_mF96901A391F7DBD16C5895D85C4853B65CD033A0 (intptr_t ___0__unity_self, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider_set_radius_Injected_m1A4885A34095D7CE22CE2001BA6D47022F387747 (intptr_t ___0__unity_self, float ___1_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Collider__ctor_m8975C6CCFC0E5740C523DB4A52ACC7F4A021F8FA (Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* __this, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_Normalize_mEF8349CC39674236CFC694189AFD36E31F89AC8F_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool IntPtr_op_Equality_m7D9CDCDE9DC2A0C2C614633F4921E90187FAB271_inline (intptr_t ___0_value1, intptr_t ___1_value2, const RuntimeMethod* method) ;
@@ -1080,6 +1085,56 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void* IntPtr_op_Explicit_m2728CBA081E79B97DDC
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ContactPoint_get_point_mCCDFDACC5D8DB469898060A56A3CC45132911208 (ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* __this, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = __this->___m_Point;
+		V_0 = L_0;
+		goto IL_000a;
+	}
+
+IL_000a:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1 = V_0;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ContactPoint_get_point_mCCDFDACC5D8DB469898060A56A3CC45132911208_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9*>(__this + _offset);
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 _returnValue;
+	_returnValue = ContactPoint_get_point_mCCDFDACC5D8DB469898060A56A3CC45132911208(_thisAdjusted, method);
+	return _returnValue;
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ContactPoint_get_normal_mD7F0567CA2FD68644F7C6FE318E10C4D15F92AD6 (ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* __this, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = __this->___m_Normal;
+		V_0 = L_0;
+		goto IL_000a;
+	}
+
+IL_000a:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1 = V_0;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C  Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ContactPoint_get_normal_mD7F0567CA2FD68644F7C6FE318E10C4D15F92AD6_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
+{
+	ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* _thisAdjusted;
+	int32_t _offset = 1;
+	_thisAdjusted = reinterpret_cast<ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9*>(__this + _offset);
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 _returnValue;
+	_returnValue = ContactPoint_get_normal_mD7F0567CA2FD68644F7C6FE318E10C4D15F92AD6(_thisAdjusted, method);
+	return _returnValue;
+}
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
@@ -1241,6 +1296,51 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Collision_set_Flipped_m5AF63260E99357BB8
 		bool L_0 = ___0_value;
 		__this->___m_Flipped = L_0;
 		return;
+	}
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* Collision_get_contacts_m2E8E27E0399230DFA4303A4F4D81C1BD55CBC473 (Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* V_1 = NULL;
+	{
+		ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* L_0 = __this->___m_LegacyContacts;
+		V_0 = (bool)((((RuntimeObject*)(ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411*)L_0) == ((RuntimeObject*)(RuntimeObject*)NULL))? 1 : 0);
+		bool L_1 = V_0;
+		if (!L_1)
+		{
+			goto IL_003e;
+		}
+	}
+	{
+		ContactPair_t096319945A27108A2DA384393A9ED390BE4356FD* L_2 = (ContactPair_t096319945A27108A2DA384393A9ED390BE4356FD*)(&__this->___m_Pair);
+		uint32_t L_3 = L_2->___m_NbPoints;
+		ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* L_4 = (ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411*)(ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411*)SZArrayNew(ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411_il2cpp_TypeInfo_var, (uint32_t)L_3);
+		__this->___m_LegacyContacts = L_4;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_LegacyContacts), (void*)L_4);
+		ContactPair_t096319945A27108A2DA384393A9ED390BE4356FD* L_5 = (ContactPair_t096319945A27108A2DA384393A9ED390BE4356FD*)(&__this->___m_Pair);
+		ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* L_6 = __this->___m_LegacyContacts;
+		bool L_7 = __this->___m_Flipped;
+		int32_t L_8;
+		L_8 = ContactPair_ExtractContactsArray_mB82D786FF9A04BC4B5A4C10EA5DC400AB6D655EC(L_5, L_6, L_7, NULL);
+	}
+
+IL_003e:
+	{
+		ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* L_9 = __this->___m_LegacyContacts;
+		V_1 = L_9;
+		goto IL_0047;
+	}
+
+IL_0047:
+	{
+		ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* L_10 = V_1;
+		return L_10;
 	}
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Collision__ctor_mC3F14BC1026130B6B0E6BB83D7431753C3484912 (Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* __this, const RuntimeMethod* method) 
@@ -5833,6 +5933,43 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_AddForce_Injected_m0063728ED4A
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 SphereCollider_get_center_m122A197607CD350873539A0EEE3BA10E8BE1759E (SphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MarshalledUnityObject_MarshalNotNull_TisSphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275_m5851EE42A2C6B3D02FAB1E369FA5EBAD93D923B6_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	intptr_t G_B2_0;
+	memset((&G_B2_0), 0, sizeof(G_B2_0));
+	intptr_t G_B1_0;
+	memset((&G_B1_0), 0, sizeof(G_B1_0));
+	{
+		intptr_t L_0;
+		L_0 = MarshalledUnityObject_MarshalNotNull_TisSphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275_m5851EE42A2C6B3D02FAB1E369FA5EBAD93D923B6_inline(__this, MarshalledUnityObject_MarshalNotNull_TisSphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275_m5851EE42A2C6B3D02FAB1E369FA5EBAD93D923B6_RuntimeMethod_var);
+		intptr_t L_1 = L_0;
+		if (L_1)
+		{
+			G_B2_0 = L_1;
+			goto IL_000f;
+		}
+		G_B1_0 = L_1;
+	}
+	{
+		ThrowHelper_ThrowNullReferenceException_mA9C7629D32240EE0218631933DAC647668CA63CF(__this, NULL);
+		G_B2_0 = G_B1_0;
+	}
+
+IL_000f:
+	{
+		SphereCollider_get_center_Injected_m092FEA1F41E394E8C2E25921DFD2A1425F8874E9(G_B2_0, (&V_0), NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2 = V_0;
+		return L_2;
+	}
+}
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider_set_center_m83F6CC0056B491CD577B9AC08FA1E331074203D4 (SphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5865,6 +6002,41 @@ IL_000f:
 	{
 		SphereCollider_set_center_Injected_mD9C8D6B7DA038F9580EBE6877D4B0EF8CE585238(G_B2_0, (&___0_value), NULL);
 		return;
+	}
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float SphereCollider_get_radius_m1BB513491906E76A4F71929E3DB72A1542309697 (SphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MarshalledUnityObject_MarshalNotNull_TisSphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275_m5851EE42A2C6B3D02FAB1E369FA5EBAD93D923B6_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	intptr_t G_B2_0;
+	memset((&G_B2_0), 0, sizeof(G_B2_0));
+	intptr_t G_B1_0;
+	memset((&G_B1_0), 0, sizeof(G_B1_0));
+	{
+		intptr_t L_0;
+		L_0 = MarshalledUnityObject_MarshalNotNull_TisSphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275_m5851EE42A2C6B3D02FAB1E369FA5EBAD93D923B6_inline(__this, MarshalledUnityObject_MarshalNotNull_TisSphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275_m5851EE42A2C6B3D02FAB1E369FA5EBAD93D923B6_RuntimeMethod_var);
+		intptr_t L_1 = L_0;
+		if (L_1)
+		{
+			G_B2_0 = L_1;
+			goto IL_000f;
+		}
+		G_B1_0 = L_1;
+	}
+	{
+		ThrowHelper_ThrowNullReferenceException_mA9C7629D32240EE0218631933DAC647668CA63CF(__this, NULL);
+		G_B2_0 = G_B1_0;
+	}
+
+IL_000f:
+	{
+		float L_2;
+		L_2 = SphereCollider_get_radius_Injected_mF96901A391F7DBD16C5895D85C4853B65CD033A0(G_B2_0, NULL);
+		return L_2;
 	}
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider_set_radius_m6119FE18C6739B077AB17334B1B53984911017FF (SphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275* __this, float ___0_value, const RuntimeMethod* method) 
@@ -5902,6 +6074,21 @@ IL_000f:
 		return;
 	}
 }
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider__ctor_mA8570CBE8C0E74C607669DC4E0CCA6CB1E4CB200 (SphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275* __this, const RuntimeMethod* method) 
+{
+	{
+		Collider__ctor_m8975C6CCFC0E5740C523DB4A52ACC7F4A021F8FA(__this, NULL);
+		return;
+	}
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider_get_center_Injected_m092FEA1F41E394E8C2E25921DFD2A1425F8874E9 (intptr_t ___0__unity_self, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___1_ret, const RuntimeMethod* method) 
+{
+	typedef void (*SphereCollider_get_center_Injected_m092FEA1F41E394E8C2E25921DFD2A1425F8874E9_ftn) (intptr_t, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*);
+	static SphereCollider_get_center_Injected_m092FEA1F41E394E8C2E25921DFD2A1425F8874E9_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (SphereCollider_get_center_Injected_m092FEA1F41E394E8C2E25921DFD2A1425F8874E9_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.SphereCollider::get_center_Injected(System.IntPtr,UnityEngine.Vector3&)");
+	_il2cpp_icall_func(___0__unity_self, ___1_ret);
+}
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider_set_center_Injected_mD9C8D6B7DA038F9580EBE6877D4B0EF8CE585238 (intptr_t ___0__unity_self, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___1_value, const RuntimeMethod* method) 
 {
 	typedef void (*SphereCollider_set_center_Injected_mD9C8D6B7DA038F9580EBE6877D4B0EF8CE585238_ftn) (intptr_t, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*);
@@ -5909,6 +6096,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider_set_center_Injected_mD9C8
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (SphereCollider_set_center_Injected_mD9C8D6B7DA038F9580EBE6877D4B0EF8CE585238_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.SphereCollider::set_center_Injected(System.IntPtr,UnityEngine.Vector3&)");
 	_il2cpp_icall_func(___0__unity_self, ___1_value);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float SphereCollider_get_radius_Injected_mF96901A391F7DBD16C5895D85C4853B65CD033A0 (intptr_t ___0__unity_self, const RuntimeMethod* method) 
+{
+	typedef float (*SphereCollider_get_radius_Injected_mF96901A391F7DBD16C5895D85C4853B65CD033A0_ftn) (intptr_t);
+	static SphereCollider_get_radius_Injected_mF96901A391F7DBD16C5895D85C4853B65CD033A0_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (SphereCollider_get_radius_Injected_mF96901A391F7DBD16C5895D85C4853B65CD033A0_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.SphereCollider::get_radius_Injected(System.IntPtr)");
+	float icallRetVal = _il2cpp_icall_func(___0__unity_self);
+	return icallRetVal;
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SphereCollider_set_radius_Injected_m1A4885A34095D7CE22CE2001BA6D47022F387747 (intptr_t ___0__unity_self, float ___1_value, const RuntimeMethod* method) 
 {

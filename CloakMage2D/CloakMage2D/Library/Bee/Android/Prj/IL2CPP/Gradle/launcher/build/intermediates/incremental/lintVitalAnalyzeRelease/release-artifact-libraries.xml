@@ -1,10 +1,10 @@
 <libraries>
   <library
       name=":@@:unityLibrary::release"
-      jars="C:\Users\anvt1\.gradle\caches\8.11\transforms\35032ef3a48cd2fb8204b7213c042bc0\transformed\out\jars\classes.jar;C:\Users\anvt1\.gradle\caches\8.11\transforms\35032ef3a48cd2fb8204b7213c042bc0\transformed\out\jars\libs\R.jar;C:\Users\anvt1\.gradle\caches\8.11\transforms\35032ef3a48cd2fb8204b7213c042bc0\transformed\out\jars\libs\unity-classes.jar"
+      jars="C:\Users\anvt1\.gradle\caches\8.11\transforms\35ba0d6160248b7f667ec5e694333b44\transformed\out\jars\classes.jar;C:\Users\anvt1\.gradle\caches\8.11\transforms\35ba0d6160248b7f667ec5e694333b44\transformed\out\jars\libs\R.jar;C:\Users\anvt1\.gradle\caches\8.11\transforms\35ba0d6160248b7f667ec5e694333b44\transformed\out\jars\libs\unity-classes.jar"
       resolved="Gradle:unityLibrary:unspecified"
-      partialResultsDir="D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out"
-      folder="C:\Users\anvt1\.gradle\caches\8.11\transforms\35032ef3a48cd2fb8204b7213c042bc0\transformed\out"
+      partialResultsDir="D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out"
+      folder="C:\Users\anvt1\.gradle\caches\8.11\transforms\35ba0d6160248b7f667ec5e694333b44\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -14,9 +14,9 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="__local_aars__:D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
-      jars="D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
-      resolved="__local_aars__:D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+      name="__local_aars__:D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
   <library
       name="com.google.firebase:firebase-auth:24.0.1@aar"
       jars="C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\jars\classes.jar"
@@ -333,7 +333,7 @@
       name=":@@:unityLibrary:FirebaseApp.androidlib::release"
       jars="C:\Users\anvt1\.gradle\caches\8.11\transforms\dc4c1fc9fc915ade0b7609f375120740\transformed\out\jars\classes.jar;C:\Users\anvt1\.gradle\caches\8.11\transforms\dc4c1fc9fc915ade0b7609f375120740\transformed\out\jars\libs\R.jar"
       resolved="Gradle.unityLibrary:FirebaseApp.androidlib:unspecified"
-      partialResultsDir="D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out"
+      partialResultsDir="D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out"
       folder="C:\Users\anvt1\.gradle\caches\8.11\transforms\dc4c1fc9fc915ade0b7609f375120740\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"

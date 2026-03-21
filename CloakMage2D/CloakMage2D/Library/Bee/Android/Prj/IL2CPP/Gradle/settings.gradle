@@ -18,7 +18,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
 // Android Resolver Repos Start
-        def unityProjectPath = $/file:///D:/CloakMage2D/CloakMage2D/$.replace("\\", "/")
+        def unityProjectPath = $/file:///D:/game2D/CloakMage2D/CloakMage2D/$.replace("\\", "/")
         maven {
             url (unityProjectPath + "/Assets/GeneratedLocalRepo/Firebase/m2repository") // Assets/Firebase/Editor/AppCheckDependencies.xml:27, Assets/Firebase/Editor/AppDependencies.xml:25, Assets/Firebase/Editor/AuthDependencies.xml:23
         }

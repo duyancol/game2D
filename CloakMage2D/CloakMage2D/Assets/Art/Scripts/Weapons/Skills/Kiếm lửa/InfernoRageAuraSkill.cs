@@ -8,8 +8,8 @@ public class InfernoRageAuraSkill : WeaponSkill
     public float duration = 7f;
     public float attackPercentBonus = 0.3f;   // 30%
     public float healPercentPerSecond = 0.07f; // 7%
-    public float skillCooldown = 32f;
-    private float nextTime;
+    //public float skillCooldown = 32f;
+    //private float nextTime;
     [Header("VFX")]
     public GameObject auraVFXPrefab;
     [Header("Heal VFX")]
@@ -36,7 +36,7 @@ public class InfernoRageAuraSkill : WeaponSkill
         runner.Run(AuraRoutine(ctx));
     }
 
-    public bool CanUse() => Time.time >= nextTime;
+   // public bool CanUse() => Time.time >= nextTime;
     //IEnumerator AuraRoutine(SkillContext ctx)
     //{
     //    var playerMove = ctx.owner.GetComponent<PlayerMove2D>();
@@ -248,7 +248,8 @@ public class InfernoRageAuraSkill : WeaponSkill
     }
     private void OnEnable()
     {
-        cooldown = skillCooldown; // sync cooldown với WeaponSkill
+        // cooldown = skillCooldown; // sync cooldown với WeaponSkill
+        cooldown = 32f;
     }
     void DoAuraDamage(Vector2 center, PlayerStatsMono attackerStats)
     {

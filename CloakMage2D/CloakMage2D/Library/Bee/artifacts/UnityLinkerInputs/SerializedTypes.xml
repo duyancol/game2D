@@ -25,7 +25,6 @@
 	<assembly fullname="Unity.InputSystem">
 		<type fullname="UnityEngine.InputSystem.InputAction" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.InputSystem.InputActionMap" preserve="nothing" serialized="true"/>
-		<type fullname="UnityEngine.InputSystem.InputActionProperty" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.InputSystem.InputBinding" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.InputSystem.InputControlScheme" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.InputSystem.InputControlScheme/DeviceRequirement" preserve="nothing" serialized="true"/>

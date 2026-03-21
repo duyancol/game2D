@@ -14,7 +14,8 @@ public class IceTornadoSkill : WeaponSkill
     public float smptScale = 1.2f;
     public DamageType damageType = DamageType.Magic;
     public bool canCrit = true;
-
+    [Header("VFX")]
+    public GameObject hitVfxPrefab;
     [Header("Hit")]
     public float radius = 1.8f;
     public LayerMask hitMask;
@@ -57,7 +58,7 @@ public class IceTornadoSkill : WeaponSkill
 
         tornado.radius = radius;
         tornado.hitMask = hitMask;
-
+        tornado.hitVfxPrefab = hitVfxPrefab;
         tornado.Init(
             dir,
             stats,

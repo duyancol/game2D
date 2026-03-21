@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/CloakMage2D/CloakMage2D/Packages/manifest.json
+    m_FilePath: D:/game2D/CloakMage2D/CloakMage2D/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639066720907004122
-    m_Hash: 1606032137
+      ticks: 639096841040058409
+    m_Hash: 3008993283
   m_LockFileStatus:
-    m_FilePath: D:/CloakMage2D/CloakMage2D/Packages/packages-lock.json
+    m_FilePath: D:/game2D/CloakMage2D/CloakMage2D/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639066720907476571
-    m_Hash: 1014316695
+      ticks: 639096841040877468
+    m_Hash: 2209733150
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: D:/CloakMage2D/CloakMage2D/Packages
+m_ProjectPath: D:/game2D/CloakMage2D/CloakMage2D/Packages
 m_EditorVersion: 6000.0.58f1 (44b8bf3a3225)
 m_ResolvedPackages:
 - packageId: com.unity.cinemachine@3.1.5
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.1.5
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.cinemachine@5342685532bb
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.cinemachine@5342685532bb
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -115,6 +115,8 @@ m_ResolvedPackages:
     - 2.10.3
     - 2.10.4
     - 2.10.5
+    - 2.10.6
+    - 2.10.7
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
@@ -129,9 +131,12 @@ m_ResolvedPackages:
     - 3.1.3
     - 3.1.4
     - 3.1.5
+    - 3.1.6
     compatible:
     - 2.10.4
     - 2.10.5
+    - 2.10.6
+    - 2.10.7
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
@@ -146,7 +151,8 @@ m_ResolvedPackages:
     - 3.1.3
     - 3.1.4
     - 3.1.5
-    recommended: 3.1.5
+    - 3.1.6
+    recommended: 3.1.6
     deprecated: []
   dependencies:
   - name: com.unity.splines
@@ -259,7 +265,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.11.3
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.collab-proxy@e566cd3e7623
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.collab-proxy@e566cd3e7623
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -362,6 +368,8 @@ m_ResolvedPackages:
     - 2.10.2
     - 2.11.2
     - 2.11.3
+    - 2.11.4
+    - 2.12.4
     compatible:
     - 2.9.3
     - 2.10.0
@@ -369,6 +377,8 @@ m_ResolvedPackages:
     - 2.10.2
     - 2.11.2
     - 2.11.3
+    - 2.11.4
+    - 2.12.4
     recommended: 2.9.3
     deprecated: []
   dependencies: []
@@ -444,7 +454,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.1
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.feature.2d@dd1ea8910f12
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.feature.2d@dd1ea8910f12
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -587,7 +597,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.37
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.ide.rider@0baf0f91edc0
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.ide.rider@0baf0f91edc0
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -722,7 +732,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.23
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -843,7 +853,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.2
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -919,12 +929,14 @@ m_ResolvedPackages:
     - 1.16.0
     - 1.17.0
     - 1.18.0
+    - 1.19.0
     compatible:
     - 1.14.2
     - 1.15.0
     - 1.16.0
     - 1.17.0
     - 1.18.0
+    - 1.19.0
     recommended: 1.14.2
     deprecated: []
   dependencies:
@@ -1006,7 +1018,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.4.7
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.mobile.android-logcat@a8a404f035b3
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.mobile.android-logcat@a8a404f035b3
   assetPath: Packages/com.unity.mobile.android-logcat
   name: com.unity.mobile.android-logcat
   displayName: Android Logcat
@@ -1115,7 +1127,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -1208,7 +1220,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.4
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.render-pipelines.universal@e1fa89d1f997
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.render-pipelines.universal@e1fa89d1f997
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -1334,7 +1346,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.test-framework@1f954279c37e
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.test-framework@1f954279c37e
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1423,7 +1435,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.9
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.timeline@6b9e48457ddb
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.timeline@6b9e48457ddb
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1528,10 +1540,14 @@ m_ResolvedPackages:
     - 1.8.8
     - 1.8.9
     - 1.8.10
+    - 1.8.11
+    - 1.8.12
     compatible:
     - 1.8.9
     - 1.8.10
-    recommended: 1.8.10
+    - 1.8.11
+    - 1.8.12
+    recommended: 1.8.12
     deprecated: []
   dependencies:
   - name: com.unity.modules.audio
@@ -1622,7 +1638,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.ugui@aa507f3228f0
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.ugui@aa507f3228f0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1712,12 +1728,134 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.visualeffectgraph@17.0.4
+  testable: 0
+  isDirectDependency: 1
+  version: 17.0.4
+  source: 2
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.visualeffectgraph@7368b4839328
+  assetPath: Packages/com.unity.visualeffectgraph
+  name: com.unity.visualeffectgraph
+  displayName: Visual Effect Graph
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Visual Effect Graph is a node based visual effect editor. It allows
+    you to author next generation visual effects that Unity simulates directly on
+    the GPU. The Visual Effect Graph is production-ready for the High Definition
+    Render Pipeline and runs on all platforms supported by it. Full support for the
+    Universal Render Pipeline and compatible mobile devices is still in development.
+  errors: []
+  versions:
+    all:
+    - 17.0.4
+    compatible:
+    - 17.0.4
+    recommended: 17.0.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.shadergraph
+    version: 17.0.4
+  - name: com.unity.render-pipelines.core
+    version: 17.0.4
+  resolvedDependencies:
+  - name: com.unity.shadergraph
+    version: 17.0.4
+  - name: com.unity.render-pipelines.core
+    version: 17.0.4
+  - name: com.unity.burst
+    version: 1.8.24
+  - name: com.unity.mathematics
+    version: 1.3.2
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.collections
+    version: 2.5.1
+  - name: com.unity.test-framework
+    version: 1.5.1
+  - name: com.unity.ext.nunit
+    version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework.performance
+    version: 3.1.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.rendering.light-transport
+    version: 1.0.1
+  - name: com.unity.searcher
+    version: 4.9.3
+  keywords:
+  - vfx
+  - visualeffect
+  - graph
+  - effect
+  - particles
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 17.0.4
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+  fingerprint: 7368b4839328ed12d9b385cda1a7e94c9c58fcc7
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 17.0.4
+    minimumUnityVersion: 6000.0.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.visualscripting@1.9.7
   testable: 0
   isDirectDependency: 1
   version: 1.9.7
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1768,11 +1906,15 @@ m_ResolvedPackages:
     - 1.9.7
     - 1.9.8
     - 1.9.9
+    - 1.9.10
+    - 1.9.11
     compatible:
     - 1.9.7
     - 1.9.8
     - 1.9.9
-    recommended: 1.9.9
+    - 1.9.10
+    - 1.9.11
+    recommended: 1.9.11
     deprecated:
     - 1.8.0-pre.1
   dependencies:
@@ -4573,37 +4715,73 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.ext.nunit@2.0.5
+- packageId: com.unity.shadergraph@17.0.4
   testable: 0
   isDirectDependency: 0
-  version: 2.0.5
+  version: 17.0.4
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.ext.nunit@031a54704bff
-  assetPath: Packages/com.unity.ext.nunit
-  name: com.unity.ext.nunit
-  displayName: Custom NUnit
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.shadergraph@7ccd16edcc88
+  assetPath: Packages/com.unity.shadergraph
+  name: com.unity.shadergraph
+  displayName: Shader Graph
   author:
     name: 
     email: 
     url: 
-  category: Libraries
+  category: 
   type: 
-  description: A custom version of NUnit used by Unity Test Framework. Based on NUnit
-    version 3.5 and works with all platforms, il2cpp and Mono AOT.
+  description: The Shader Graph package adds a visual Shader editing tool to Unity.
+    You can use this tool to create Shaders in a visual way instead of writing code.
+    Specific render pipelines can implement specific graph features. Currently, both
+    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
+    Shader Graph.
   errors: []
   versions:
     all:
-    - 2.0.5
+    - 17.0.4
     compatible:
-    - 2.0.5
-    recommended: 2.0.5
+    - 17.0.4
+    recommended: 17.0.4
     deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - nunit
-  - unittest
-  - test
+  dependencies:
+  - name: com.unity.render-pipelines.core
+    version: 17.0.4
+  - name: com.unity.searcher
+    version: 4.9.3
+  resolvedDependencies:
+  - name: com.unity.render-pipelines.core
+    version: 17.0.4
+  - name: com.unity.burst
+    version: 1.8.24
+  - name: com.unity.mathematics
+    version: 1.3.2
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.collections
+    version: 2.5.1
+  - name: com.unity.test-framework
+    version: 1.5.1
+  - name: com.unity.ext.nunit
+    version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework.performance
+    version: 3.1.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.rendering.light-transport
+    version: 1.0.1
+  - name: com.unity.searcher
+    version: 4.9.3
+  keywords: []
   registry:
     id: main
     name: 
@@ -4620,7 +4798,7 @@ m_ResolvedPackages:
     licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ext.nunit@2.0/manual/index.html
+  documentationUrl: 
   hasRepository: 0
   repository:
     type: 
@@ -4628,7 +4806,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 2.0.5
+    version: 17.0.4
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4641,11 +4819,11 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 031a54704bffe39e6a0324909f8eaa4565bdebf2
+  fingerprint: 7ccd16edcc88f63a6fcfc1074df77f8fa9a62913
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 2.0.5
-    minimumUnityVersion: 2019.4.0a1
+    minimumPackageVersion: 17.0.4
+    minimumUnityVersion: 6000.0.0a1
   compliance:
     status: 0
     violation:
@@ -4657,7 +4835,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.render-pipelines.core@05f02f04fe74
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.render-pipelines.core@05f02f04fe74
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -4777,73 +4955,37 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.shadergraph@17.0.4
+- packageId: com.unity.ext.nunit@2.0.5
   testable: 0
   isDirectDependency: 0
-  version: 17.0.4
+  version: 2.0.5
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.shadergraph@7ccd16edcc88
-  assetPath: Packages/com.unity.shadergraph
-  name: com.unity.shadergraph
-  displayName: Shader Graph
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  assetPath: Packages/com.unity.ext.nunit
+  name: com.unity.ext.nunit
+  displayName: Custom NUnit
   author:
     name: 
     email: 
     url: 
-  category: 
+  category: Libraries
   type: 
-  description: The Shader Graph package adds a visual Shader editing tool to Unity.
-    You can use this tool to create Shaders in a visual way instead of writing code.
-    Specific render pipelines can implement specific graph features. Currently, both
-    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
-    Shader Graph.
+  description: A custom version of NUnit used by Unity Test Framework. Based on NUnit
+    version 3.5 and works with all platforms, il2cpp and Mono AOT.
   errors: []
   versions:
     all:
-    - 17.0.4
+    - 2.0.5
     compatible:
-    - 17.0.4
-    recommended: 17.0.4
+    - 2.0.5
+    recommended: 2.0.5
     deprecated: []
-  dependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.0.4
-  - name: com.unity.searcher
-    version: 4.9.3
-  resolvedDependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.0.4
-  - name: com.unity.burst
-    version: 1.8.24
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.collections
-    version: 2.5.1
-  - name: com.unity.test-framework
-    version: 1.5.1
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
-  - name: com.unity.test-framework.performance
-    version: 3.1.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  - name: com.unity.rendering.light-transport
-    version: 1.0.1
-  - name: com.unity.searcher
-    version: 4.9.3
-  keywords: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - nunit
+  - unittest
+  - test
   registry:
     id: main
     name: 
@@ -4860,7 +5002,7 @@ m_ResolvedPackages:
     licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
-  documentationUrl: 
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ext.nunit@2.0/manual/index.html
   hasRepository: 0
   repository:
     type: 
@@ -4868,7 +5010,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 17.0.4
+    version: 2.0.5
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4881,11 +5023,11 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 7ccd16edcc88f63a6fcfc1074df77f8fa9a62913
+  fingerprint: 031a54704bffe39e6a0324909f8eaa4565bdebf2
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 17.0.4
-    minimumUnityVersion: 6000.0.0a1
+    minimumPackageVersion: 2.0.5
+    minimumUnityVersion: 2019.4.0a1
   compliance:
     status: 0
     violation:
@@ -4897,7 +5039,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -5004,7 +5146,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.2.1
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.animation@81ad133dbdf1
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.animation@81ad133dbdf1
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -5169,8 +5311,11 @@ m_ResolvedPackages:
     - 14.0.0
     - 14.0.1
     - 14.0.2
+    - 14.0.3
     - 15.0.0
     - 15.0.1
+    - 15.0.2
+    - 15.0.3
     compatible:
     - 10.2.1
     - 10.2.2
@@ -5284,7 +5429,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 5.0.3
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.pixel-perfect@e3ae982b672d
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.pixel-perfect@e3ae982b672d
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -5326,6 +5471,7 @@ m_ResolvedPackages:
     - 5.0.3
     - 5.1.0
     - 5.1.1
+    - 6.0.0
     compatible:
     - 5.0.3
     - 5.1.0
@@ -5392,7 +5538,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.1.0
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.psdimporter@e0ffc26deb40
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.psdimporter@e0ffc26deb40
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -5503,7 +5649,10 @@ m_ResolvedPackages:
     - 12.0.1
     - 13.0.0
     - 13.0.1
+    - 13.0.2
     - 14.0.0
+    - 14.0.1
+    - 14.0.2
     compatible:
     - 9.1.0
     - 9.1.1
@@ -5601,7 +5750,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.sprite@897b7eecf04e
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.sprite@897b7eecf04e
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -5680,7 +5829,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.0.7
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.spriteshape@9e35352ae135
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.spriteshape@9e35352ae135
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -5796,7 +5945,10 @@ m_ResolvedPackages:
     - 12.0.2
     - 13.0.0
     - 14.0.0
+    - 14.0.1
     - 15.0.0
+    - 15.0.1
+    - 15.0.2
     compatible:
     - 10.0.7
     - 10.1.0
@@ -5893,7 +6045,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.tilemap@b1f6833cdf82
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.tilemap@b1f6833cdf82
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -5989,7 +6141,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.1.0
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.tilemap.extras@13634da7dbe0
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.tilemap.extras@13634da7dbe0
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -6066,8 +6218,12 @@ m_ResolvedPackages:
     - 6.0.1
     - 7.0.0-exp.1
     - 7.0.0
+    - 7.0.1
     - 8.0.0-exp.1
     - 8.0.0
+    - 8.0.1
+    - 8.0.2
+    - 8.88.0-exp.1
     compatible:
     - 4.1.0
     recommended: 4.1.0
@@ -6154,7 +6310,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.10
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.aseprite@dba7c65ef731
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.aseprite@dba7c65ef731
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -6186,6 +6342,7 @@ m_ResolvedPackages:
     - 1.1.8
     - 1.1.9
     - 1.1.10
+    - 1.1.11
     - 1.2.0
     - 1.2.1
     - 1.2.2
@@ -6198,10 +6355,14 @@ m_ResolvedPackages:
     - 3.0.0
     - 3.0.1
     - 4.0.0
+    - 4.0.1
     - 5.0.0
+    - 5.0.1
+    - 5.0.2
     compatible:
     - 1.1.10
-    recommended: 1.1.10
+    - 1.1.11
+    recommended: 1.1.11
     deprecated: []
   dependencies:
   - name: com.unity.2d.common
@@ -6293,7 +6454,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.8.1
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.splines@b909627b5095
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.splines@b909627b5095
   assetPath: Packages/com.unity.splines
   name: com.unity.splines
   displayName: Splines
@@ -6333,11 +6494,13 @@ m_ResolvedPackages:
     - 2.8.1
     - 2.8.2
     - 2.8.3
+    - 2.8.4
     compatible:
     - 2.8.1
     - 2.8.2
     - 2.8.3
-    recommended: 2.8.3
+    - 2.8.4
+    recommended: 2.8.4
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -6411,110 +6574,12 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.searcher@4.9.3
-  testable: 0
-  isDirectDependency: 0
-  version: 4.9.3
-  source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.searcher@1e17ce91558d
-  assetPath: Packages/com.unity.searcher
-  name: com.unity.searcher
-  displayName: Searcher
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: General search window for use in the Editor. First target use is for
-    GraphView node search.
-  errors: []
-  versions:
-    all:
-    - 4.0.0-preview
-    - 4.0.0
-    - 4.0.7-preview
-    - 4.0.7
-    - 4.0.8-preview
-    - 4.0.9
-    - 4.1.0-preview
-    - 4.1.0
-    - 4.2.0
-    - 4.3.0
-    - 4.3.1
-    - 4.3.2
-    - 4.6.0-preview
-    - 4.7.0-preview
-    - 4.9.1
-    - 4.9.2
-    - 4.9.3
-    - 4.9.4
-    compatible:
-    - 4.9.2
-    - 4.9.3
-    - 4.9.4
-    recommended: 4.9.4
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - search
-  - searcher
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638731478077990000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.searcher@4.9/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
-    revision: 6fad693b6604ae7175b59ebb4990d9a0b6c1d012
-    path: 
-  unityLifecycle:
-    version: 4.9.2
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"- Fixed a bug where spaces are removed when highlighted.\n-
-    Changed VisualSplitter to twoPaneSplitView and updated indentation"}'
-  assetStore:
-    productId: 
-  fingerprint: 1e17ce91558d1d9127554adc03d275f39a7466a2
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 4.9.2
-    minimumUnityVersion: 2019.1.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
 - packageId: com.unity.burst@1.8.24
   testable: 0
   isDirectDependency: 0
   version: 1.8.24
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.burst@f7a407abf4d5
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.burst@f7a407abf4d5
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -6754,7 +6819,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -6854,7 +6919,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -6949,6 +7014,7 @@ m_ResolvedPackages:
     - 2.6.2
     - 2.6.3
     - 2.6.4
+    - 2.6.5
     compatible:
     - 2.5.1
     - 2.5.2
@@ -6960,6 +7026,7 @@ m_ResolvedPackages:
     - 2.6.2
     - 2.6.3
     - 2.6.4
+    - 2.6.5
     recommended: 2.5.7
     deprecated: []
   dependencies:
@@ -7048,7 +7115,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -7148,12 +7215,110 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.searcher@4.9.3
+  testable: 0
+  isDirectDependency: 0
+  version: 4.9.3
+  source: 1
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  assetPath: Packages/com.unity.searcher
+  name: com.unity.searcher
+  displayName: Searcher
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: General search window for use in the Editor. First target use is for
+    GraphView node search.
+  errors: []
+  versions:
+    all:
+    - 4.0.0-preview
+    - 4.0.0
+    - 4.0.7-preview
+    - 4.0.7
+    - 4.0.8-preview
+    - 4.0.9
+    - 4.1.0-preview
+    - 4.1.0
+    - 4.2.0
+    - 4.3.0
+    - 4.3.1
+    - 4.3.2
+    - 4.6.0-preview
+    - 4.7.0-preview
+    - 4.9.1
+    - 4.9.2
+    - 4.9.3
+    - 4.9.4
+    compatible:
+    - 4.9.2
+    - 4.9.3
+    - 4.9.4
+    recommended: 4.9.4
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - search
+  - searcher
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638731478077990000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.searcher@4.9/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
+    revision: 6fad693b6604ae7175b59ebb4990d9a0b6c1d012
+    path: 
+  unityLifecycle:
+    version: 4.9.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"- Fixed a bug where spaces are removed when highlighted.\n-
+    Changed VisualSplitter to twoPaneSplitView and updated indentation"}'
+  assetStore:
+    productId: 
+  fingerprint: 1e17ce91558d1d9127554adc03d275f39a7466a2
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 4.9.2
+    minimumUnityVersion: 2019.1.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.2d.common@9.1.1
   testable: 0
   isDirectDependency: 0
   version: 9.1.1
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.common@bc041c6e0d0d
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.2d.common@bc041c6e0d0d
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -7333,7 +7498,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.0
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.settings-manager@41738c275190
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.settings-manager@41738c275190
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -7421,7 +7586,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -7514,7 +7679,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.0
   source: 1
-  resolvedPath: D:\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
+  resolvedPath: D:\game2D\CloakMage2D\CloakMage2D\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
@@ -7582,9 +7747,13 @@ m_ResolvedPackages:
     - 3.0.3
     - 3.1.0
     - 3.2.0
+    - 3.2.1
+    - 3.3.0
     compatible:
     - 3.1.0
     - 3.2.0
+    - 3.2.1
+    - 3.3.0
     recommended: 3.1.0
     deprecated: []
   dependencies:

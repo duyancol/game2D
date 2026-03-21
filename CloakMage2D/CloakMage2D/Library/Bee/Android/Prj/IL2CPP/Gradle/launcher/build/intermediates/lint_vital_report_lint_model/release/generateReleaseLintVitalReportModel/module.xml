@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher"
+    dir="D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher"
     name=":launcher"
     type="APP"
     maven="Gradle:launcher:unspecified"

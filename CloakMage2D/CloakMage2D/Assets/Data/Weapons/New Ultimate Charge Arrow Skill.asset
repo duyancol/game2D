@@ -22,15 +22,15 @@ MonoBehaviour:
   atkScale: 8
   smptScale: 0
   canCrit: 1
-  chargeVfxPrefab: {fileID: 0}
-  vfxLocalOffset: {x: 3.5, y: 0, z: -2}
+  chargeVfxPrefab: {fileID: 2640392957126220250, guid: 22ff0019ecdf9584b84699c0f8321eb9, type: 3}
+  vfxLocalOffset: {x: 0, y: 0, z: 0}
   chargeVfxAngleOffset: 0
   rotateChargeVfxToMouse: 1
   auraPrefab: {fileID: 0}
   auraLocalOffset: {x: 0, y: -0.5, z: 0}
   ultPowPrefab: {fileID: 0}
-  ultPowLocalOffset: {x: 0, y: 1, z: 0}
-  ultPowLife: 0.5
+  ultPowLocalOffset: {x: 3, y: 1, z: 0}
+  ultPowLife: 1
   fireDelayAfterPow: 0.6
   chargeBarPrefab: {fileID: 6914575379085845131, guid: 035c3d2b4602df34cbd7bfaf0e7e15ae, type: 3}
   barWorldOffset: {x: 0, y: 0, z: 0}

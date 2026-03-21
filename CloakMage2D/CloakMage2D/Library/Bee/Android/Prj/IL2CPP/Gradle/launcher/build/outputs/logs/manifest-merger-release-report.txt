@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-MERGED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-87:12
+ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-87:12
 MERGED from [com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:17:1-75:12
 MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\anvt1\.gradle\caches\8.11\transforms\4c58138ef6b04c902e3779ffb3d2daa4\transformed\jetified-credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\anvt1\.gradle\caches\8.11\transforms\be6bf4001c8ad1ac562392a1427b6828\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
@@ -29,7 +29,7 @@ MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\anvt1\.g
 MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\4ecc1265218d1760acd7435032b81430\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\3796fd5c331aff9d95d8661aea2cdfc0\transformed\jetified-firebase-common-22.0.1\AndroidManifest.xml:15:1-41:12
 MERGED from [com.google.signin:google-signin-support:1.0.4] C:\Users\anvt1\.gradle\caches\8.11\transforms\99e1eb9e53e04c702a903f31dacea2d4\transformed\jetified-google-signin-support-1.0.4\AndroidManifest.xml:17:1-27:12
-MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-9:12
+MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\anvt1\.gradle\caches\8.11\transforms\900fc11a629a08d1211324abd3c19ea4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\a45e6069921f8df60cd9c09d016f0346\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\a776d172d9d24a1128478cf2dc19e9b4\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -86,22 +86,22 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\anvt1\.
 MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\anvt1\.gradle\caches\8.11\transforms\575086101ec6b440714732f05a6064bf\transformed\jetified-googleid-1.1.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.play:core-common:2.0.4] C:\Users\anvt1\.gradle\caches\8.11\transforms\b661ed0df584f12035ce1b1be9b93986\transformed\jetified-core-common-2.0.4\AndroidManifest.xml:2:1-21:12
 	package
-		INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:111-157
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:111-157
 	android:versionCode
-		INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:52-110
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:52-110
 	android:installLocation
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-51
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-51
 application
-ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
-MERGED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:24:5-85:19
-MERGED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:24:5-85:19
+ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:24:5-85:19
+MERGED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:24:5-85:19
 MERGED from [com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:28:5-73:19
 MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\anvt1\.gradle\caches\8.11\transforms\be6bf4001c8ad1ac562392a1427b6828\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
@@ -169,36 +169,36 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\anvt1\.gradle\cach
 MERGED from [com.google.android.play:core-common:2.0.4] C:\Users\anvt1\.gradle\caches\8.11\transforms\b661ed0df584f12035ce1b1be9b93986\transformed\jetified-core-common-2.0.4\AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.android.play:core-common:2.0.4] C:\Users\anvt1\.gradle\caches\8.11\transforms\b661ed0df584f12035ce1b1be9b93986\transformed\jetified-core-common-2.0.4\AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
-		INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		REJECTED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:27:9-41
+		INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		REJECTED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:27:9-41
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\anvt1\.gradle\caches\8.11\transforms\01b0759c45be5acd57b988c62a807a3d\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:48-80
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:48-80
 	android:appCategory
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:25:9-35
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:25:9-35
 	android:icon
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-47
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-47
 	android:enableOnBackInvokedCallback
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:26:9-52
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:26:9-52
 supports-screens
-ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
 	android:largeScreens
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
 	android:smallScreens
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
 	android:normalScreens
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
 	android:xlargeScreens
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
 	android:anyDensity
-		ADDED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+		ADDED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
 uses-sdk
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-MERGED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
-MERGED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
+MERGED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:21:5-23:151
 MERGED from [com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:21:5-23:151
 MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\anvt1\.gradle\caches\8.11\transforms\4c58138ef6b04c902e3779ffb3d2daa4\transformed\jetified-credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
@@ -247,8 +247,8 @@ MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\anvt1\.gradle\
 MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\3796fd5c331aff9d95d8661aea2cdfc0\transformed\jetified-firebase-common-22.0.1\AndroidManifest.xml:19:5-44
 MERGED from [com.google.signin:google-signin-support:1.0.4] C:\Users\anvt1\.gradle\caches\8.11\transforms\99e1eb9e53e04c702a903f31dacea2d4\transformed\jetified-google-signin-support-1.0.4\AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.signin:google-signin-support:1.0.4] C:\Users\anvt1\.gradle\caches\8.11\transforms\99e1eb9e53e04c702a903f31dacea2d4\transformed\jetified-google-signin-support-1.0.4\AndroidManifest.xml:21:5-23:41
-MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-44
-MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-44
+MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-44
+MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\anvt1\.gradle\caches\8.11\transforms\900fc11a629a08d1211324abd3c19ea4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\anvt1\.gradle\caches\8.11\transforms\900fc11a629a08d1211324abd3c19ea4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\a45e6069921f8df60cd9c09d016f0346\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
@@ -362,11 +362,11 @@ MERGED from [com.google.android.play:core-common:2.0.4] C:\Users\anvt1\.gradle\c
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:23:9-148
 	android:targetSdkVersion
-		INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-67
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-67
 MERGED from [com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\anvt1\.gradle\caches\8.11\transforms\d106b2b7234e2b0ed464686fb4d31f84\transformed\jetified-play-services-measurement-23.0.0\AndroidManifest.xml:23:5-67
@@ -382,143 +382,143 @@ MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\anvt1\.grad
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\anvt1\.gradle\caches\8.11\transforms\96025fb39798f76cbb403b56d8b35678\transformed\jetified-play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\anvt1\.gradle\caches\8.11\transforms\96025fb39798f76cbb403b56d8b35678\transformed\jetified-play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:22-64
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:22-64
 uses-feature#0x00030000
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:5-54
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:5-54
 	android:glEsVersion
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:19-51
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:19-51
 uses-feature#android.hardware.vulkan.version
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:5-13:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:5-13:36
 	android:required
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:9-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:9-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:9-55
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:9-55
 uses-feature#android.hardware.touchscreen
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:5-16:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:5-16:36
 	android:required
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:9-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:9-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:9-52
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:9-52
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:17:5-19:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:17:5-19:36
 	android:required
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:19:9-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:19:9-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:18:9-63
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:18:9-63
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:5-22:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:5-22:36
 	android:required
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:22:9-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:22:9-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:21:9-72
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:21:9-72
 meta-data#unity.splash-mode
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:28:9-30:33
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:28:9-30:33
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:13-30
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:13-30
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:29:13-45
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:29:13-45
 meta-data#unity.splash-enable
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:31:9-33:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:31:9-33:36
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:33:13-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:33:13-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:32:13-47
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:32:13-47
 meta-data#unity.launch-fullscreen
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:34:9-36:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:34:9-36:36
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:36:13-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:36:13-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:35:13-51
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:35:13-51
 meta-data#unity.render-outside-safearea
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:37:9-39:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:37:9-39:36
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:39:13-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:39:13-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:38:13-57
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:38:13-57
 meta-data#notch.config
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:40:9-42:50
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:40:9-42:50
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:42:13-47
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:42:13-47
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:41:13-40
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:41:13-40
 meta-data#unity.auto-report-fully-drawn
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:43:9-45:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:43:9-45:36
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:45:13-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:45:13-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:44:13-57
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:44:13-57
 meta-data#unity.strip-engine-code
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:46:9-48:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:46:9-48:36
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:48:13-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:48:13-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:47:13-51
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:47:13-51
 meta-data#unity.auto-set-game-state
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:49:9-51:36
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:49:9-51:36
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:51:13-33
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:51:13-33
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:50:13-53
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:50:13-53
 activity#com.unity3d.player.UnityPlayerGameActivity
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:53:9-84:20
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:53:9-84:20
 	android:screenOrientation
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:61:13-49
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:61:13-49
 	android:enabled
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:56:13-35
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:56:13-35
 	android:launchMode
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:59:13-44
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:59:13-44
 	android:hardwareAccelerated
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:58:13-48
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:58:13-48
 	android:exported
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:57:13-36
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:57:13-36
 	android:resizeableActivity
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:60:13-46
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:60:13-46
 	android:configChanges
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:55:13-194
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:55:13-194
 	android:theme
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:62:13-62
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:62:13-62
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:54:13-70
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:54:13-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:63:13-67:29
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:63:13-67:29
 category#android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:64:17-77
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:64:17-77
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:64:27-74
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:64:27-74
 action#android.intent.action.MAIN
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:17-69
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:17-69
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:25-66
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:25-66
 meta-data#unityplayer.UnityActivity
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:69:13-71:40
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:69:13-71:40
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:71:17-37
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:71:17-37
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:70:17-57
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:70:17-57
 meta-data#android.app.lib_name
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:72:13-74:40
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:72:13-74:40
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:74:17-37
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:74:17-37
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:73:17-52
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:73:17-52
 meta-data#WindowManagerPreference:FreeformWindowSize
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:75:13-77:71
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:75:13-77:71
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:77:17-68
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:77:17-68
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:76:17-74
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:76:17-74
 meta-data#WindowManagerPreference:FreeformWindowOrientation
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:78:13-80:79
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:78:13-80:79
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:80:17-76
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:80:17-76
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:79:17-81
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:79:17-81
 meta-data#notch_support
-ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:81:13-83:40
+ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:81:13-83:40
 	android:value
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:83:17-37
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:83:17-37
 	android:name
-		ADDED from [:unityLibrary] D:\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:82:17-45
+		ADDED from [:unityLibrary] D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:82:17-45
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:24.0.1] C:\Users\anvt1\.gradle\caches\8.11\transforms\ed2688450edf7b4e3d9376fb79d6af92\transformed\jetified-firebase-auth-24.0.1\AndroidManifest.xml:26:5-79
 MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\anvt1\.gradle\caches\8.11\transforms\d106b2b7234e2b0ed464686fb4d31f84\transformed\jetified-play-services-measurement-23.0.0\AndroidManifest.xml:24:5-79

@@ -148,9 +148,9 @@ MonoBehaviour:
   baseDamage: 10
   atkScale: 0
   smptScale: 0
-  damageType: 0
+  damageType: 1
   canCrit: 1
-  disableHitboxAfterFire: 1
+  disableHitboxAfterFire: 0.05
   destroyWholeObjectOnFire: 0
 --- !u!114 &109771515577483492
 MonoBehaviour:

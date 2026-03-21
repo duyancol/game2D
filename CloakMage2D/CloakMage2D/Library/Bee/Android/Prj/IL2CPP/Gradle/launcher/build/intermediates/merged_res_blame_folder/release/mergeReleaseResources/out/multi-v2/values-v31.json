@@ -4,7 +4,7 @@
             "outputFile": "com.tuongduy.cloakmage2d.launcher-mergeReleaseResources-33:/values-v31/values-v31.xml",
             "map": [
                 {
-                    "source": "D:\\CloakMage2D\\CloakMage2D\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\packageReleaseResources\\values-v31\\values-v31.xml",
+                    "source": "D:\\game2D\\CloakMage2D\\CloakMage2D\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\packageReleaseResources\\values-v31\\values-v31.xml",
                     "from": {
                         "startLines": "2,8",
                         "startColumns": "4,4",
