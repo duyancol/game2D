@@ -29,7 +29,8 @@ public class SwordHitbox : MonoBehaviour
 
     HashSet<BossHealth> damaged = new();
     bool _fired;
-
+    [Header("Direction")]
+    public float offsetX = 1.5f; // khoảng cách từ player tới hitbox
     // === API cũ ===
     public void Init(int dmg, GameObject ownerGo = null)
     {
@@ -92,6 +93,12 @@ public class SwordHitbox : MonoBehaviour
     void DoDamageOnce()
     {
         Vector2 center = transform.position;
+
+        if (owner != null)
+        {
+            float dir = Mathf.Sign(owner.transform.localScale.x);
+            center = (Vector2)owner.transform.position + new Vector2(offsetX * dir, 0);
+        }
         var hits = Physics2D.OverlapCircleAll(center, radius, hitMask);
 
         foreach (var h in hits)

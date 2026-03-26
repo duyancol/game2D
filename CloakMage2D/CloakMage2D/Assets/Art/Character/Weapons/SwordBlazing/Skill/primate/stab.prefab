@@ -11,8 +11,7 @@ GameObject:
   - component: {fileID: 6992062681382300146}
   - component: {fileID: 8942020884879391102}
   - component: {fileID: 1633702585142311366}
-  - component: {fileID: 2514323726508906379}
-  - component: {fileID: 109771515577483492}
+  - component: {fileID: -3439654749479117657}
   m_Layer: 0
   m_Name: stab
   m_TagString: Untagged
@@ -80,7 +79,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 120
   m_Sprite: {fileID: 21300000, guid: 099f388bf12504b4fa7df7e08857f474, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.39215687}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -126,7 +125,7 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 4, y: 0}
   m_Radius: 1
---- !u!114 &2514323726508906379
+--- !u!114 &-3439654749479117657
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -135,34 +134,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 3001871527004090156}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37a6375b3518bd54bba0015f9523287b, type: 3}
+  m_Script: {fileID: 11500000, guid: dcf0d451c44235c4390d8daf4a8da373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  radius: 4
-  damage: 80
-  owner: {fileID: 8003154587740020825, guid: 16ec3669b12e7eb4b8fce8cf0346254d, type: 3}
-  attackerStats: {fileID: 0}
-  baseDamage: 10
-  atkScale: 0
-  smptScale: 0
-  damageType: 1
-  canCrit: 1
-  disableHitboxAfterFire: 0.05
-  destroyWholeObjectOnFire: 0
---- !u!114 &109771515577483492
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3001871527004090156}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 89d1efd8755939e4fa826c74fef3e9e7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  impactPrefab: {fileID: 8003154587740020825, guid: 16ec3669b12e7eb4b8fce8cf0346254d, type: 3}
+  impactPrefab: {fileID: 6361997728236094490, guid: 9d3069f91ca36344c9a1eb31cdda7a1e, type: 3}
   impactLife: 0.25

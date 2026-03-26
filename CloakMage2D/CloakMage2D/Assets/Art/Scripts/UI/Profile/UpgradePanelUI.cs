@@ -814,7 +814,7 @@ public class UpgradePanelUI : MonoBehaviour
     public int goldPerLevel = 100;
     public int maxLevel = 100;
 
-    string baseUrl = "https://userservice-production-fd72.up.railway.app";
+    //string baseUrl = "https://userservice-production-fd72.up.railway.app";
     long userId = PlayerSession.UserId;
 
     WeaponProfile _weapon;
@@ -930,7 +930,7 @@ public class UpgradePanelUI : MonoBehaviour
             yield break;
         }
 
-        string url = $"{baseUrl}/api/weapons/{_weapon.weaponId}/ascend-cost?userId={userId}";
+        string url = $"{ApiConfigLoader.Config.baseUrl}/api/weapons/{_weapon.weaponId}/ascend-cost?userId={userId}";
 
         UnityWebRequest req = UnityWebRequest.Get(url);
         yield return req.SendWebRequest();
@@ -1060,7 +1060,7 @@ public class UpgradePanelUI : MonoBehaviour
 
     IEnumerator CallLevelUpAPI(int stoneUse)
     {
-        string url = $"{baseUrl}/api/weapons/{_weapon.weaponId}/level-up?userId={userId}&expStoneUse={stoneUse}";
+        string url = $"{ApiConfigLoader.Config.baseUrl}/api/weapons/{_weapon.weaponId}/level-up?userId={userId}&expStoneUse={stoneUse}";
 
         UnityWebRequest req = UnityWebRequest.PostWwwForm(url, "");
         yield return req.SendWebRequest();
@@ -1088,7 +1088,7 @@ public class UpgradePanelUI : MonoBehaviour
 
     IEnumerator CallAscendAPI()
     {
-        string url = $"{baseUrl}/api/weapons/{_weapon.weaponId}/ascend?userId={userId}";
+        string url = $"{ApiConfigLoader.Config.baseUrl}/api/weapons/{_weapon.weaponId}/ascend?userId={userId}";
 
         UnityWebRequest req = UnityWebRequest.PostWwwForm(url, "");
         yield return req.SendWebRequest();

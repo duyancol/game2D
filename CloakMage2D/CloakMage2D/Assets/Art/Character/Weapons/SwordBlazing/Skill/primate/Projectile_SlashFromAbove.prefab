@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3981126633719632612}
   - component: {fileID: 6734579656676855014}
   - component: {fileID: -2778478249623337525}
+  - component: {fileID: 5565085124517732005}
   m_Layer: 0
   m_Name: Projectile_SlashFromAbove
   m_TagString: Untagged
@@ -79,7 +80,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 124
   m_Sprite: {fileID: 21300000, guid: da51cc37d4d7e48489e3f163c758f57a, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.3882353}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -151,3 +152,17 @@ MonoBehaviour:
   canCrit: 1
   disableHitboxAfterFire: 0.05
   destroyWholeObjectOnFire: 0
+--- !u!114 &5565085124517732005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130206590770822522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf0d451c44235c4390d8daf4a8da373, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  impactPrefab: {fileID: 0}
+  impactLife: 0.25

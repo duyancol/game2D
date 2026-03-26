@@ -1,6 +1,7 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="AbsoluteZeroPassive" preserve="nothing"/>
+		<type fullname="ApiConfigSO" preserve="nothing"/>
 		<type fullname="AppleTree" preserve="nothing"/>
 		<type fullname="Arm3PartAttack" preserve="nothing"/>
 		<type fullname="ArmWeaponController" preserve="nothing"/>
@@ -20,6 +21,7 @@
 		<type fullname="BossShooter" preserve="nothing"/>
 		<type fullname="BossStun" preserve="nothing"/>
 		<type fullname="BulletImpact" preserve="nothing"/>
+		<type fullname="BulletImpactNear" preserve="nothing"/>
 		<type fullname="ButterflyAnimation" preserve="nothing"/>
 		<type fullname="CharacterEquipmentUI" preserve="nothing"/>
 		<type fullname="ChargeBarWorld" preserve="nothing"/>
@@ -31,6 +33,12 @@
 		<type fullname="DivineMarkPassive" preserve="nothing"/>
 		<type fullname="DivineMarkRuntime" preserve="nothing"/>
 		<type fullname="DivineMarkUI" preserve="nothing"/>
+		<type fullname="EarthAxeSlamSkill" preserve="nothing"/>
+		<type fullname="EarthCrackArea" preserve="nothing"/>
+		<type fullname="EarthHammerBasicAttack" preserve="nothing"/>
+		<type fullname="EarthResonancePassive" preserve="nothing"/>
+		<type fullname="EnergyShield" preserve="nothing"/>
+		<type fullname="EnergyShieldArea" preserve="nothing"/>
 		<type fullname="EnhancePanelUI" preserve="nothing"/>
 		<type fullname="EquipmentPanelUI" preserve="nothing"/>
 		<type fullname="EquipmentProfile" preserve="nothing"/>
@@ -217,6 +225,7 @@
 		<type fullname="UnityEngine.CanvasGroup" preserve="nothing"/>
 		<type fullname="UnityEngine.CanvasRenderer" preserve="nothing"/>
 		<type fullname="UnityEngine.CircleCollider2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Collider" preserve="nothing"/>
 		<type fullname="UnityEngine.Collider2D" preserve="nothing"/>
 		<type fullname="UnityEngine.Component" preserve="nothing"/>
 		<type fullname="UnityEngine.ComputeShader" preserve="nothing"/>
@@ -228,6 +237,8 @@
 		<type fullname="UnityEngine.LineRenderer" preserve="nothing"/>
 		<type fullname="UnityEngine.Material" preserve="nothing"/>
 		<type fullname="UnityEngine.Mesh" preserve="nothing"/>
+		<type fullname="UnityEngine.MeshCollider" preserve="nothing"/>
+		<type fullname="UnityEngine.MeshFilter" preserve="nothing"/>
 		<type fullname="UnityEngine.MeshRenderer" preserve="nothing"/>
 		<type fullname="UnityEngine.MonoBehaviour" preserve="nothing"/>
 		<type fullname="UnityEngine.Motion" preserve="nothing"/>
@@ -249,10 +260,6 @@
 		<type fullname="UnityEngine.Texture" preserve="nothing"/>
 		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
 		<type fullname="UnityEngine.Transform" preserve="nothing"/>
-		<type fullname="UnityEngine.VFX.VFXRenderer" preserve="nothing"/>
-		<type fullname="UnityEngine.VFX.VisualEffect" preserve="nothing"/>
-		<type fullname="UnityEngine.VFX.VisualEffectAsset" preserve="nothing"/>
-		<type fullname="UnityEngine.VFX.VisualEffectObject" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="UnityEngine.UI">
 		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>

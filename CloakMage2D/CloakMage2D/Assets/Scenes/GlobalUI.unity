@@ -1029,6 +1029,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e314e4b90cf59294f960c501216bffe8, type: 2}
   - {fileID: 11400000, guid: 6c004db89b081184cbf59b9f9149b3e2, type: 2}
   - {fileID: 11400000, guid: 8b43380ef2347384b9e3dc6a88b4cbb6, type: 2}
+  - {fileID: 11400000, guid: 18655335ad3512d4483ad86e1fa4688b, type: 2}
   equipmentData:
     id: 0
     itemId: 

@@ -13,18 +13,20 @@ MonoBehaviour:
   m_Name: New Shoot Green Abyss Spear Skill
   m_EditorClassIdentifier: 
   skillName: 
+  castType: 0
   skillIcon: {fileID: 2391756132258337540, guid: be5a8aa8be5059a428053bd28e91c161, type: 3}
+  useType: 0
   cooldown: 1
   holdThreshold: 0.22
   stepCooldown: 0.08
   stabPrefab: {fileID: 5250413696058144097, guid: 67cd22dec77a8fa4a8cb7811c35da259, type: 3}
   tapMuzzleOffset: 1.2
-  tapThrustDistance: 2.2
-  tapThrustDuration: 0.18
+  tapThrustDistance: 5
+  tapThrustDuration: 0.1
   hitLifeTap: 0.5
   dashPlayerOnTap: 1
-  tapPlayerDashDistance: 8
-  tapPlayerDashDuration: 0.08
+  tapPlayerDashDistance: 12
+  tapPlayerDashDuration: 0.01
   dashBlockMask:
     serializedVersion: 2
     m_Bits: 0
@@ -32,11 +34,10 @@ MonoBehaviour:
   eachSpearLinger: 0.2
   throwDistance: 6.5
   fanAngle: 30
-  spriteAngleOffset: 0
   tapDamage: 60
-  tapAtkScale: 1.5
+  tapAtkScale: 2.4
   throwDamage: 60
-  throwAtkScale: 1
+  throwAtkScale: 2.4
   damageType: 0
   smptScale: 0
   canCrit: 1

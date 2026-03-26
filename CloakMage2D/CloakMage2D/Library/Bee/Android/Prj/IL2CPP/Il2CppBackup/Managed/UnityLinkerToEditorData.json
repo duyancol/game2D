@@ -176,11 +176,7 @@
           },
           {
             "name": "ComputeShader",
-            "scenes": [
-              "Assets/Scenes/GlobalUI.unity",
-              "Assets/Scenes/MainMenu.unity",
-              "Assets/Scenes/Map_Grassland.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -342,13 +338,19 @@
           },
           {
             "name": "MeshFilter",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
+              "Assets/Scenes/Map_Grassland.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "MeshRenderer",
             "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
               "Assets/Scenes/Map_Grassland.unity"
             ],
             "dependencyType": 0,
@@ -987,13 +989,21 @@
           },
           {
             "name": "Collider",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
+              "Assets/Scenes/Map_Grassland.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "MeshCollider",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/GlobalUI.unity",
+              "Assets/Scenes/MainMenu.unity",
+              "Assets/Scenes/Map_Grassland.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -1596,31 +1606,19 @@
           },
           {
             "name": "VFXRenderer",
-            "scenes": [
-              "Assets/Scenes/GlobalUI.unity",
-              "Assets/Scenes/MainMenu.unity",
-              "Assets/Scenes/Map_Grassland.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "VisualEffect",
-            "scenes": [
-              "Assets/Scenes/GlobalUI.unity",
-              "Assets/Scenes/MainMenu.unity",
-              "Assets/Scenes/Map_Grassland.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "VisualEffectAsset",
-            "scenes": [
-              "Assets/Scenes/GlobalUI.unity",
-              "Assets/Scenes/MainMenu.unity",
-              "Assets/Scenes/Map_Grassland.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },

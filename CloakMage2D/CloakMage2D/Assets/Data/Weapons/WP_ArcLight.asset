@@ -23,7 +23,7 @@ MonoBehaviour:
   auraLocalPos: {x: 0, y: 0, z: 0}
   auraLocalRot: {x: 0, y: 0, z: 60}
   auraLocalScale: {x: 1, y: 1, z: 1}
-  armPrefab: {fileID: 0}
+  armPrefab: {fileID: 3405295111263885974, guid: 17b9d67c824a96f438ffe3142c4609cc, type: 3}
   bonus:
     addMaxHP: 0
     addAtk: 680

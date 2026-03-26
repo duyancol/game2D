@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 8d638a24600b0b549a75237e11310dc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2384419701811992523
+    second: aim_attact_greeen_hitbox_3-Photoroom_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aim_attact_greeen_hitbox_3-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 478
+        width: 323
+        height: 227
+      alignment: 9
+      pivot: {x: 0.44543758, y: 0.11957728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc752f9e519271120800000000000000
+      internalID: 2384419701811992523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attact_greeen_hitbox_3-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 477
+        width: 323
+        height: 227
+      alignment: 9
+      pivot: {x: 0.44543758, y: 0.11957728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6c4b724bb5ce4d88455e5093b69ff
+      internalID: 750821889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attact_greeen_hitbox_3-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 478
+        width: 323
+        height: 227
+      alignment: 9
+      pivot: {x: 0.44543758, y: 0.11957728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6159ac3293157d0448407bf2264cfb88
+      internalID: 1488703761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attact_greeen_hitbox_3-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 238
+        width: 323
+        height: 227
+      alignment: 9
+      pivot: {x: 0.4181564, y: 0.11957715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a95f5654681074baec6454f98d3833
+      internalID: 1461660284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attact_greeen_hitbox_3-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 239
+        width: 321
+        height: 227
+      alignment: 9
+      pivot: {x: 0.36905038, y: 0.11957715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653119d33bd7eea4e88e31955ddcb897
+      internalID: 94389006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attact_greeen_hitbox_3-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 242
+        width: 318
+        height: 227
+      alignment: 9
+      pivot: {x: 0.29700416, y: 0.104049616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b076ef85793384cae5868f1ad75fbe
+      internalID: -1564289510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attact_greeen_hitbox_3-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5
+        width: 318
+        height: 227
+      alignment: 9
+      pivot: {x: 0.37459263, y: 0.11181331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06125b4520703f041ba143ab1dd02cd7
+      internalID: -219859682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attact_greeen_hitbox_3-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 7
+        width: 317
+        height: 227
+      alignment: 9
+      pivot: {x: 0.46872833, y: 0.10404937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e317f29d2362804b83342f3cc5ab694
+      internalID: 430474205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attact_greeen_hitbox_3-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 4
+        width: 317
+        height: 227
+      alignment: 9
+      pivot: {x: 0.4826275, y: 0.10793166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba94dd96dc11611438d92aa6ebfc8cd1
+      internalID: -1830067813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 840f89f8f61661245b1ef55e9291f284
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aim_attact_greeen_hitbox_3-Photoroom_0: 2384419701811992523
+      aim_attact_greeen_hitbox_3-Photoroom_1: 750821889
+      aim_attact_greeen_hitbox_3-Photoroom_2: 1488703761
+      aim_attact_greeen_hitbox_3-Photoroom_3: 1461660284
+      aim_attact_greeen_hitbox_3-Photoroom_4: 94389006
+      aim_attact_greeen_hitbox_3-Photoroom_5: -1564289510
+      aim_attact_greeen_hitbox_3-Photoroom_6: -219859682
+      aim_attact_greeen_hitbox_3-Photoroom_7: 430474205
+      aim_attact_greeen_hitbox_3-Photoroom_8: -1830067813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

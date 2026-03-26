@@ -19,7 +19,7 @@ MonoBehaviour:
   localPos: {x: 0, y: -1, z: 0}
   localRotZ: -60
   localScale: {x: 0.7, y: 1, z: 2}
-  auraPrefab: {fileID: 0}
+  auraPrefab: {fileID: 3405295111263885974, guid: b555f5aa9205b064b92a17aeebe0b9c7, type: 3}
   auraLocalPos: {x: 0, y: 0, z: 0}
   auraLocalRot: {x: 0, y: 0, z: 0}
   auraLocalScale: {x: 1, y: 1, z: 1}
@@ -27,12 +27,12 @@ MonoBehaviour:
   bonus:
     addMaxHP: 0
     addAtk: 0
-    addSmpt: 200
-    addCritChance: 0
-    addCritDamage: 0
+    addSmpt: 650
+    addCritChance: 0.2
+    addCritDamage: 0.2
     addDef: 0
     addMdef: 0
-  level: 0
+  level: 1
   enhanceLevel: 0
   exp: 0
   ascend: 0

@@ -34,7 +34,7 @@ public class EnhancePanelUI : MonoBehaviour
     public RectTransform panelRoot;
 
     [Header("API")]
-    string baseUrl = "https://userservice-production-fd72.up.railway.app";
+   // string baseUrl = "https://userservice-production-fd72.up.railway.app";
     long userId = PlayerSession.UserId;
 
     WeaponProfile _weapon;
@@ -135,7 +135,7 @@ public class EnhancePanelUI : MonoBehaviour
 
     IEnumerator CallEnhanceAPI()
     {
-        string url = $"{baseUrl}/api/weapons/{_weapon.weaponId}/enhance?userId={userId}";
+        string url = $"{ApiConfigLoader.Config.baseUrl}/api/weapons/{_weapon.weaponId}/enhance?userId={userId}";
 
         UnityWebRequest req = new UnityWebRequest(url, "POST");
         req.downloadHandler = new DownloadHandlerBuffer();

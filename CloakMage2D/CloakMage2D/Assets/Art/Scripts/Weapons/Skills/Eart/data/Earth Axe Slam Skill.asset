@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854028bc9272ace47b08e3895ea4eeb6, type: 3}
+  m_Name: Earth Axe Slam Skill
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 1
+  skillIcon: {fileID: -535828387525230566, guid: 8c9004154d94f924eb6da81682d899d1, type: 3}
+  cooldown: 0.2
+  jumpTime: 0.65
+  jumpCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  crackPrefab: {fileID: 1243071486484968489, guid: 94f71fccce84ae1409c06510a08dcf21, type: 3}
+  jumpVfx: {fileID: 6560153880347809400, guid: e867232807fba6a4c8ff02134a75597e, type: 3}
+  landVfx: {fileID: 6560153880347809400, guid: e867232807fba6a4c8ff02134a75597e, type: 3}
+  duration: 6
+  tickInterval: 0.8
+  radius: 6
+  hitMask:
+    serializedVersion: 2
+    m_Bits: 64
+  damage: 20
+  damageType: 0
+  atkScale: 1
+  smptScale: 0
+  canCrit: 1
+  hpScale: 0.0001

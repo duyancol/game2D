@@ -1,0 +1,1115 @@
+fileFormatVersion: 2
+guid: 7b688eb94314e9f49b45b00a562bc44f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6395364460193760038
+    second: sheild_0
+  - first:
+      213: 1803595000408412862
+    second: sheild_1
+  - first:
+      213: 3983797245062202103
+    second: sheild_2
+  - first:
+      213: -8780508732348931862
+    second: sheild_3
+  - first:
+      213: -5485438566258242940
+    second: sheild_4
+  - first:
+      213: 4785332985843147339
+    second: sheild_5
+  - first:
+      213: -8366815330455761367
+    second: sheild_6
+  - first:
+      213: 262494638822654957
+    second: sheild_7
+  - first:
+      213: 9217153194630228452
+    second: sheild_8
+  - first:
+      213: 7377786513664202216
+    second: sheild_9
+  - first:
+      213: 2631268298482559936
+    second: sheild_10
+  - first:
+      213: -6045893350647327693
+    second: sheild_11
+  - first:
+      213: -9077889616907863930
+    second: sheild_12
+  - first:
+      213: 1466879954151368250
+    second: sheild_13
+  - first:
+      213: 7907970015934801824
+    second: sheild_14
+  - first:
+      213: 3543327507174189018
+    second: sheild_15
+  - first:
+      213: 2413295159717174092
+    second: sheild_16
+  - first:
+      213: 3360702604648460817
+    second: sheild_17
+  - first:
+      213: 6233269451863372222
+    second: sheild_18
+  - first:
+      213: -7961620310640945330
+    second: sheild_19
+  - first:
+      213: 6665684029950024489
+    second: sheild_20
+  - first:
+      213: -2456451213921861777
+    second: sheild_21
+  - first:
+      213: -6041047401572301434
+    second: sheild_22
+  - first:
+      213: 8506830923102411587
+    second: sheild_23
+  - first:
+      213: -5347012585495594427
+    second: sheild_24
+  - first:
+      213: 4282144060853943526
+    second: sheild_25
+  - first:
+      213: 7211549752454291493
+    second: sheild_26
+  - first:
+      213: -3459319946549881856
+    second: sheild_27
+  - first:
+      213: -6282780353026226774
+    second: sheild_28
+  - first:
+      213: -9040975922857550267
+    second: sheild_29
+  - first:
+      213: -3085212741334172287
+    second: sheild_30
+  - first:
+      213: -8863748190582021308
+    second: sheild_31
+  - first:
+      213: -5868425636919800882
+    second: sheild_32
+  - first:
+      213: -3611043830462752600
+    second: sheild_33
+  - first:
+      213: 419723665447753154
+    second: sheild_34
+  - first:
+      213: -6156228330416696065
+    second: sheild_35
+  - first:
+      213: -5711333832004111137
+    second: sheild_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheild_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3230
+        width: 419
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc3ef458e91f37a0800000000000000
+      internalID: -6395364460193760038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3230
+        width: 424
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb29306d818a70910800000000000000
+      internalID: 1803595000408412862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_2
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 3230
+        width: 416
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2cc11cc7a494730800000000000000
+      internalID: 3983797245062202103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_3
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3230
+        width: 419
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0602d34dd552680800000000000000
+      internalID: -8780508732348931862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_4
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 3230
+        width: 415
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a03f4efaecfd3b0800000000000000
+      internalID: -5485438566258242940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2770
+        width: 420
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42e3213ffae86240800000000000000
+      internalID: 4785332985843147339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2770
+        width: 424
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e44e649c913eb80800000000000000
+      internalID: -8366815330455761367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2770
+        width: 421
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de30876bb7194a300800000000000000
+      internalID: 262494638822654957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_8
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 2770
+        width: 428
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9aa46fef7e9ef70800000000000000
+      internalID: 9217153194630228452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_9
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2770
+        width: 442
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e55f97beb9236660800000000000000
+      internalID: 7377786513664202216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2310
+        width: 452
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbaccf8394248420800000000000000
+      internalID: 2631268298482559936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2310
+        width: 460
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33415c4b70ca81ca0800000000000000
+      internalID: -6045893350647327693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_12
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2310
+        width: 463
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688fff97d7bd40280800000000000000
+      internalID: -9077889616907863930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_13
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 2310
+        width: 464
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a366553eb876b5410800000000000000
+      internalID: 1466879954151368250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1850
+        width: 462
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7eb3ec4d0cebd60800000000000000
+      internalID: 7907970015934801824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1850
+        width: 460
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ecfb289d6c2130800000000000000
+      internalID: 3543327507174189018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_16
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1850
+        width: 456
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b9c1d592fbd7120800000000000000
+      internalID: 2413295159717174092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1843
+        width: 451
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1123dc1963d93ae20800000000000000
+      internalID: 3360702604648460817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_18
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1835
+        width: 438
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb13c9b8a85018650800000000000000
+      internalID: 6233269451863372222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1375
+        width: 429
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4716bb8284a28190800000000000000
+      internalID: -7961620310640945330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1375
+        width: 424
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b5a261f44418c50800000000000000
+      internalID: 6665684029950024489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_21
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1375
+        width: 422
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3c12c2aee8edd0800000000000000
+      internalID: -2456451213921861777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_22
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1370
+        width: 419
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6858cf52563e92ca0800000000000000
+      internalID: -6041047401572301434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_23
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1370
+        width: 418
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bd3d747a55e0670800000000000000
+      internalID: 8506830923102411587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 909
+        width: 415
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54afdf712689bc5b0800000000000000
+      internalID: -5347012585495594427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_25
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 915
+        width: 419
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7f38e55b3d6b30800000000000000
+      internalID: 4282144060853943526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_26
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 915
+        width: 416
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520281b9a42941460800000000000000
+      internalID: 7211549752454291493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_27
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 916
+        width: 419
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004987d36d60effc0800000000000000
+      internalID: -3459319946549881856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_28
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 923
+        width: 419
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa581187e841fc8a0800000000000000
+      internalID: -6282780353026226774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 470
+        width: 415
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e573f9c40088280800000000000000
+      internalID: -9040975922857550267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 470
+        width: 423
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7440ab5f1f25d0800000000000000
+      internalID: -3085212741334172287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_31
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 470
+        width: 416
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443e8d99bf3adf480800000000000000
+      internalID: -8863748190582021308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_32
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 470
+        width: 415
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb8998b9f92f8ea0800000000000000
+      internalID: -5868425636919800882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_33
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 463
+        width: 415
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8d6e0b4cef2edc0800000000000000
+      internalID: -3611043830462752600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 419
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c596de237823d500800000000000000
+      internalID: 419723665447753154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_35
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3
+        width: 419
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4115953fea09aa0800000000000000
+      internalID: -6156228330416696065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_36
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 10
+        width: 416
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd479b5c3244db0b0800000000000000
+      internalID: -5711333832004111137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheild_37
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 2305
+        width: 452
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1682dc739d36ae4bbab11d6ff5a5d6d
+      internalID: -996009855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b789b67db1a828e45bef1d34732364e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sheild_0: -6395364460193760038
+      sheild_1: 1803595000408412862
+      sheild_10: 2631268298482559936
+      sheild_11: -6045893350647327693
+      sheild_12: -9077889616907863930
+      sheild_13: 1466879954151368250
+      sheild_14: 7907970015934801824
+      sheild_15: 3543327507174189018
+      sheild_16: 2413295159717174092
+      sheild_17: 3360702604648460817
+      sheild_18: 6233269451863372222
+      sheild_19: -7961620310640945330
+      sheild_2: 3983797245062202103
+      sheild_20: 6665684029950024489
+      sheild_21: -2456451213921861777
+      sheild_22: -6041047401572301434
+      sheild_23: 8506830923102411587
+      sheild_24: -5347012585495594427
+      sheild_25: 4282144060853943526
+      sheild_26: 7211549752454291493
+      sheild_27: -3459319946549881856
+      sheild_28: -6282780353026226774
+      sheild_29: -9040975922857550267
+      sheild_3: -8780508732348931862
+      sheild_30: -3085212741334172287
+      sheild_31: -8863748190582021308
+      sheild_32: -5868425636919800882
+      sheild_33: -3611043830462752600
+      sheild_34: 419723665447753154
+      sheild_35: -6156228330416696065
+      sheild_36: -5711333832004111137
+      sheild_37: -996009855
+      sheild_4: -5485438566258242940
+      sheild_5: 4785332985843147339
+      sheild_6: -8366815330455761367
+      sheild_7: 262494638822654957
+      sheild_8: 9217153194630228452
+      sheild_9: 7377786513664202216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

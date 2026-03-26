@@ -34,7 +34,7 @@ public class InventoryLoader : MonoBehaviour
     }
     void Start()
     {
-        url = "https://userservice-production-fd72.up.railway.app/api/inventory?userId=" + PlayerSession.UserId;
+        url = ApiConfigLoader.Config.baseUrl+ "/api/inventory?userId=" + PlayerSession.UserId;
         StartCoroutine(LoadInventory());
     }
     public EquipmentResponse equipmentData;

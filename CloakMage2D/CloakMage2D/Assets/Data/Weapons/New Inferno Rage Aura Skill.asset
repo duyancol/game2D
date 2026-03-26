@@ -15,11 +15,11 @@ MonoBehaviour:
   skillName: 
   castType: 0
   skillIcon: {fileID: 2916480070557992644, guid: d2477f75e70ad204b86181f1b082a2f6, type: 3}
+  useType: 0
   cooldown: 32
   duration: 7
   attackPercentBonus: 0.3
   healPercentPerSecond: 0.07
-  skillCooldown: 32
   auraVFXPrefab: {fileID: 198264572545909543, guid: 2656e09cccc4112489e21153bcb6bb41, type: 3}
   healVFXPrefab: {fileID: 5928732062589158914, guid: f1c665964f004a74197d29b03ff71924, type: 3}
   auraRadius: 12
@@ -27,7 +27,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   baseDamagePerTick: 10
-  atkScale: 0.5
+  atkScale: 0
   smptScale: 0.5
   damageType: 1
   canCrit: 1

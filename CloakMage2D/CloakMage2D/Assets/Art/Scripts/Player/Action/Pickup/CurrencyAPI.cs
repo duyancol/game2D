@@ -11,7 +11,7 @@ public class CurrencyResponse
 
 public class CurrencyAPI : MonoBehaviour
 {
-    string apiUrl = "https://userservice-production-fd72.up.railway.app/api/currency/";
+   
     void Awake()
     {
         DontDestroyOnLoad(gameObject);
@@ -44,7 +44,8 @@ public class CurrencyAPI : MonoBehaviour
     //}
     IEnumerator GetCurrency(int playerId)
     {
-        string url = apiUrl + playerId;
+       
+        string url = ApiConfigLoader.Config.baseUrl + "/api/currency/" + playerId;
 
         Debug.Log("Request URL: " + url);
 

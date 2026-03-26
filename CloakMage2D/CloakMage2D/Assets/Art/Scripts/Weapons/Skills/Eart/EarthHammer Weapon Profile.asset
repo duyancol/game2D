@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb4435d334cbcf347badd8b4b36e1d29, type: 3}
+  m_Name: EarthHammer Weapon Profile
+  m_EditorClassIdentifier: 
+  weaponId: eqip_eart
+  weaponName: Earth Hammer
+  uiIcon: {fileID: -2335007087849102602, guid: 54f2e8a24a5c84c49bc76a9450afe785, type: 3}
+  weaponSprite: {fileID: -2335007087849102602, guid: 54f2e8a24a5c84c49bc76a9450afe785, type: 3}
+  localPos: {x: 0, y: -1, z: 0}
+  localRotZ: -60
+  localScale: {x: 0.8, y: 0.8, z: 2}
+  auraPrefab: {fileID: 3405295111263885974, guid: b8081aa75ef61414bb60ae81baaea831, type: 3}
+  auraLocalPos: {x: 0, y: 0, z: 0}
+  auraLocalRot: {x: 0, y: 0, z: 0}
+  auraLocalScale: {x: 1, y: 1, z: 1}
+  armPrefab: {fileID: 3115401834897509721, guid: 51fe6cff4d7c43245b1d9244c77354f9, type: 3}
+  bonus:
+    addMaxHP: 0
+    addAtk: 460
+    addSmpt: 0
+    addCritChance: 0.12
+    addCritDamage: 0.45
+    addDef: 0.3
+    addMdef: 0
+  level: 100
+  enhanceLevel: 6
+  exp: 0
+  ascend: 4
+  primarySkill: {fileID: 11400000, guid: b02b236a8bfca2d41ae833447b4a5823, type: 2}
+  secondarySkill: {fileID: 11400000, guid: 456a9e41122ca414cbc57b80c0c988b2, type: 2}
+  ultimateSkill: {fileID: 11400000, guid: 3ceb6d6af8cf98a4d803385b8f0e07c4, type: 2}
+  passiveSkill: {fileID: 11400000, guid: 5c4a2c2050f8197499c2324a3019c775, type: 2}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c95de40486d3d1443aed747eee496890, type: 3}
+  m_Name: Earth Hammer Basic Attack
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 0
+  skillIcon: {fileID: 2209968156052338941, guid: 8c9004154d94f924eb6da81682d899d1, type: 3}
+  cooldown: 1
+  hit1RightPrefab: {fileID: 5359125635950371762, guid: 808b27144a347f94384c607aa5289303, type: 3}
+  hit1LeftPrefab: {fileID: 5359125635950371762, guid: b2c0e0d3c3204dc41a6133a40624b52c, type: 3}
+  hit2RightPrefab: {fileID: 5359125635950371762, guid: c76695ce5cd522847ae1e47e635ba3eb, type: 3}
+  hit2LeftPrefab: {fileID: 5359125635950371762, guid: c76695ce5cd522847ae1e47e635ba3eb, type: 3}
+  slamPrefab: {fileID: 5359125635950371762, guid: 7cad307c83285ee4288b8fddd46fba3e, type: 3}
+  maxCombo: 3
+  comboResetTime: 1.2
+  attackDelay: 0.6
+  lifeTime: 0.6
+  range: 1.4
+  aoeRadius: 2.2
+  damage: 80
+  atkScale: 1.2
+  smptScale: 0
+  damageType: 0
+  canCrit: 1
+  hpScale: 0.00005

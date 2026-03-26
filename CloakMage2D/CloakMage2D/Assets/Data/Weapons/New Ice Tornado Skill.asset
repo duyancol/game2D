@@ -23,7 +23,7 @@ MonoBehaviour:
   smptScale: 0.5
   damageType: 1
   canCrit: 1
-  hitVfxPrefab: {fileID: 8520959635160816606, guid: fc805c2fdb29e70419e8880267fa5a30, type: 3}
+  hitVfxPrefab: {fileID: 6942700015402971325, guid: 4b31137b04e8bc947b962eb0a356cd28, type: 3}
   radius: 1.8
   hitMask:
     serializedVersion: 2

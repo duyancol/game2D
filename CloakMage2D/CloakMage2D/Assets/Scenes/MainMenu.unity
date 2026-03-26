@@ -3699,7 +3699,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -395.99997, y: 0}
+  m_AnchoredPosition: {x: -396, y: 0}
   m_SizeDelta: {x: -931.55, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1041606667
@@ -5250,6 +5250,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6526270432245045133, guid: d74a02bba55a55f41933e82a4b50db1b, type: 3}
+      propertyPath: loadout.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526270432245045133, guid: d74a02bba55a55f41933e82a4b50db1b, type: 3}
       propertyPath: 'loadout.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: b044fdec2cd2112409d7976b9589b903, type: 2}
@@ -5261,6 +5265,10 @@ PrefabInstance:
       propertyPath: 'loadout.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: ca58054209fc9844ba91becc9a0f6a14, type: 2}
+    - target: {fileID: 6526270432245045133, guid: d74a02bba55a55f41933e82a4b50db1b, type: 3}
+      propertyPath: 'loadout.Array.data[4]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 36633500ea2a08341a82e9d4f085fe2d, type: 2}
     - target: {fileID: 6710613536296438146, guid: d74a02bba55a55f41933e82a4b50db1b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.63758427
@@ -5575,7 +5583,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -381.99997, y: 212.99}
+  m_AnchoredPosition: {x: -382, y: 212.99}
   m_SizeDelta: {x: -969.88, y: -425.97}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1569865148

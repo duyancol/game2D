@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   weaponId: eqip_sword
   weaponName: "\u0110ao R\u1EF1c L\u1EEDa"
-  uiIcon: {fileID: 21300000, guid: 704d63227b81d824aa9a12d640979179, type: 3}
-  weaponSprite: {fileID: 21300000, guid: 704d63227b81d824aa9a12d640979179, type: 3}
-  localPos: {x: 0, y: -1, z: 0}
-  localRotZ: -90
-  localScale: {x: 0.7, y: 0.7, z: 2}
+  uiIcon: {fileID: 21300000, guid: feada097072f44143aede1a6582e1a39, type: 3}
+  weaponSprite: {fileID: 21300000, guid: feada097072f44143aede1a6582e1a39, type: 3}
+  localPos: {x: 2, y: -1, z: 0}
+  localRotZ: -30
+  localScale: {x: 0.8, y: 0.8, z: 2}
   auraPrefab: {fileID: 3405295111263885974, guid: 404b68031315ca0449bff813e30b349f, type: 3}
   auraLocalPos: {x: 0, y: 0, z: 0}
   auraLocalRot: {x: 0, y: 0, z: 0}

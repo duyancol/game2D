@@ -70,7 +70,7 @@ public class ItemPickup : MonoBehaviour
 
         string json = JsonUtility.ToJson(reqData);
 
-        UnityWebRequest req = new UnityWebRequest(apiUrl, "POST");
+        UnityWebRequest req = new UnityWebRequest(ApiConfigLoader.Config.baseUrl+ "/api/inventory/add", "POST");
         byte[] bodyRaw = Encoding.UTF8.GetBytes(json);
 
         req.uploadHandler = new UploadHandlerRaw(bodyRaw);

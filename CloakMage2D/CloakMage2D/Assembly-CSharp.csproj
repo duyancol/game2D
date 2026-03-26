@@ -76,29 +76,36 @@
     <Compile Include="Assets\Art\Scripts\Player\SkillCoroutineRunner.cs" />
     <Compile Include="Assets\Art\Scripts\Player\ArmWeaponController.cs" />
     <Compile Include="Assets\MainMenu\Inventory\API\InventoryLoader.cs" />
+    <Compile Include="Assets\Art\Scripts\Character\CharacterProfile.cs" />
     <Compile Include="Assets\Art\Boss\Boss_Ant_Gold\BossAntChaseTrip.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\PlayerController.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Skills\CubeMeteorProjectile.cs" />
     <Compile Include="Assets\Login\Scrip\User\PlayerSession.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Grean\WindSpearProjectile.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Skills\ShootGreenAbyssSpearSkill.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Grean\BloodFrenzyPassive.cs" />
     <Compile Include="Assets\Art\Scripts\Boss\BossRed\BossMoveAndIdle2D.cs" />
     <Compile Include="Assets\MainMenu\Equipment\StatType.cs" />
     <Compile Include="Assets\GoogleSignIn\Impl\BaseObject.cs" />
     <Compile Include="Assets\Art\Character\Aura\RotateObject.cs" />
     <Compile Include="Assets\Art\Player\PlayerIdleOnly.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Eart\Skill_Cript\EarthAxeSlamSkill.cs" />
     <Compile Include="Assets\Art\Player\WeaponController_SwitchOnly.cs" />
     <Compile Include="Assets\MainMenu\MenuUI.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Projectiles\skill\SkillAimButton.cs" />
     <Compile Include="Assets\Art\Scripts\Boss\Skill\ProjectileRotateToVelocity2D.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Skills\UltimateCubeMeteorSkill.cs" />
+    <Compile Include="Assets\Resources\ApiConfigLoader.cs" />
     <Compile Include="Assets\MainMenu\Inventory\InventoryUI.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Art\Scripts\UI\ChargeBarWorld.cs" />
     <Compile Include="Assets\MainMenu\Inventory\InventoryTest.cs" />
     <Compile Include="Assets\Art\Boss\Boss_Buffolow\BossBuffolMoveAndIdle2D.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Grean\SpearComboMoveSkill.cs" />
     <Compile Include="Assets\Art\Character\Weapons\SpaceStaff\Arm\ArmAimFlip.cs" />
     <Compile Include="Assets\GoogleSignIn\GoogleSignInStatusCode.cs" />
     <Compile Include="Assets\GoogleSignIn\GoogleSignInUser.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Eart\EarthHammerBasicAttack.cs" />
     <Compile Include="Assets\GoogleSignIn\GoogleSignInConfiguration.cs" />
     <Compile Include="Assets\Art\Character\Arms\ArmAimFlip.cs" />
     <Compile Include="Assets\MainMenu\Equipment\EquipmentSlot.cs" />
@@ -130,15 +137,18 @@
     <Compile Include="Assets\Art\Scripts\Weapons\Skills\SwordComboMoveSkill.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Interfaces\IChargeSkill.cs" />
     <Compile Include="Assets\Art\Scripts\Player\ProjectileDamage.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Projectiles\skill\BulletImpactNear.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\WP_LV\WeaponInstance.cs" />
     <Compile Include="Assets\Login\Scrip\BackgroundMove.cs" />
     <Compile Include="Assets\MainMenu\HideInventoryButtonInMenu.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Skills\Cung Ánh Sáng\DivineMarkUI.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Grean\UltimateWindSpearSkill.cs" />
     <Compile Include="Assets\Art\Scripts\Boss\BossGreen\BossIdleMotion.cs" />
     <Compile Include="Assets\MainMenu\GameBootstrap.cs" />
     <Compile Include="Assets\Art\Scripts\Player\BonusWeaponsUpPlayer\StatBonus.cs" />
     <Compile Include="Assets\Art\Scripts\Player\AuraRotate.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Eart\Skill_Cript\EnergyShieldArea.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Projectiles\IceTornadoProjectile.cs" />
     <Compile Include="Assets\Art\Scripts\Boss\Skill\BossShooter.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\SkillButton.cs" />
@@ -149,9 +159,11 @@
     <Compile Include="Assets\MainMenu\Inventory\EffUsing\ItemPanelUI.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Projectiles\BulletImpact.cs" />
     <Compile Include="Assets\GoogleSignIn\Future.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Grean\AbyssDashBackStabSkill.cs" />
     <Compile Include="Assets\MainMenu\Equipment\ItemRarity.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Skills\Cung Ánh Sáng\DivineMarkRuntime.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\SkillSlotUI.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Eart\Skill_Cript\EarthResonancePassive.cs" />
     <Compile Include="Assets\MainMenu\Inventory\API\PlayerEquipmentLoader.cs" />
     <Compile Include="Assets\MainMenu\Inventory\ItemSO.cs" />
     <Compile Include="Assets\MainMenu\Equipment\API\EquipmentModels.cs" />
@@ -160,6 +172,7 @@
     <Compile Include="Assets\MainMenu\Equipment\EquipmentInstance.cs" />
     <Compile Include="Assets\GoogleSignIn\Impl\GoogleSignInImpl.cs" />
     <Compile Include="Assets\Art\Scripts\Player\PlayerStatsMono.cs" />
+    <Compile Include="Assets\Art\Scripts\Character\CharacterVisualRefs.cs" />
     <Compile Include="Assets\Login\Scrip\FirebaseInit\FirebaseInit.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\SkillAimJoystick.cs" />
     <Compile Include="Assets\Art\Boss\Boss_Buffolow\SlashVfxArc.cs" />
@@ -189,11 +202,14 @@
     <Compile Include="Assets\Art\Scripts\Player\PlayerHealth.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Skills\Cung Ánh Sáng\DivineMarkPassive.cs" />
     <Compile Include="Assets\Art\Scripts\Boss\Skill\BossStunHit.cs" />
+    <Compile Include="Assets\Art\Scripts\Character\Character\ClothSwaySimple.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+    <Compile Include="Assets\Art\Scripts\Character\CharacterTestSwitcher.cs" />
     <Compile Include="Assets\Art\Scripts\Player\Action\Pickup\GoldUI.cs" />
     <Compile Include="Assets\Art\Scripts\UI\AutoHideUI.cs" />
     <Compile Include="Assets\Art\Scripts\Player\Action\Pickup\ItemPickup.cs" />
     <Compile Include="Assets\MainMenu\Inventory\InventorySystem.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Projectiles\skill\EnergyShield.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
     <Compile Include="Assets\MainMenu\Equipment\EquipmentGenerator.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\Skills\Kiếm lửa\InfernoRebirthPassive.cs" />
@@ -201,18 +217,22 @@
     <Compile Include="Assets\Art\Scripts\Boss\BossGreen\BossStun.cs" />
     <Compile Include="Assets\Art\Scripts\Player\PlayerMovePlatformer2D.cs" />
     <Compile Include="Assets\GoogleSignIn\Impl\SignInHelperObject.cs" />
+    <Compile Include="Assets\Login\Scrip\ApiConfigSO.cs" />
     <Compile Include="Assets\Art\Scripts\Boss\BossGreen\BossHitFX.cs" />
     <Compile Include="Assets\Art\Scripts\Player\AutoDestroy.cs" />
+    <Compile Include="Assets\Art\Scripts\Weapons\Skills\Eart\Skill_Cript\EarthCrackArea.cs" />
     <Compile Include="Assets\Login\Scrip\GoogleLogin.cs" />
     <Compile Include="Assets\Art\Scripts\UI\GameOverUI.cs" />
     <Compile Include="Assets\Art\Scripts\Weapons\SkillBarUI.cs" />
     <Compile Include="Assets\Art\Scripts\Player\Action\Pickup\GameManager.cs" />
     <Compile Include="Assets\Art\Scripts\Boss\DamagePopup.cs" />
     <Compile Include="Assets\Art\Character\Weapons\SpaceStaff\Arm\Arm3PartAttack.cs" />
+    <Compile Include="Assets\Art\Scripts\Character\PlayerCharacterController.cs" />
     <Compile Include="Assets\Art\Scripts\Player\DamageCore.cs" />
     <Compile Include="Assets\Art\Scripts\Player\AoeDamage.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Eric VFX Studio\Resource\Shader\AlphaBlendFlow.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
@@ -240,6 +260,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Firebase\Plugins\iOS\Firebase.Auth.dll" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Eric VFX Studio\Free Game VFX\Readme.txt" />
     <None Include="Assets\Firebase\Plugins\Firebase.AppCheck.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Firebase\Plugins\Firebase.Platform.dll" />
@@ -247,6 +268,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\Firebase\Plugins\Google.MiniJson.dll" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\Eric VFX Studio\Resource\Shader\AdditiveFlow.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\Firebase\Plugins\iOS\Firebase.App.dll" />
     <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-appcheck-unity\maven-metadata.xml" />
@@ -1337,12 +1359,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.2D.Aseprite.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.Aseprite.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Multiplayer.Center.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Aseprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Aseprite.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Splines">
@@ -1425,20 +1447,16 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Collections.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Collections.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualEffectGraph.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.2D.Tilemap.Extras.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
+    <Reference Include="Unity.Collections.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Collections.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    <Reference Include="Unity.2D.Tilemap.Extras.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
@@ -1451,6 +1469,10 @@
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Common">
       <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">

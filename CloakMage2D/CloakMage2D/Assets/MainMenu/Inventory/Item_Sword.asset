@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: eqip_sword
   itemName: Sword
-  icon: {fileID: 21300000, guid: 704d63227b81d824aa9a12d640979179, type: 3}
+  icon: {fileID: 21300000, guid: feada097072f44143aede1a6582e1a39, type: 3}
   useEffect: {fileID: 0}
   itemType: 0
   description: 
+  equipmentProfile: {fileID: 0}
   weaponProfile: {fileID: 11400000, guid: c98d94a025b7ce042b9e74b42cd350e5, type: 2}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8152fee898b44a24c969f9e7d02a315c, type: 3}
+  m_Name: Spear Combo Move Skill
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 0
+  skillIcon: {fileID: -6458303745541800691, guid: 79536aff529aea54797ef038c7433225, type: 3}
+  useType: 0
+  cooldown: 0.4
+  comboWindow: 1.2
+  stepCooldown: 0.45
+  inputBuffer: 0.25
+  hit1Windup: 0.05
+  hit2Windup: 0.05
+  hit3Windup: 0.05
+  stabPrefabR: {fileID: 7803287873970336316, guid: d6bb28d6e98580f47b611e4ef701adf3, type: 3}
+  sweepPrefabR: {fileID: 1995517186354061980, guid: cf7f4bcbe01b03043bc74263bfa1dca2, type: 3}
+  spinPrefabR: {fileID: 4842298006679490207, guid: 57b35d811cc06044897d36b7e67d69b4, type: 3}
+  stabPrefabL: {fileID: 7803287873970336316, guid: 7648c66da1b72564289ff7e6d4315e47, type: 3}
+  sweepPrefabL: {fileID: 1995517186354061980, guid: 437e524022f52224b8f41b1f22d607eb, type: 3}
+  spinPrefabL: {fileID: 4842298006679490207, guid: 57b35d811cc06044897d36b7e67d69b4, type: 3}
+  stabOffset: {x: 0.9, y: 0.15, z: 0}
+  sweepOffset: {x: 1, y: 0.2, z: 0}
+  spinOffset: {x: 0, y: 0, z: 0}
+  stabLife: 0.5
+  sweepLife: 0.5
+  spinLife: 0.5
+  damageType: 0
+  canCrit: 1
+  smptScale: 0
+  stabDamage: 30
+  stabAtkScale: 0.2
+  sweepDamage: 50
+  sweepAtkScale: 0.3
+  spinDamage: 80
+  spinAtkScale: 0.4

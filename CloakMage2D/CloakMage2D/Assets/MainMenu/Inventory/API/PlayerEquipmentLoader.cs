@@ -16,7 +16,7 @@ public class PlayerEquipmentLoader : MonoBehaviour
     IEnumerator LoadEquipped()
     {
         yield return null;   // đợi UI init xong
-        string url = "https://userservice-production-fd72.up.railway.app/api/equipment/equipped?userId=" + PlayerSession.UserId;
+        string url = ApiConfigLoader.Config.baseUrl+ "/api/equipment/equipped?userId=" + PlayerSession.UserId;
 
         UnityWebRequest request = UnityWebRequest.Get(url);
 

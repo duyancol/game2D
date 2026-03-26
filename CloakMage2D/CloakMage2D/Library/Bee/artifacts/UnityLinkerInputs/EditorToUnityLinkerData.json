@@ -11,6 +11,13 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "ApiConfigSO",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "AppleTree",
             "moduleName": "",
             "usedInScenes": []
@@ -151,6 +158,13 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "BulletImpactNear",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "ButterflyAnimation",
             "moduleName": "",
             "usedInScenes": []
@@ -233,6 +247,34 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EarthAxeSlamSkill",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EarthCrackArea",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EarthHammerBasicAttack",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EarthResonancePassive",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "",
             "nativeClass": "EditorExtension",
             "fullManagedTypeName": "",
@@ -243,6 +285,20 @@
                 "Assets/Scenes/MainMenu.unity",
                 "Assets/Scenes/Map_Grassland.unity"
             ]
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EnergyShield",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "EnergyShieldArea",
+            "moduleName": "",
+            "usedInScenes": []
         },
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
@@ -1021,6 +1077,17 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Collider",
+            "fullManagedTypeName": "UnityEngine.Collider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Scenes/GlobalUI.unity",
+                "Assets/Scenes/MainMenu.unity",
+                "Assets/Scenes/Map_Grassland.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Collider2D",
             "fullManagedTypeName": "UnityEngine.Collider2D",
             "moduleName": "Physics2D",
@@ -1048,11 +1115,7 @@
             "nativeClass": "ComputeShader",
             "fullManagedTypeName": "UnityEngine.ComputeShader",
             "moduleName": "Core",
-            "usedInScenes": [
-                "Assets/Scenes/GlobalUI.unity",
-                "Assets/Scenes/MainMenu.unity",
-                "Assets/Scenes/Map_Grassland.unity"
-            ]
+            "usedInScenes": []
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
@@ -1201,10 +1264,34 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshCollider",
+            "fullManagedTypeName": "UnityEngine.MeshCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Scenes/GlobalUI.unity",
+                "Assets/Scenes/MainMenu.unity",
+                "Assets/Scenes/Map_Grassland.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshFilter",
+            "fullManagedTypeName": "UnityEngine.MeshFilter",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/GlobalUI.unity",
+                "Assets/Scenes/MainMenu.unity",
+                "Assets/Scenes/Map_Grassland.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "MeshRenderer",
             "fullManagedTypeName": "UnityEngine.MeshRenderer",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/GlobalUI.unity",
+                "Assets/Scenes/MainMenu.unity",
                 "Assets/Scenes/Map_Grassland.unity"
             ]
         },
@@ -1985,55 +2072,11 @@
             "usedInScenes": []
         },
         {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "VFXRenderer",
-            "fullManagedTypeName": "UnityEngine.VFX.VFXRenderer",
-            "moduleName": "VFX",
-            "usedInScenes": [
-                "Assets/Scenes/GlobalUI.unity",
-                "Assets/Scenes/MainMenu.unity",
-                "Assets/Scenes/Map_Grassland.unity"
-            ]
-        },
-        {
             "managedAssemblyName": "Unity.VisualEffectGraph.Runtime.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.VFX.VFXRuntimeResources",
             "moduleName": "",
             "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "VisualEffect",
-            "fullManagedTypeName": "UnityEngine.VFX.VisualEffect",
-            "moduleName": "VFX",
-            "usedInScenes": [
-                "Assets/Scenes/GlobalUI.unity",
-                "Assets/Scenes/MainMenu.unity",
-                "Assets/Scenes/Map_Grassland.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "VisualEffectAsset",
-            "fullManagedTypeName": "UnityEngine.VFX.VisualEffectAsset",
-            "moduleName": "VFX",
-            "usedInScenes": [
-                "Assets/Scenes/GlobalUI.unity",
-                "Assets/Scenes/MainMenu.unity",
-                "Assets/Scenes/Map_Grassland.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "VisualEffectObject",
-            "fullManagedTypeName": "UnityEngine.VFX.VisualEffectObject",
-            "moduleName": "VFX",
-            "usedInScenes": [
-                "Assets/Scenes/GlobalUI.unity",
-                "Assets/Scenes/MainMenu.unity",
-                "Assets/Scenes/Map_Grassland.unity"
-            ]
         },
         {
             "managedAssemblyName": "Assembly-CSharp.dll",

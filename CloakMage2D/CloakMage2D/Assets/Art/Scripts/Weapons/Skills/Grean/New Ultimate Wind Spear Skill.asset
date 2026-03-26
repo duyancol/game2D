@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef056ba35c93fe3468bb73ca56859cc3, type: 3}
+  m_Name: New Ultimate Wind Spear Skill
+  m_EditorClassIdentifier: 
+  skillName: 
+  castType: 1
+  skillIcon: {fileID: 1271053951166968255, guid: 79536aff529aea54797ef038c7433225, type: 3}
+  useType: 1
+  cooldown: 8
+  spearPrefab: {fileID: -6949446346940894679, guid: 433d1c30577de584fac7a317ef818340, type: 3}
+  stabPrefab: {fileID: 5250413696058144097, guid: 16a8520280d7f1e47a4388d62d51971c, type: 3}
+  stabMuzzleOffset: 0.6
+  stabThrustDistance: 2.2
+  stabThrustDuration: 0.18
+  stabHitLife: 0.5
+  windBallPrefab: {fileID: 7422795512090198590, guid: 4b0ab47387f0cab49887c4320440f9b9, type: 3}
+  vortexVfx: {fileID: 4230533699123781479, guid: 86e6c7d81766295418601bcd9d9ae6b9, type: 3}
+  vortexDuration: 4
+  vortexRadius: 12
+  pullForce: 25
+  hitMask:
+    serializedVersion: 2
+    m_Bits: 64
+  dashSpeed: 50
+  stabDuration: 0.1
+  stabInterval: 0.1
+  rainCount: 5
+  rainInterval: 0.2
+  rainHeight: 6
+  rainRadius: 2.5
+  damage: 150
+  atkScale: 0.5
+  smptScale: 0
+  damageType: 0
+  canCrit: 1
+  recastWindow: 4
+  stabFanAngle: 30
+  stabFanCount: 3

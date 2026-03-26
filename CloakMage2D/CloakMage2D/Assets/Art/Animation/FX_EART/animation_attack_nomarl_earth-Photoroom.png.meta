@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 073492568508daa4b9993e12f946a6c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4240358186628452239
+    second: animation_attack_nomarl_earth-Photoroom_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation_attack_nomarl_earth-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 546
+        width: 250
+        height: 219
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.07453507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170779512b83725c0800000000000000
+      internalID: -4240358186628452239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_attack_nomarl_earth-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 546
+        width: 253
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5187899, y: 0.065852195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3d74dc54c80b4aa0d43dff8567c6d
+      internalID: 522422228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_attack_nomarl_earth-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 548
+        width: 247
+        height: 215
+      alignment: 9
+      pivot: {x: 0.507516, y: 0.07887665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1291f47f07699974ab06777c3a95ff10
+      internalID: 538312836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_attack_nomarl_earth-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 315
+        width: 250
+        height: 227
+      alignment: 9
+      pivot: {x: 0.46241954, y: 0.074649476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39580c8d494ef64ba46a8c22e01fc16
+      internalID: 1403130319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_attack_nomarl_earth-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 313
+        width: 252
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5182896da96297b418766ed46da859e7
+      internalID: 764114656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_attack_nomarl_earth-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 245
+        height: 269
+      alignment: 9
+      pivot: {x: 0.46908018, y: 0.068789184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0371e86ddabc9e4189f8f1bece04e55
+      internalID: -195596703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_attack_nomarl_earth-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 309
+        width: 246
+        height: 229
+      alignment: 9
+      pivot: {x: 0.4574853, y: 0.12271721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff516a3e21797744e9a9abfdb59c7ede
+      internalID: 517563020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf6de6529ad87ba44aa73a45f749234d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animation_attack_nomarl_earth-Photoroom_0: -4240358186628452239
+      animation_attack_nomarl_earth-Photoroom_1: 522422228
+      animation_attack_nomarl_earth-Photoroom_2: 538312836
+      animation_attack_nomarl_earth-Photoroom_3: 1403130319
+      animation_attack_nomarl_earth-Photoroom_4: 764114656
+      animation_attack_nomarl_earth-Photoroom_5: -195596703
+      animation_attack_nomarl_earth-Photoroom_6: 517563020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

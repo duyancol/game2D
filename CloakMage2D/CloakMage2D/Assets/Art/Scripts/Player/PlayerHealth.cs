@@ -34,10 +34,31 @@ public class PlayerHealth : MonoBehaviour, IDamageable
             invTimer -= Time.deltaTime;
     }
 
+    //public void TakeDamage(int amount)
+    //{
+    //    if (amount <= 0) return;
+    //    if (invTimer > 0f) return;
+
+    //    invTimer = invincibleTime;
+
+    //    stats.hp = Mathf.Clamp(stats.hp - amount, 0, stats.maxHP);
+    //    onHpChanged?.Invoke(stats.hp, stats.maxHP);
+
+    //    if (stats.hp <= 0)
+    //        onDied?.Invoke();
+    //}
     public void TakeDamage(int amount)
     {
         if (amount <= 0) return;
         if (invTimer > 0f) return;
+
+        var shield = GetComponentInChildren<EnergyShieldArea>();
+        if (shield != null)
+        {
+            amount = shield.AbsorbDamage(amount);
+        }
+
+        if (amount <= 0) return;
 
         invTimer = invincibleTime;
 
@@ -47,7 +68,6 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         if (stats.hp <= 0)
             onDied?.Invoke();
     }
-
     public void Heal(int amount)
     {
         if (amount <= 0) return;

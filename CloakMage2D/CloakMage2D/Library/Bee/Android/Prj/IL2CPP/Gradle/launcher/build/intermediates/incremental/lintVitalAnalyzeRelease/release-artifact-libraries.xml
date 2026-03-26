@@ -1,10 +1,10 @@
 <libraries>
   <library
       name=":@@:unityLibrary::release"
-      jars="C:\Users\anvt1\.gradle\caches\8.11\transforms\35ba0d6160248b7f667ec5e694333b44\transformed\out\jars\classes.jar;C:\Users\anvt1\.gradle\caches\8.11\transforms\35ba0d6160248b7f667ec5e694333b44\transformed\out\jars\libs\R.jar;C:\Users\anvt1\.gradle\caches\8.11\transforms\35ba0d6160248b7f667ec5e694333b44\transformed\out\jars\libs\unity-classes.jar"
+      jars="C:\Users\anvt1\.gradle\caches\8.11\transforms\c74b8979fcdd9d60083284a4437aec99\transformed\out\jars\classes.jar;C:\Users\anvt1\.gradle\caches\8.11\transforms\c74b8979fcdd9d60083284a4437aec99\transformed\out\jars\libs\R.jar;C:\Users\anvt1\.gradle\caches\8.11\transforms\c74b8979fcdd9d60083284a4437aec99\transformed\out\jars\libs\unity-classes.jar"
       resolved="Gradle:unityLibrary:unspecified"
       partialResultsDir="D:\game2D\CloakMage2D\CloakMage2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out"
-      folder="C:\Users\anvt1\.gradle\caches\8.11\transforms\35ba0d6160248b7f667ec5e694333b44\transformed\out"
+      folder="C:\Users\anvt1\.gradle\caches\8.11\transforms\c74b8979fcdd9d60083284a4437aec99\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

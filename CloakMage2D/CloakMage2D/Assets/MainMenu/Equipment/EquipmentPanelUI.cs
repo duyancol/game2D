@@ -32,8 +32,8 @@ public class EquipmentPanelUI : MonoBehaviour
 
 
     [SerializeField]
-    private string detailUrl =
-    "https://userservice-production-fd72.up.railway.app/api/equipment/";
+    //private string detailUrl =
+   // "https://userservice-production-fd72.up.railway.app/api/equipment/";
 
     private bool isLoading = false;
     long currentEquipmentId;
@@ -90,7 +90,7 @@ public class EquipmentPanelUI : MonoBehaviour
 
         isLoading = true;
 
-        string url = detailUrl + equipmentId;
+        string url = ApiConfigLoader.Config.baseUrl+ "/api/equipment/" + equipmentId;
 
         UnityWebRequest request = UnityWebRequest.Get(url);
         yield return request.SendWebRequest();
@@ -390,10 +390,10 @@ public class EquipmentPanelUI : MonoBehaviour
         // ⭐ 1. UNEQUIP ITEM CŨ
         if (oldItemId != -1)
         {
-            string unequipUrl =
-            "https://userservice-production-fd72.up.railway.app/api/equipment/unequip/" + oldItemId;
+           
 
-            UnityWebRequest unequipReq = UnityWebRequest.PostWwwForm(unequipUrl, "");
+            UnityWebRequest unequipReq = UnityWebRequest.PostWwwForm(ApiConfigLoader.Config.baseUrl +
+            "/api/equipment/unequip/" + oldItemId, "");
 
             yield return unequipReq.SendWebRequest();
 
@@ -407,11 +407,10 @@ public class EquipmentPanelUI : MonoBehaviour
         }
 
         // ⭐ 2. EQUIP ITEM MỚI
-        string equipUrl =
-        "https://userservice-production-fd72.up.railway.app/api/equipment/equip/"
-        + newItemId + "?userId=" + userId;
 
-        UnityWebRequest equipReq = UnityWebRequest.PostWwwForm(equipUrl, "");
+
+        UnityWebRequest equipReq = UnityWebRequest.PostWwwForm(ApiConfigLoader.Config.baseUrl + "/api/equipment/equip/"
+        + newItemId + "?userId=" + userId, "");
 
         yield return equipReq.SendWebRequest();
 

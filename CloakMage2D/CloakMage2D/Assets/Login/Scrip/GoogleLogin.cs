@@ -9,9 +9,10 @@ using Firebase.Extensions;
 
 public class GoogleLogin : MonoBehaviour
 {
+   // string baseUrl = ApiConfigLoader.Config.baseUrl;
     private GoogleSignInConfiguration configuration;
 
-    private string API_BASE_URL = "https://userservice-production-fd72.up.railway.app";
+   // private string API_BASE_URL = "https://userservice-production-fd72.up.railway.app";
 
     void Awake()
     {
@@ -30,7 +31,7 @@ public class GoogleLogin : MonoBehaviour
 #if UNITY_EDITOR
         Debug.Log("Editor Mode → Skip Google Login");
 
-        PlayerSession.UserId = 1;
+        PlayerSession.UserId = 4;
         PlayerSession.JwtToken = "EDITOR_MODE_TOKEN";
 
         StartCoroutine(FullLoginFlow());
@@ -64,7 +65,7 @@ public class GoogleLogin : MonoBehaviour
     {
         Debug.Log("=== START AUTH API ===");
 
-        string url = API_BASE_URL + "/api/v1/auth/google";
+        string url = ApiConfigLoader.Config.baseUrl + "/api/v1/auth/google";
 
         string jsonBody = "{\"idToken\":\"" + idToken + "\"}";
         byte[] bodyRaw = Encoding.UTF8.GetBytes(jsonBody);
@@ -123,7 +124,7 @@ public class GoogleLogin : MonoBehaviour
     {
         Debug.Log("=== START LOAD PLAYER API ===");
 
-        string url = API_BASE_URL + "/api/player/" + PlayerSession.UserId;
+        string url = ApiConfigLoader.Config.baseUrl + "/api/player/" + PlayerSession.UserId;
 
         UnityWebRequest request = UnityWebRequest.Get(url);
        

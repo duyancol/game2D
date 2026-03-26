@@ -269,8 +269,8 @@ public class WeaponPanelUI : MonoBehaviour
     {
         string weaponId = _current.weaponId;
 
-        string url = $"{baseUrl}/api/weapons/{weaponId}/enhance?userId={userId}";
-
+       // string url = ApiConfigLoader.Config.baseUrl+"/api/weapons/{weaponId}/enhance?userId={userId}";
+        string url = $"{ApiConfigLoader.Config.baseUrl}/api/weapons/{weaponId}/enhance?userId={userId}";
         UnityWebRequest req = new UnityWebRequest(url, "POST");
         req.downloadHandler = new DownloadHandlerBuffer();
 
@@ -350,7 +350,20 @@ public class WeaponPanelUI : MonoBehaviour
     {
         string weaponId = _current.weaponId;
 
-        string url = $"{baseUrl}/api/weapons/equip?userId={userId}&itemId={weaponId}";
+        // string url = ApiConfigLoader.Config.baseUrl+"/api/weapons/equip?userId={userId}&itemId={weaponId}";
+        string url = $"{ApiConfigLoader.Config.baseUrl}/api/weapons/equip?userId={userId}&itemId={weaponId}";
+
+
+
+
+
+
+
+
+
+
+
+
 
         using (UnityWebRequest req = UnityWebRequest.PostWwwForm(url, ""))
         {
@@ -419,7 +432,8 @@ public class WeaponPanelUI : MonoBehaviour
     {
         if (_current == null) yield break;
 
-        string url = $"{baseUrl}/api/weapons/{_current.weaponId}?userId={userId}";
+        //string url = ApiConfigLoader.Config.baseUrl+ "/api/weapons/{_current.weaponId}?userId={userId}";
+        string url = $"{ApiConfigLoader.Config.baseUrl}/api/weapons/{_current.weaponId}?userId={userId}";
         UnityWebRequest req = UnityWebRequest.Get(url);
 
        

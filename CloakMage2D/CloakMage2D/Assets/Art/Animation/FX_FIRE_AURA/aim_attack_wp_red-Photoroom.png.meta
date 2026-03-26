@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 9c27dfe144efdd44ab4e32680e519abb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7063381066702220620
+    second: aim_attack_wp_red-Photoroom_0
+  - first:
+      213: -6730911339418714282
+    second: aim_attack_wp_red-Photoroom_1
+  - first:
+      213: 1319481465265978020
+    second: aim_attack_wp_red-Photoroom_2
+  - first:
+      213: -4413159392584653295
+    second: aim_attack_wp_red-Photoroom_3
+  - first:
+      213: 39765612272463584
+    second: aim_attack_wp_red-Photoroom_4
+  - first:
+      213: -2294990881391680433
+    second: aim_attack_wp_red-Photoroom_5
+  - first:
+      213: 932555983450699705
+    second: aim_attack_wp_red-Photoroom_6
+  - first:
+      213: -7270921977254488253
+    second: aim_attack_wp_red-Photoroom_7
+  - first:
+      213: 1407470748552063349
+    second: aim_attack_wp_red-Photoroom_8
+  - first:
+      213: -670362219917602113
+    second: aim_attack_wp_red-Photoroom_9
+  - first:
+      213: -397590314434051550
+    second: aim_attack_wp_red-Photoroom_10
+  - first:
+      213: -8641552876173861230
+    second: aim_attack_wp_red-Photoroom_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aim_attack_wp_red-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 233
+        height: 223
+      alignment: 9
+      pivot: {x: 0.59385407, y: 0.06937588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d610228ab260260800000000000000
+      internalID: 7063381066702220620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attack_wp_red-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 508
+        width: 285
+        height: 223
+      alignment: 9
+      pivot: {x: 0.32985947, y: 0.08643044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f7c477ccff692a0800000000000000
+      internalID: -6730911339418714282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attack_wp_red-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 247
+        width: 273
+        height: 223
+      alignment: 9
+      pivot: {x: 0.40248325, y: 0.09495757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaf3e8d66dbf4210800000000000000
+      internalID: 1319481465265978020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attack_wp_red-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 252
+        width: 347
+        height: 221
+      alignment: 9
+      pivot: {x: 0.3081994, y: 0.061176836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11620d31aee41c2c0800000000000000
+      internalID: -4413159392584653295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attack_wp_red-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 248
+        width: 348
+        height: 221
+      alignment: 9
+      pivot: {x: 0.2267863, y: 0.09129202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eea6c91d964d8000800000000000000
+      internalID: 39765612272463584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attack_wp_red-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6
+        width: 253
+        height: 221
+      alignment: 9
+      pivot: {x: 0.45114535, y: 0.065479234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4463e7e3fd8620e0800000000000000
+      internalID: -2294990881391680433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attack_wp_red-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 66
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579e23f4037588310800000000000000
+      internalID: 1407470748552063349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aim_attack_wp_red-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 5
+        width: 233
+        height: 208
+      alignment: 9
+      pivot: {x: 0.49183857, y: 0.03375057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ed6eba179031880800000000000000
+      internalID: -8641552876173861230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 09aed30fc6cd68c4cba6b057c30e1044
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aim_attack_wp_red-Photoroom_0: 7063381066702220620
+      aim_attack_wp_red-Photoroom_1: -6730911339418714282
+      aim_attack_wp_red-Photoroom_10: -397590314434051550
+      aim_attack_wp_red-Photoroom_11: -8641552876173861230
+      aim_attack_wp_red-Photoroom_2: 1319481465265978020
+      aim_attack_wp_red-Photoroom_3: -4413159392584653295
+      aim_attack_wp_red-Photoroom_4: 39765612272463584
+      aim_attack_wp_red-Photoroom_5: -2294990881391680433
+      aim_attack_wp_red-Photoroom_6: 932555983450699705
+      aim_attack_wp_red-Photoroom_7: -7270921977254488253
+      aim_attack_wp_red-Photoroom_8: 1407470748552063349
+      aim_attack_wp_red-Photoroom_9: -670362219917602113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

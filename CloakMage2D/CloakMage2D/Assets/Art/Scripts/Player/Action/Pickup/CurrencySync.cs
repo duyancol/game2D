@@ -45,8 +45,8 @@ public class CurrencySync : MonoBehaviour
     {
         int playerId = GameManager.Instance.playerData.id;
 
-        string url =
-            "https://userservice-production-fd72.up.railway.app/api/currency/addGold?playerId=" +
+        string url = ApiConfigLoader.Config.baseUrl+
+            "/api/currency/addGold?playerId=" +
             playerId + "&amount=" + amount;
 
         UnityWebRequest req = UnityWebRequest.PostWwwForm(url, "");

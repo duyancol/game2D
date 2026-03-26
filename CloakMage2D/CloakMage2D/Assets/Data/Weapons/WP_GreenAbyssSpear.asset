@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   weaponId: eqip_green
   weaponName: "Gi\xE1o Cu\u1ED3ng Phong"
-  uiIcon: {fileID: 21300000, guid: 9c915167e9c77e94593210474df2c6e7, type: 3}
-  weaponSprite: {fileID: 21300000, guid: 9c915167e9c77e94593210474df2c6e7, type: 3}
-  localPos: {x: 1, y: -1.2, z: 0}
-  localRotZ: -90
-  localScale: {x: 0.5, y: 0.7, z: 0}
+  uiIcon: {fileID: 5205781435752592180, guid: e463cfecfb9957243ab2a927a4cd7610, type: 3}
+  weaponSprite: {fileID: 5205781435752592180, guid: e463cfecfb9957243ab2a927a4cd7610, type: 3}
+  localPos: {x: 1.7, y: -1.2, z: 0}
+  localRotZ: -30
+  localScale: {x: 1, y: 1, z: 0}
   auraPrefab: {fileID: 0}
   auraLocalPos: {x: 0, y: 0, z: 0}
   auraLocalRot: {x: 0, y: 0, z: 0}
@@ -26,17 +26,17 @@ MonoBehaviour:
   armPrefab: {fileID: 0}
   bonus:
     addMaxHP: 0
-    addAtk: 380
+    addAtk: 700
     addSmpt: 0
     addCritChance: 0.32
     addCritDamage: 0.3
     addDef: 0
     addMdef: 0
-  level: 0
+  level: 1
   enhanceLevel: 0
   exp: 0
   ascend: 0
-  primarySkill: {fileID: 11400000, guid: 4961007657ddbf04eb91b3b52d047d70, type: 2}
-  secondarySkill: {fileID: 0}
-  ultimateSkill: {fileID: 0}
-  passiveSkill: {fileID: 0}
+  primarySkill: {fileID: 11400000, guid: 996b8acd0b8840d46ad6fa55e1ed030b, type: 2}
+  secondarySkill: {fileID: 11400000, guid: 5d43f7d14628ce24dbae7c67bfdc7442, type: 2}
+  ultimateSkill: {fileID: 11400000, guid: c9cd9ae339b71af468fe5c55f12cbf06, type: 2}
+  passiveSkill: {fileID: 11400000, guid: 9268b0a635379e4438a4f7e9c978e2a4, type: 2}

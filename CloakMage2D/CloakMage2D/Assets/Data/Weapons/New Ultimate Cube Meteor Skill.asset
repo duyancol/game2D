@@ -15,6 +15,7 @@ MonoBehaviour:
   skillName: until
   castType: 1
   skillIcon: {fileID: 6359540806183720320, guid: 556f6c576eb3eb84d8ffdf5a43d09216, type: 3}
+  useType: 0
   cooldown: 16
   meteorPrefab: {fileID: 8803481087777245685, guid: 073dcd6e43b254a4cb61d83d2761de5c, type: 3}
   fromLeftToRight: 1
@@ -27,12 +28,12 @@ MonoBehaviour:
   ultimateLocalOffset: {x: 0, y: 1, z: 0}
   ultimateLife: 0.6
   chargeDelay: 0.6
-  impactVfx: {fileID: 8520959635160816606, guid: fc805c2fdb29e70419e8880267fa5a30, type: 3}
-  explosionVfx: {fileID: 8520959635160816606, guid: fc805c2fdb29e70419e8880267fa5a30, type: 3}
+  impactVfx: {fileID: 6942700015402971325, guid: 4b31137b04e8bc947b962eb0a356cd28, type: 3}
+  explosionVfx: {fileID: 6942700015402971325, guid: 4b31137b04e8bc947b962eb0a356cd28, type: 3}
   damage: 60
   damageType: 1
   atkScale: 1
-  smptScale: 3
+  smptScale: 1.5
   canCrit: 1
   radius: 6
   hitMask:
